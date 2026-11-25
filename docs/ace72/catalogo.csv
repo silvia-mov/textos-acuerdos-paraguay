@@ -1,0 +1,156 @@
+﻿ID,TITULO,GRUPO,FECHA,ESTADO,ARCHIVO_ORIGINAL,PAGINAS,LECTURA,MD5
+acuerdo,Texto del Acuerdo (versión SICE),Acuerdo,2017-07-21,copia de acuerdo,79b770f1-9577-4a0e-91d1-3bea882bdc1a.pdf,19,OCR,a368a2829e2ccc3adb522d4f8faf8ae7
+acuerdo,Texto del Acuerdo (versión SICE),Acuerdo,2017-07-21,copia de acuerdo,ACE_COL_MER_s.pdf,19,OCR,a368a2829e2ccc3adb522d4f8faf8ae7
+acuerdo,Texto del Acuerdo (copia escaneada),Acuerdo,2017,copia de acuerdo,ae16d453-a311-4cfb-bd07-27a73b410f13.pdf,16,OCR,e8440b7e9f5bcb0a4558e16211bcbf8b
+acuerdo,Texto del Acuerdo de Complementación Económica N° 72,Acuerdo,2017-10-13,texto,00_Acuerdo.pdf,18,texto del PDF,10436a02d61afd31dc972fae0b31f8f5
+anexo_1,Anexo I (versión SICE),Acuerdo,2017,copia de anexo_1,Anx_1_s.pdf,6,texto del PDF,7e37af1ef7694287ec3187aae4887830
+anexo_1,Anexo I (versión SICE),Acuerdo,2017,copia de anexo_1,2fbbbb75-9dc2-4cae-8c26-d5bfdaf80c2d.pdf,6,texto del PDF,7e37af1ef7694287ec3187aae4887830
+anexo_1,Anexo I (copia escaneada),Acuerdo,2017,copia de anexo_1,11263ced-bbf5-4da3-9408-140638dcba37.pdf,8,OCR,ce26a32529eadfced7b21708c43346b0
+anexo_1,Anexo I – Productos sujetos al Mecanismo de Estabilización de Precios (art. 3),Acuerdo,2017,texto,01_Anexo_I.pdf,6,texto del PDF,7c83ba917bfef0dcc0142a01eee0e585
+anexo_2,Anexo II (versión SICE),Acuerdo,2017,copia de anexo_2,Anx_2_s.pdf,2,texto del PDF,42620d2e74f4b2f2b074f51d581bee5f
+anexo_2,Anexo II – Programa de Liberación Comercial (categorías de desgravación),Acuerdo,2017,texto,01_Anexo_II.pdf,2,texto del PDF,f12ae9d462546c54db72c35127113d37
+anexo_2_ap_1,"Anexo II, Apéndice 1 (versión SICE)",Acuerdo,2017,copia de anexo_2_ap_1,Anx_2_Ap1_s.pdf,246,texto del PDF,080e3d945f6edf6f7121b28c03fc938a
+anexo_2_ap_1,"Anexo II, Apéndice 1 – Preferencias otorgadas por Colombia",Acuerdo,2017,texto,02_Anexo_II_Ap_1.pdf,241,texto del PDF,2e12c0510232f66d87be4778d801012a
+anexo_2_ap_1_notas,"Anexo II, Apéndice 1 – Notas explicativas",Acuerdo,2017,texto,02_Anexo_II_Ap_1_Notas.pdf,5,texto del PDF,5cb4a62c8fd259005a77545fe2714dc5
+anexo_2_ap_2_ar,"Anexo II, Apéndice 2 Argentina (versión SICE)",Acuerdo,2017,copia de anexo_2_ap_2_ar,Anx_2_Ap2_ARG_COL_s.pdf,218,texto del PDF,a2be44654a4299a70de7ab4b21a20d94
+anexo_2_ap_2_ar,"Anexo II, Apéndice 2 – Preferencias otorgadas por Argentina a Colombia",Acuerdo,2017,texto,03_Anexo_II_Ap_2_AR_CO.pdf,217,texto del PDF,4e042282bacfe394dcf99c80d93dddd8
+anexo_2_ap_2_ar_notas,"Anexo II, Apéndice 2 Argentina – Notas explicativas",Acuerdo,2017,texto,03_Anexo_II_Ap_2_AR_CO_Notas.pdf,1,texto del PDF,b68b6f3d74c3e8ed7b159c67f2e47369
+anexo_2_ap_2_br,"Anexo II, Apéndice 2 Brasil (versión SICE)",Acuerdo,2017,copia de anexo_2_ap_2_br,Anx_2_Ap2_BRA_COL_s.pdf,202,texto del PDF,0b32517beb9245039657431b7b3ba1e3
+anexo_2_ap_2_br,"Anexo II, Apéndice 2 – Preferencias otorgadas por Brasil a Colombia",Acuerdo,2017,texto,04_Anexo_II_Ap_2_BR_CO.pdf,201,texto del PDF,6bbf9a684c6faa46f36830f46edea14f
+anexo_2_ap_2_br_notas,"Anexo II, Apéndice 2 Brasil – Notas explicativas",Acuerdo,2017,texto,04_Anexo_II_Ap_2_BR_CO_Notas.pdf,1,texto del PDF,08c89d7dada9331faee6cf35ac8aa577
+anexo_2_ap_2_py,"Anexo II, Apéndice 2 Paraguay (versión SICE)",Acuerdo,2017,copia de anexo_2_ap_2_py,Anx_2_Ap2_PAR_COL_s.pdf,200,texto del PDF,ab7bd626b4d0e4846cda67e823a43422
+anexo_2_ap_2_py,"Anexo II, Apéndice 2 – Preferencias otorgadas por Paraguay a Colombia",Acuerdo,2017,texto,05_Anexo_II_Ap_2_PY_CO.pdf,198,texto del PDF,c3a09e45554de8c3eb71319efe850b39
+anexo_2_ap_2_py_notas,"Anexo II, Apéndice 2 Paraguay – Notas explicativas",Acuerdo,2017,texto,05_Anexo_II_Ap_2_PY_CO_Notas.pdf,2,texto del PDF,8b7e519578e6870e422526333ae4a3bc
+anexo_2_ap_2_uy,"Anexo II, Apéndice 2 Uruguay (versión SICE)",Acuerdo,2017,copia de anexo_2_ap_2_uy,Anx_2_Ap2_URY_COL_s.pdf,206,texto del PDF,b73dffa551fb404c90f414830c7c4752
+anexo_2_ap_2_uy,"Anexo II, Apéndice 2 – Preferencias otorgadas por Uruguay a Colombia",Acuerdo,2017,texto,06_Anexo_II_Ap_2_UY_CO.pdf,204,texto del PDF,24a61d3f8a291e0d257ebfb2c339a620
+anexo_2_ap_2_uy_notas,"Anexo II, Apéndice 2 Uruguay – Notas explicativas",Acuerdo,2017,texto,06_Anexo_II_Ap_2_UY_CO_Notas.pdf,2,texto del PDF,c8178e01ee8c861adcebea71ad006064
+anexo_2_ap_3_1,Apéndice 3.1 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_3_1,Anx_2_Ap3_1_s.pdf,46,texto del PDF,7592136f72da81a009429e057ccf218d
+anexo_2_ap_3_1,"Anexo II, Apéndice 3.1 – Colombia a Argentina: productos con dos o más cronogramas",Acuerdo,2017,texto,07_Anexo_II_Ap_3_1.pdf,46,texto del PDF,96d1ee66f696a191371aaee52d3b0a45
+anexo_2_ap_3_2,Apéndice 3.2 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_3_2,Anx_2_Ap3_2_s.pdf,38,texto del PDF,c468046db5f1684e17ba7c2799318e86
+anexo_2_ap_3_2,"Anexo II, Apéndice 3.2 – Colombia a Brasil: productos con dos o más cronogramas",Acuerdo,2017,texto,08_Anexo_II_Ap_3_2.pdf,38,texto del PDF,d2ff806495ac4aebaf83496c58533b27
+anexo_2_ap_3_3,Apéndice 3.3 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_3_3,Anx_2_Ap3_3_s.pdf,30,texto del PDF,fa88b8ab21daa0c9701bdba06f910c0a
+anexo_2_ap_3_3,"Anexo II, Apéndice 3.3 – Colombia a Paraguay: productos con dos o más cronogramas",Acuerdo,2017,texto,09_Anexo_II_Ap_3_3.pdf,30,texto del PDF,8b2239dafdb46687c71732f282c8689d
+anexo_2_ap_3_4,Apéndice 3.4 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_3_4,Anx_2_Ap3_4_s.pdf,34,texto del PDF,8a2e551a7f0a53567c8e2eb4c78fbce4
+anexo_2_ap_3_4,"Anexo II, Apéndice 3.4 – Colombia a Uruguay: productos con dos o más cronogramas",Acuerdo,2017,texto,10_Anexo_II_Ap_3_4.pdf,34,texto del PDF,90c89399be212430d1d0d44e04db3ed0
+anexo_2_ap_4_1,Apéndice 4.1 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_4_1,Anx_2_Ap4_1_s.pdf,46,texto del PDF,7213e92cdbcbedf44e7203aa4a4736ec
+anexo_2_ap_4_1,"Anexo II, Apéndice 4.1 – Argentina a Colombia: productos con dos o más cronogramas",Acuerdo,2017,texto,11_Anexo_II_Ap_4_1.pdf,46,texto del PDF,089c81993061bb0c3dea7bafabbe2174
+anexo_2_ap_4_2,Apéndice 4.2 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_4_2,Anx_2_Ap4_2_s.pdf,8,texto del PDF,ff03a3eb986c208d1d2eb05f31217fb7
+anexo_2_ap_4_2,"Anexo II, Apéndice 4.2 – Brasil a Colombia: productos con dos o más cronogramas",Acuerdo,2017,texto,12_Anexo_II_Ap_4_2.pdf,8,texto del PDF,f2e527fb181c7fe2b27aa7eaf69f4927
+anexo_2_ap_4_3,Apéndice 4.3 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_4_3,Anx_2_Ap4_3_s.pdf,16,texto del PDF,e021f13fc95cb059328f639eb719b20b
+anexo_2_ap_4_3,"Anexo II, Apéndice 4.3 – Paraguay a Colombia: productos con dos o más cronogramas",Acuerdo,2017,texto,13_Anexo_II_Ap_4_3.pdf,16,texto del PDF,ccd988d08eb11a9cb5dda8a79b2bd5f9
+anexo_2_ap_4_4,Apéndice 4.4 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_4_4,Anx_2_Ap4_4_s.pdf,16,texto del PDF,e5c8d95494162c31a54a0fa4d36fb0d8
+anexo_2_ap_4_4,"Anexo II, Apéndice 4.4 – Uruguay a Colombia: productos con dos o más cronogramas",Acuerdo,2017,texto,14_Anexo_II_Ap_4_4.pdf,16,texto del PDF,2b4ef31d9af22fd5ea41f54c827ad407
+anexo_2_ap_5_1,"Apéndice 5.1 (versión SICE, antes de la rectificación)",Acuerdo,2017,copia de anexo_2_ap_5_1,Anx_2_Ap5_1_s.pdf,6,texto del PDF,768f30f371996f6213883169c2799048
+anexo_2_ap_5_1,"Anexo II, Apéndice 5.1 – Entendimiento Brasil–Colombia, sector automotor (rectificado)",Acuerdo,2017,texto,15_Anexo_II_Ap_5_1_Rectificado.pdf,6,texto del PDF,4e34ed6619b2ce2051666bc8075d41e6
+anexo_2_ap_5_2,"Apéndice 5.2 (versión SICE, antes de la rectificación)",Acuerdo,2017,copia de anexo_2_ap_5_2,Anx_2_Ap5_2_s.pdf,6,texto del PDF,527abe09d64612e64d34e74b714abbd3
+anexo_2_ap_5_2,"Anexo II, Apéndice 5.2 – Entendimiento Argentina–Colombia, sector automotor (rectificado)",Acuerdo,2017,texto,16_Anexo_II_Ap_5_2_Rectificado.pdf,6,texto del PDF,16f5dc75f7b416b4cfed120d1fa6536a
+anexo_2_ap_5_3,Apéndice 5.3 (versión SICE),Acuerdo,2017,copia de anexo_2_ap_5_3,Anx_2_Ap5_3_s.pdf,4,texto del PDF,df02daa5ae3a85162a13567c3afbeaff
+anexo_2_ap_5_3,"Anexo II, Apéndice 5.3 – Entendimiento Argentina–Colombia, sectores químico y plástico",Acuerdo,2017,texto,17_Anexo_II_Ap_5_3.pdf,4,texto del PDF,679a8583e15862e38b73a8eb16026b8b
+anexo_3,Anexo III (versión SICE),Acuerdo,2017,copia de anexo_3,55c24179-78b3-4877-a579-edca4f913913.pdf,6,texto del PDF,540ebb8cf63502fc7a4d690830d12c85
+anexo_3,Anexo III (versión SICE),Acuerdo,2017,copia de anexo_3,Anx_3_s.pdf,6,texto del PDF,540ebb8cf63502fc7a4d690830d12c85
+anexo_3,Anexo III – Notas complementarias del artículo 5 (gravámenes y cargas),Acuerdo,2017,texto,18_Anexo_III.pdf,6,texto del PDF,0bd220442acccb354a0860f389aa7208
+anexo_4,Anexo IV con todos sus apéndices (versión SICE),Acuerdo,2017,copia de anexo_4,Anx_4_s.pdf,96,OCR,7213a8cbc45444d5a4900e75e49f9481
+anexo_4,Anexo IV con todos sus apéndices (versión SICE),Acuerdo,2017,copia de anexo_4,95370095-19fe-444b-b282-b09d77e4b92d.pdf,96,OCR,7213a8cbc45444d5a4900e75e49f9481
+anexo_4,Anexo IV – Régimen de origen,Acuerdo,2017,texto,19_Anexo_IV.pdf,20,OCR,d6ab2f52c773ace7353bafcd468d314d
+anexo_4_ap_1,"Anexo IV, Apéndice 1 – Formulario del certificado de origen",Acuerdo,2017,texto,19_Anexo_IV_Ap_1.pdf,2,texto del PDF,59239569e94f7e17a811d535c07fd83c
+anexo_4_ap_1bis,"Anexo IV, Apéndice 1 bis – Instructivo del certificado de origen",Acuerdo,2017,texto,19_Anexo_IV_Ap_1bis.pdf,6,texto del PDF,97d4a74bbabb154b3dc608bfa861d297
+anexo_4_ap_2,"Anexo IV, Apéndice 2 – Requisitos específicos de origen del sector automotor",Acuerdo,2017,texto,19_Anexo_IV_Ap_2.pdf,16,texto del PDF,6c8cbc0f82c4f63456b4a52b668a2a69
+anexo_4_ap_3_1,"Anexo IV, Apéndice 3.1 – Requisitos específicos de origen Argentina–Colombia",Acuerdo,2017,texto,19_Anexo_IV_Ap_3_1.pdf,16,texto del PDF,33c7d3293cb4912eba8d52f8e07083d7
+anexo_4_ap_3_2,"Anexo IV, Apéndice 3.2 – Requisitos específicos de origen Brasil–Colombia",Acuerdo,2017,texto,19_Anexo_IV_Ap_3_2.pdf,24,texto del PDF,bbc3f17bfe2c799a33c66fb90ef2885c
+anexo_4_ap_3_3,"Anexo IV, Apéndice 3.3 – Requisitos específicos de origen Paraguay–Colombia",Acuerdo,2017,texto,19_Anexo_IV_Ap_3_3.pdf,2,texto del PDF,3403b17e16acfecf6ea7891f667c7f46
+anexo_4_ap_3_4,"Anexo IV, Apéndice 3.4 – Requisitos específicos de origen Uruguay–Colombia",Acuerdo,2017,texto,19_Anexo_IV_Ap_3_4.pdf,2,texto del PDF,23e579155b8cb943bfee8185ac879d86
+anexo_4_ap_4,"Anexo IV, Apéndice 4 – Mecanismo de excepción al régimen de origen por desabastecimiento",Acuerdo,2017,texto,19_Anexo_IV_Ap_4.pdf,8,texto del PDF,eda112c1cd8f645bd0d455842c8c0700
+anexo_5,Anexo V (versión SICE),Acuerdo,2017,copia de anexo_5,Anx_5_s.pdf,10,OCR,af6dbd1ece8b970fb62238c28c8ab556
+anexo_5,Anexo V (versión SICE),Acuerdo,2017,copia de anexo_5,198d778f-7d97-4c93-b7ac-da95838fe0ea.pdf,10,OCR,af6dbd1ece8b970fb62238c28c8ab556
+anexo_5,Anexo V – Régimen de salvaguardias,Acuerdo,2017,texto,20_Anexo_V.pdf,10,OCR,adcadd322b676847770a65f125303471
+anexo_6,Anexo VI (versión SICE),Acuerdo,2017,copia de anexo_6,f99d3289-887d-40af-be08-1c84ec920d03.pdf,6,texto del PDF,5eda1997948dce08545a70cab4d73c62
+anexo_6,Anexo VI (versión SICE),Acuerdo,2017,copia de anexo_6,Anx_6_s.pdf,6,texto del PDF,5eda1997948dce08545a70cab4d73c62
+anexo_6,Anexo VI – Régimen transitorio de solución de controversias,Acuerdo,2017,texto,21_Anexo_VI.pdf,6,texto del PDF,ace0e4026e8faca397fe28f3009e927f
+anexo_7,Anexo VII (versión SICE),Acuerdo,2017,copia de anexo_7,e9de6f08-2684-4e1b-8041-50f6ec8c68f7.pdf,6,texto del PDF,0da937241be4bf3dadb99a15f88ab8b0
+anexo_7,Anexo VII (versión SICE),Acuerdo,2017,copia de anexo_7,Anx_7_s.pdf,6,texto del PDF,0da937241be4bf3dadb99a15f88ab8b0
+anexo_7,Anexo VII – Obstáculos técnicos al comercio,Acuerdo,2017,texto,22_Anexo_VII.pdf,6,texto del PDF,173dd57fef4530d4d7b1244d54873159
+anexo_8,Anexo VIII (versión SICE),Acuerdo,2017,copia de anexo_8,988b8427-44a6-4669-b95b-b80838923a36.pdf,10,texto del PDF,22eec97bd35a9e0760ad002ff862a788
+anexo_8,Anexo VIII (versión SICE),Acuerdo,2017,copia de anexo_8,Anx_8_s.pdf,10,texto del PDF,22eec97bd35a9e0760ad002ff862a788
+anexo_8,Anexo VIII – Medidas sanitarias y fitosanitarias,Acuerdo,2017,texto,23_Anexo_VIII.pdf,10,texto del PDF,3b57ea2942e6523dda56613f727fb680
+anexo_9,Anexo IX (versión SICE),Acuerdo,2017,copia de anexo_9,07d78171-cff1-4080-ac0a-6a6efb13f62e.pdf,10,OCR,7dab77671163f56d41bd769bb504d428
+anexo_9,Anexo IX (versión SICE),Acuerdo,2017,copia de anexo_9,Anx_9_s.pdf,10,OCR,7dab77671163f56d41bd769bb504d428
+anexo_9,Anexo IX – Medidas especiales,Acuerdo,2017,texto,24_Anexo_IX.pdf,10,OCR,72dcc61b2fe36d3db832a3dc8fa39c1f
+ace59,"ACE 59 (antecedente): Anexo III notas complementarias, escaneado",Antecedente: ACE 59,2004,aparte,ea62bfc5-95dd-46cb-a2e7-b524f45e4766.pdf,8,OCR,220e94327ab36bfcbd7dbd5684ec280c
+ace59,"ACE 59 (antecedente): índice, escaneado",Antecedente: ACE 59,2004,aparte,2796b737-082c-4b0d-83b6-139efc41283b.pdf,3,OCR,44d60ca0d3041e6ccc230faf17d3aa8b
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,d27363a4-d5f2-4f38-a165-18a8dd22caf4.pdf,1,texto del PDF,44f5dbd785d999921663d1142980ca0f
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,b96cc541-d05a-46cc-9790-8de9d2449f73.pdf,2,texto del PDF,487b98b259b87b858ce5e7a7b3e016a4
+ace59,"ACE 59 (antecedente, escaneado)",Antecedente: ACE 59,,aparte,9249b87c-05c4-49f0-912f-23e1ff601bfc.pdf,4,OCR,53f68d28f4cc54b53f54bfb390c7c0ec
+ace59,"ACE 59 (antecedente): Anexo VII normas técnicas, escaneado",Antecedente: ACE 59,2004,aparte,44549682-24f6-43b0-a335-5e5e8e879123.pdf,6,OCR,73ad18a91699d761638a35043a64fd23
+ace59,"ACE 59 (antecedente): Anexo V salvaguardias, escaneado",Antecedente: ACE 59,2004,aparte,5b64dd94-0b62-4416-ac72-680c63c98d86.pdf,11,OCR,75bc9ce2b60867ef566f1b9888441ab5
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,85413d37-c766-48de-ab6b-f3dd31b6bbc6.pdf,2,texto del PDF,7cb612f7db4c73705b45bc75e6a551a6
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,de230c90-7a1e-4c4b-8ad5-8203e788f081.pdf,11,texto del PDF,88e82802cc20b1514492717cbb859847
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,c2d0c8fb-af75-492e-ab78-ec4c53b493a2.pdf,1,texto del PDF,914348e66e3d06f822ff98d6d0465171
+ace59,"ACE 59 (antecedente): Anexo VI solución de controversias, escaneado",Antecedente: ACE 59,2004,aparte,2d4851f6-646f-44e3-90cd-3deda44d7e61.pdf,7,OCR,9d17a0dbc801e3527b03e78050f032e7
+ace59,ACE 59 (antecedente): texto y anexos,Antecedente: ACE 59,2004,aparte,39eb88af-fafb-46d8-943f-e354b646b4bf.pdf,78,texto del PDF,a0a52928265e7ec19fc1aab3a25d7590
+ace59,"ACE 59 (antecedente): Anexo VIII medidas sanitarias, escaneado",Antecedente: ACE 59,2004,aparte,b8c84b6c-3992-470a-9e07-17b986251d4a.pdf,10,OCR,a9779974ed3b0fa6efea25c9e8f87493
+ace59,"ACE 59 (antecedente): Anexo IX medidas especiales, escaneado",Antecedente: ACE 59,2004,aparte,6ec29a47-32e0-40c0-ae68-0797df8bd16b.pdf,18,OCR,ab21d7e4911ccfd4e743dd89cdaa8d8f
+ace59,ACE 59 (antecedente): protocolo o versión,Antecedente: ACE 59,2004,aparte,4884c098-d784-45a2-9db8-c7a9029397ee.pdf,66,texto del PDF,c8153c0a04ccd8877493e820a5dd8b8c
+ace59,ACE 59 (antecedente),Antecedente: ACE 59,,aparte,c496122c-9b5f-4d40-bd25-4c35d96bb65d.pdf,10,texto del PDF,cdcb1c7641f1cb61f47fbde632cd567e
+contingente_carne_bovina,Contingente para carne de bovino Colombia–MERCOSUR,Contingentes,,texto,9ded7260-e82f-4a67-a4db-e4d2d35c8fe8.pdf,1,texto del PDF,53f38410ed1d39f6cbc769e8759f9db9
+contingente_confiteria_co_ar,Contingente para confitería y chocolatería Colombia–Argentina,Contingentes,,texto,487d755a-93f1-43b0-8a1d-ccbc78b3436e.pdf,1,texto del PDF,4d98ce7bb605786527e07ed07493c1cc
+contingente_lacteos,Contingente para lácteos Colombia–MERCOSUR,Contingentes,,texto,7ade9b61-a2de-4980-bc19-22b5905860a8.pdf,2,texto del PDF,d5dc1e049543abfafb138d4aa1aa34c1
+contingente_metalmecanica_br_co,Contingente para metalmecánica Brasil–Colombia,Contingentes,,texto,be9a2871-844c-4f93-beed-a96ee1e56a37.pdf,3,texto del PDF,d4b00597032d45202fa6a010434aa878
+contingente_plasticos_co_ar,Contingente para plásticos Colombia–Argentina,Contingentes,,texto,43d1a06f-5f3d-4d0a-809a-bdf22a8ea9a0.pdf,1,texto del PDF,0325a04a46f38ca9a4c5f25e5f85262d
+contingente_preparaciones_carnicas,Contingente para preparaciones cárnicas Colombia–MERCOSUR,Contingentes,,texto,e5f3cb73-3831-41f5-a589-7896516bcb7b.pdf,2,texto del PDF,f848173a6bc0ae5597c31be214a2452e
+contingente_quimicos_co_ar,Contingente para químicos Colombia–Argentina,Contingentes,,texto,9222dd49-3cb1-4fb9-96f5-81138b9ed2c1.pdf,1,texto del PDF,e7f5b913b5494591a7135969ccb4eae2
+contingente_vehiculos_co_ar,Contingente para vehículos Colombia–Argentina,Contingentes,,texto,06c9c7ae-2ec6-46c3-a5c0-54d95cac0d3b.pdf,2,texto del PDF,6817c3fcd20d32720ccc0cfbfb258209
+contingente_vehiculos_co_br,Contingente para vehículos Colombia–Brasil,Contingentes,,texto,0f4c93b4-45ea-429e-8a83-99db3270cf94.pdf,3,texto del PDF,f72c86cfd0d842ae83f78acf6b409cfe
+escaso_abasto,Mecanismo de escaso abasto (tlc.gov.co),Contingentes,,referencia,Mecanismo de escaso abasto _ TLC.pdf,7,texto del PDF,46783d9e146c8bd29b7c65dd478cb3a6
+datos_omc,"OMC: lista consolidada de Colombia (SA 2017), Excel",Datos,,aparte,Colombia_CTS_HS17.xlsx,,,4e9d2e6fb3d05d518e9207788edd61f0
+datos_omc,OMC: aranceles NMF aplicados (descarga del 25/11/2026),Datos,,aparte,adb_mfn_applied_duty_25_11_2026_17_54_17.csv,,,5d8782da220aaf41208bd900a1eec433
+datos_omc,OMC: aranceles consolidados (descarga del 25/11/2026),Datos,,aparte,adb_final_bound_duty_25_11_2026_17_55_07.csv,,,c1156c3120f714600f005184a473dc99
+error,Página de error de la ALADI (archivo no encontrado),Fichas y páginas web,,aparte,Unable to Process Request.pdf,1,texto del PDF,79474ea5d4bf99b2a2281081fa96af7a
+ficha_aladi,Ficha ALADI: Segundo Protocolo Adicional,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 6.pdf,2,texto del PDF,16d9f1845066646caab48581c370a751
+ficha_aladi,Ficha ALADI: Acta de Rectificación,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 10.pdf,2,texto del PDF,662a425cf7bd05969f23ecb3ae6a7525
+ficha_aladi,ALADI: lista de acuerdos de Paraguay,Fichas y páginas web,,referencia,000.pdf,5,texto del PDF,7e4ffb2e6b74dafbc8d4157383601b01
+ficha_aladi,Ficha ALADI: Entendimiento Brasil–Colombia (automotor),Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 2.pdf,2,texto del PDF,8e366c46a1cdf0d8d7fc3d58ebe8fb96
+ficha_aladi,Ficha ALADI: Cuarto Protocolo Adicional,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 4.pdf,2,texto del PDF,9094e3b4fcea46e0c6a16ae2867ac11b
+ficha_aladi,Ficha ALADI: Primer Protocolo Adicional,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 9.pdf,3,texto del PDF,941ddcc05a2d78ae3972d618ae1fe6cd
+ficha_aladi,Ficha ALADI: Tercer Protocolo Adicional,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 5.pdf,2,texto del PDF,97a1e5979a0785052cfb544604b3ef60
+ficha_aladi,Ficha ALADI: Acuerdo rectificado,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 12.pdf,5,texto del PDF,b2fbb11c805579f67d94b8df0718230f
+ficha_aladi,Ficha ALADI: Revocatoria de la denuncia del Apéndice 5.1,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial.pdf,2,texto del PDF,c2a065263a005251fc311c7a150051ec
+ficha_aladi,Ficha ALADI: Acuerdo,Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 13.pdf,5,texto del PDF,c56a84e7da8e79defc4b432ef7dd513f
+ficha_aladi,"Ficha ALADI: Denuncia del Apéndice 5.1 (Colombia, 30/09/2024)",Fichas y páginas web,,referencia,Acuerdo Acuerdos de Alcance Parcial 3.pdf,2,texto del PDF,efe7f38d270eaa4830ce4a3018ba06db
+web_mef_uruguay,MEF de Uruguay: ficha del ACE 72,Fichas y páginas web,,referencia,ACE 72 Colombia - Mercosur _ MEF.pdf,3,texto del PDF,a0c956a855a3305ba13108aab29f70e9
+web_sice,SICE (OEA): texto del Acuerdo en la web,Fichas y páginas web,,referencia,SICE - Colombia-MERCOSUR Acuerdo de Complementaci,6,texto del PDF,442893ded0c141e1bf6d8ea77098cc0a
+web_sice,SICE (OEA): índice del Acuerdo,Fichas y páginas web,,referencia,SICE_ Acuerdos Comerciales_ Colombia-MERCOSUR Acuerdo de Complementaci,3,texto del PDF,a5fc4ea67a85edee76e78354d3f1b2c7
+web_tlc_colombia,Ministerio de Comercio de Colombia: ficha del ACE 72,Fichas y páginas web,,referencia,Mercosur No. 72 Colombia Mercosur _ TLC.pdf,8,texto del PDF,92f6d1b449a42c2cf64a6a950b1862ff
+decreto_co_1140_2005,"Colombia, Decreto 1140 de 2005: contingentes de acceso preferencial (ACE 59)",Normas de Colombia,2005-04-14,aparte,5891ba92-9bde-4b50-803b-d01cc94fce47.pdf,3,texto del PDF,e86a25d977f9ccd169d9b1244acf4f33
+decreto_co_141_2005,"Colombia, Decreto 141 de 2005: cumplimiento de compromisos del ACE 59",Normas de Colombia,2005-01-26,aparte,b3aabb31-eeef-4ce8-b216-d2f3ccb70ca3.pdf,1009,texto del PDF,7ab456bc675e2bb5fbee5e6b74aba35d
+decreto_co_1881_2021,"Colombia, Decreto 1881 de 2021: Arancel de Aduanas",Normas de Colombia,2021-12-30,aparte,Decreto 1881 de 2021.pdf,549,texto del PDF,aed6dd9f43bb76bfc3617bb311ab66fe
+decreto_co_2017,Colombia: decreto del Ministerio de Comercio (copia escaneada),Normas de Colombia,,aparte,c9b8767a-1e9d-4d6e-bbfb-bed77591b35c.pdf,6,texto del PDF,668385230ec3f3f3bf4d485cb8ab692d
+decreto_co_2111_2017,"Colombia, Decreto 2111 de 2017: aplicación provisional del ACE 72 (con el texto completo)",Normas de Colombia,2017-12-15,copia de acuerdo,952393a8-aa30-4328-908c-c2f13e00a4ea.pdf,837,texto del PDF,f4cfbaa8a346e77d4711f725f51887a6
+acta_rectificacion_1,Acta de Rectificación N° 1 (fórmulas de los Apéndices 5.1 y 5.2),Rectificaciones y protocolos,2021-07-19,texto,ACE_072_ACR_001.pdf,6,texto del PDF,80a9526e03e6ced8ca9dba70a6170d6f
+entendimiento_br_co_2025,Entendimiento Brasil–Colombia sobre preferencias del sector automotor (ALADI/CR/di 5854),Rectificaciones y protocolos,2025-11-07,texto,5854.pdf,5,texto del PDF,d44b2b9437ff3ce2a5f2fb27b9f04ae4
+protocolo_1,Primer Protocolo Adicional (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1,00c47735-22e4-4414-8be8-c1006d5e2f46.pdf,21,OCR,6b72f8ad398db1ca3d1eb2938b1d728d
+protocolo_1,Primer Protocolo Adicional – Comercio de servicios (ALADI/AAP.CE/72.1),Rectificaciones y protocolos,2020-12-21,texto,00_texto_Protocolo.pdf,21,texto del PDF,13399984b89154166b29aea4473f5e85
+protocolo_1_anexo_1,Anexo 1 Servicios financieros (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_anexo_1,b1321f15-c7fc-4272-8cc1-d87b47008a72.pdf,7,OCR,292a119cf515a0020eef8624a26f47ea
+protocolo_1_anexo_1,"Primer Protocolo, Anexo 1 – Servicios financieros",Rectificaciones y protocolos,2020,texto,01_Anexo_1.pdf,6,texto del PDF,f3e4dfe3018143741a24017a2dc0e810
+protocolo_1_anexo_2,Anexo 2 Telecomunicaciones (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_anexo_2,716fbd69-f1f4-4627-bce3-152733ec39df.pdf,7,OCR,070a9d93bae7f18d9f03ecfc18773b25
+protocolo_1_anexo_2,"Primer Protocolo, Anexo 2 – Servicios de telecomunicaciones",Rectificaciones y protocolos,2020,texto,02_Anexo_2.pdf,6,texto del PDF,fa40badc4fdc756cf7c062bd277da9d6
+protocolo_1_anexo_3,"Primer Protocolo, Anexo 3 – Pagos y movimientos de capital",Rectificaciones y protocolos,2020,texto,44b90318-610a-480f-a0e7-66e82ad513ee.pdf,1,OCR,ed16a9cc78edc805aa19c4937c86ac2a
+protocolo_1_apendice_1,Apéndice 1 personas físicas (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_apendice_1,8f75b718-3281-4f7f-8dc7-11f80231dc75.pdf,3,OCR,8e62d177cb57c7683c1772dc5873d149
+protocolo_1_apendice_1,"Primer Protocolo, Apéndice 1 – Movimiento de personas físicas proveedoras de servicios",Rectificaciones y protocolos,2020,texto,05_Ap,2,texto del PDF,f1f7794622ee26f82f1b7deb3f387cf5
+protocolo_1_lista_ar,Lista de Argentina (otra copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_lista_ar,ac888778-a875-4ece-815e-596cc18ff9e1.pdf,26,OCR,31878511099f4c4becdd46566c5a3057
+protocolo_1_lista_ar,"Primer Protocolo, Anexo IV – Lista de compromisos de Argentina",Rectificaciones y protocolos,2020,texto,04_Anexo_4_Lista_Oferta_Argentina.pdf,24,OCR,1263fdf65c33194383d60bcca580befd
+protocolo_1_lista_br,Lista de Brasil (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_lista_br,3a97b88f-48e9-4c38-a73d-d88aa2d8b349.pdf,34,OCR,eec30765519284e41d7a1641734264e7
+protocolo_1_lista_br,"Primer Protocolo, Anexo IV – Lista de compromisos de Brasil",Rectificaciones y protocolos,2020,texto,04_Anexo_4_Lista_Oferta_Brasil.pdf,40,texto del PDF,dbe67b4ac79061a00a03410fe0c1f1f1
+protocolo_1_lista_co,Lista de Colombia (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_lista_co,18376f7f-3f7b-4acc-b3b2-5047ae7ed86f.pdf,51,OCR,fd65bf367f86b8a29580b0ee10bf989b
+protocolo_1_lista_co,"Primer Protocolo, Anexo IV – Lista de compromisos de Colombia",Rectificaciones y protocolos,2020,texto,04_Anexo_4_Lista_Oferta_Colombia.pdf,38,texto del PDF,bc8cac1639a9aa75f52e11713674ce8f
+protocolo_1_lista_py,Lista de Paraguay (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_lista_py,b589ff69-dc57-4dfd-8925-c15df9d12b1a.pdf,30,OCR,9cafcfd15b72abe43116206ade9cad37
+protocolo_1_lista_py,"Primer Protocolo, Anexo IV – Lista de compromisos de Paraguay",Rectificaciones y protocolos,2020,texto,04_Anexo_4_Lista_Oferta_Paraguay.pdf,24,texto del PDF,0e2bd9e676bb586507b2665e5682421e
+protocolo_1_lista_uy,Lista de Uruguay (copia escaneada),Rectificaciones y protocolos,2020,copia de protocolo_1_lista_uy,374d1b45-c944-45e5-aebe-7723310a4486.pdf,33,OCR,e4f415ffaf03ff753f69be0461253331
+protocolo_1_lista_uy,"Primer Protocolo, Anexo IV – Lista de compromisos de Uruguay",Rectificaciones y protocolos,2020,texto,04_Anexo_4_Lista_Oferta_Uruguay.pdf,28,texto del PDF,5d8f081abb5941f4093e58c4b524c761
+protocolo_2,"Segundo Protocolo Adicional – Certificado de origen, sector automotor (ALADI/AAP.CE/72.2)",Rectificaciones y protocolos,2022-05-02,texto,ACE_072_002.pdf,2,texto del PDF,f65a7ca046132a5e4a590016d9c2cfcf
+protocolo_2,"Segundo Protocolo Adicional – Certificado de origen, sector automotor (ALADI/AAP.CE/72.2)",Rectificaciones y protocolos,2022-05-02,texto,ef3ae4ac-dc4a-4190-861a-f3680b2ac860.pdf,2,texto del PDF,f65a7ca046132a5e4a590016d9c2cfcf
+protocolo_2,"Segundo Protocolo Adicional – Certificado de origen, sector automotor (ALADI/AAP.CE/72.2)",Rectificaciones y protocolos,2022-05-02,texto,2_4_6_0_1_ACE_072_002.pdf,2,texto del PDF,f65a7ca046132a5e4a590016d9c2cfcf
+protocolo_3,"Tercer Protocolo Adicional – Certificado de origen, otros sectores (ALADI/AAP.CE/72.3)",Rectificaciones y protocolos,2022-05-02,texto,fdd5e2e0-748f-4676-babb-d5b59dd4dfcf.pdf,2,texto del PDF,1d71d6dc5e5a2c885e6864210f895c49
+protocolo_3,"Tercer Protocolo Adicional – Certificado de origen, otros sectores (ALADI/AAP.CE/72.3)",Rectificaciones y protocolos,2022-05-02,texto,ACE_072_003.pdf,2,texto del PDF,1d71d6dc5e5a2c885e6864210f895c49
+protocolo_4,Cuarto Protocolo (otra descarga),Rectificaciones y protocolos,2022-07-29,copia de protocolo_4,2f11419a-e3a2-48c0-8e7e-e391cd09548c.pdf,2,texto del PDF,d0641b0ef0b62b61f4e5479a11579459
+protocolo_4,Cuarto Protocolo Adicional – Zonas francas Brasil–Colombia (ALADI/AAP.CE/72.4),Rectificaciones y protocolos,2022-07-29,texto,ACE_072_004.pdf,2,texto del PDF,09ccd47859afaffbfd12b79874600376
+revocatoria_denuncia_2026,Revocatoria de la denuncia del Apéndice 5.1 del Anexo II (ALADI/CR/di 5944),Rectificaciones y protocolos,2026-06-16,texto,5944.pdf,4,texto del PDF,4d315f4a661556a4da6c0803a2808d2c

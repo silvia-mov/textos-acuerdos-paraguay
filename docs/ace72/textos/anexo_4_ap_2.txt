@@ -1,0 +1,571 @@
+ANEXO IV
+
+       RÉGIMEN DE ORIGEN
+
+      Apéndice 2 – Artículo 5
+
+  Requisitos específicos de origen
+para productos del Sector Automotor
+
+              1383
+
+1384
+
+            REQUISITOS ESPECÍFICOS DE ORIGEN PARA PRODUCTOS DEL
+                             SECTOR AUTOMOTOR
+
+Artículo 1.- Los requisitos que se establecen en el presente Anexo se aplicarán a los productos que
+a continuación se señalan, conforme su clasificación establecida en los Apéndices I, II y III, a
+excepción de los productos señalados con un asterisco (*), a los cuales corresponde aplicar: para el
+caso de Argentina y Colombia el Requisito Específico de Origen indicado en el apéndice bilateral
+3.1; para el caso de Brasil y Colombia el indicado en el apéndice bilateral 3.2:
+
+1. Vehículos y sus carrocerías, remolques y semirremolques, y tractores agrícolas, cosechadoras,
+   maquinaria agrícola y maquinaria vial autopropulsadas (comprendidos en las posiciones
+   NALADISA, con sus respectivas descripciones, que figuran en el Apéndice I):
+a) Automóviles y otros vehículos de peso total con carga máxima inferior o igual a 5.000 kg -cinco
+   mil kilogramos- (comerciales livianos, chasis con motor y cabina y carrocerías para esos
+   vehículos, camiones y chasis con motor y cabina de peso total con carga máxima inferior o igual
+   a 5.000 kg -cinco mil kilogramos-) y vehículos para el transporte de hasta 16 personas, incluido
+   el conductor;
+b) Ómnibus (ómnibus completos para el transporte de más de 16 personas, incluido el conductor y
+   chasis para omnibuses);
+c) Otros vehículos de peso total con carga máxima superior a 5.000 kg -cinco mil kilogramos-
+   (camiones, tractores de carretera para semirremolques y chasis con motor y cabina de peso
+   total con carga máxima superior a 5.000 kg -cinco mil kilogramos-);
+d) Carrocerías;
+e) Remolques y semirremolques; y
+f) Tractores agrícolas, cosechadoras, maquinaria agrícola y maquinaria vial autopropulsadas.
+
+2. Autopartes (piezas, conjuntos y subconjuntos, con sus respectivas descripciones, que figuran en
+   los Apéndices II y III), tanto las necesarias para la producción de los vehículos listados en los
+   literales a) a f) del numeral 1, como las necesarias para la producción de los bienes indicados en
+   este numeral 2, así como también las destinadas al mercado de reposición.
+
+Artículo 2.- La determinación del Índice de Contenido Regional (ICR) de un producto automotor
+contenido en los literales a) al c) del numeral 1 del Artículo 1 y los conjuntos y subconjuntos de
+autopartes incluidos en el Artículo 1 numeral 2, será de la siguiente forma:
+
+1) Para el caso de los Estados Partes del MERCOSUR:
+
+            Valor de los materiales
+                no originarios
+ICR= (1 - _____________________ ) x 100
+             Precio del Producto
+               “ex – fábrica”
+
+Salvo por lo dispuesto en el Artículo 3, un producto automotor contenido en los literales a) al c) del
+Artículo 1 numeral 1, será considerado como originario si, como resultado de un proceso de
+producción realizado enteramente en el, o los, territorios de una o más de las Partes Signatarias el
+Índice de Contenido Regional (ICR) es al menos de 60% para Argentina o Brasil y 50% para
+Paraguay o Uruguay; y los conjuntos o los subconjuntos conformados por autopartes contenidas en
+el Artículo 1 numeral 2 cumplirán los mismos Índices de Contenido Regional (ICR), según país.
+
+                                                1385
+
+2) Para el caso de Colombia:
+
+Para los productos automotores contenidos en los literales a) al c) del Artículo 1 numeral 1 la
+determinación del Índice de Contenido Regional (ICR) será:
+               MO
+   ICR = ______________ X 100
+            MO + MNO
+
+MO:    Sumatoria del valor de los materiales originarios de las Partes Signatarias, incluyendo CKD
+       compuesto exclusivamente por partes o piezas originarias de las Partes Signatarias.
+
+MNO: Sumatoria del valor de los materiales y CKD no originarios de las Partes Contratantes.
+
+Para el cálculo de los Índices de Contenido Regional (ICR) de los productos automotores de los que
+trata este numeral 2, en cuyo ensamblaje se utilicen conjuntos o subconjuntos producidos en el
+territorio de una o más de las Partes Signatarias, se procederá así:
+
+a) Los conjuntos o subconjuntos se desagregarán en las autopartes que los conforman y se
+   determinará el origen de cada una de ellas;
+b) Las autopartes no originarias se llevarán al factor MNO; al factor MO se llevará una cifra igual al
+   valor del conjunto o subconjunto menos el valor de las autopartes llevadas al factor MNO.
+
+El Índice de Contenido Regional (ICR), según categoría, es de al menos:
+
+CATEGORÍA 1
+
+                                    Colombia
+           Año calendario
+               2011                  36,5%
+
+Las Partes Signatarias analizarán el aumento de los ICR para alcanzar el 50% para Colombia hasta
+2017. Se analizará asimismo la continuación del cronograma de liberación comercial para los años
+2011 y siguientes. Hasta que se alcance una solución mutuamente satisfactoria, se mantendrán
+para el año 2012 y siguientes los valores de ICR y preferencias arancelarias mutuas vigentes en
+2011.
+
+CATEGORÍA 2 a
+
+             Año calendario Colombia         Colombia
+
+                              (vehículo)     (chasis)
+
+                  2011          36,8%          19,0%
+
+                                                1386
+
+Las Partes Signatarias analizarán el aumento de los ICR para alcanzar el 50% en los vehículos y
+37,5% en sus chasis para Colombia hasta 2017. Se analizará asimismo la continuación del
+cronograma de liberación comercial para los años 2012 y siguientes. Hasta que se alcance una
+solución mutuamente satisfactoria, se mantendrán para el año 2012 y siguientes los valores de ICR
+y preferencias arancelarias mutuas vigentes en 2011.
+
+CATEGORÍA 2 b
+
+                                             Colombia
+                   Año calendario
+
+                       2011                       19,0%
+
+Las Partes Signatarias analizarán el aumento de los ICR para alcanzar el 37,5% para Colombia
+hasta 2017. Se analizará asimismo la continuación del cronograma de liberación comercial a partir
+de 2011. Hasta que se alcance una solución mutuamente satisfactoria, se mantendrán para el año
+2012 y siguientes los valores de ICR y preferencias arancelarias mutuas vigentes en 2011.
+
+3)     Para los conjuntos y subconjuntos el ICR se determinará según lo establecido en el numeral
+1 precedente cuando corresponda a una exportación del MERCOSUR, y con el cronograma de ICR
+que corresponda según el vehículo al que pertenezca dicho conjunto o subconjunto, cuando se trate
+de una exportación de Colombia.
+
+Artículo 3.- Un producto automotor de nuevo modelo contenido en los literales a) al c) del Artículo 1
+numeral 1 y para los conjuntos y subconjuntos de autopartes incluidos en el Artículo 1 numeral 2,
+será considerado como originario de una Parte Signataria del MERCOSUR si, como resultado de un
+proceso de producción realizado enteramente en el territorio del MERCOSUR, el Índice de
+Contenido Regional (ICR) es al menos de:
+
+      A partir de su lanzamiento    Argentina o     Paraguay o
+               comercial               Brasil        Uruguay
+               Primer año              40%             30%
+             Segundo año               50%             35%
+               Tercer año                              40%
+              Cuarto año                               45%
+
+Para Brasil y Argentina, en el tercer año posterior al lanzamiento comercial, y para Uruguay en el
+quinto año posterior al lanzamiento comercial, se deberá cumplir con el Índice de Contenido
+Regional (ICR) aplicable de conformidad con lo dispuesto en el Artículo 2 párrafo 2.
+
+Para efectos del párrafo anterior se considerará como un producto automotor de nuevo modelo, los
+vehículos contenidos en los literales a) al c) Artículo 1 del numeral 1 que sean producidos a partir
+de:
+
+(i)        una plataforma que el productor de vehículos no haya producido anteriormente en el
+           territorio de la Parte Signataria en donde se encuentre ubicado;
+(ii)       una nueva carrocería sobre una plataforma que el productor de vehículos produzca en el
+           territorio de la Parte Signataria en donde se encuentre ubicado, o
+
+                                                          1387
+
+(iii)        modificaciones significativas en un mismo nombre de modelo producido por el productor de
+             vehículos en el territorio de la Parte Signataria en donde se encuentre ubicado y que
+             requieran de nuevo herramental.
+
+Artículo 4.- La determinación del Índice de Contenido Regional (ICR) de un producto automotor
+contenido en los literales d) a f) del Artículo 1 numeral 1, será de la siguiente forma:
+
+Para el caso de los Estados Partes del MERCOSUR la determinación del Índice de Contenido
+Regional (ICR) seguirá la regla establecida en el Artículo 2 numeral 1. Para el caso de Colombia,
+aquellos que no estén elaborados en su totalidad con materiales originarios de una o más de las
+Partes Signatarias, que incorporen materiales no originarios sin que se clasifiquen en una partida
+diferente de aquellas en las que se clasifiquen cada uno de los materiales no originarios:
+
+a) Hasta el 31/12 de 2009 el valor CIF de los materiales no originarios no excederá el 50% del
+   valor FOB de exportación del producto para Colombia;
+b) Desde el 1/01 de 2010 hasta el 31/12 de 2017 el porcentaje máximo admisible de materiales no
+   originarios se reducirá anualmente en forma lineal y automática hasta alcanzar el 45% para
+   Colombia;
+c) Las Partes Signatarias analizarán la posibilidad de reducir el porcentaje establecido para 2011 a
+   partir del 2012 y hasta un tope mínimo en 2017 del 40% para Colombia. Se analizará asimismo
+   la continuación del cronograma de liberación comercial a partir de 2011. Hasta que se alcance
+   una solución mutuamente satisfactoria, se mantendrán para el año 2012 y siguientes los valores
+   de ICR y las preferencias arancelarias mutuas vigentes en 2011.
+
+Artículo 5.- Un producto automotor contenido en el Artículo 1 numeral 2 (excepto los conjuntos o
+los subconjuntos conformados por autopartes contenidas en el Artículo 1 numeral 2), será
+considerado como originario si es:
+
+a) Obtenido en su totalidad o producido enteramente en territorio de una o más de las Partes
+   Signatarias; o
+b) Producido enteramente en territorio de una o más de las Partes Signatarias, exclusivamente con
+   materiales que califiquen como originarios de conformidad con el Régimen de Origen de este
+   Acuerdo; o
+c) Elaborado utilizando materiales no originarios siempre que resulte de un proceso de producción
+   realizado enteramente en territorio de una o más de las Partes Signatarias de forma que el bien
+   se clasifique en una partida diferente de las de dichos materiales según la NALADISA; o
+d) Elaborado utilizando materiales no originarios que no cumplan con lo dispuesto en el literal c)
+   precedente, siempre que resulte de un proceso de producción realizado enteramente en
+   territorio de una o más de las Partes Signatarias, y cuando el valor CIF de los materiales
+   importados no supere:
+
+        i.   Para el caso del MERCOSUR 55% del valor FOB de exportación del producto.
+
+    ii.      Para los productos comprendidos en las codificaciones NALADISA que figuran en el
+             apéndice II, según el siguiente cuadro
+
+                                                  1388
+
+           Año de         Colombia
+          aplicación
+
+         2004 a 2011        55,0%
+
+           2012 en          50,0%
+           adelante
+
+  iii.   Para los productos comprendidos en las codificaciones NALADISA que figuran en el
+         apéndice III, según el siguiente cuadro
+
+           Año de         Colombia
+          aplicación
+
+         2004 a 2011        50,0%
+
+           2012 en          45,0%
+           adelante
+
+Las Partes Signatarias analizarán la posibilidad de que Colombia reduzca los porcentajes
+establecidos en los incisos ii. y iii. precedentes hasta 45% y 40%, respectivamente. Se analizará
+asimismo la continuación del cronograma de liberación comercial a partir de 2011. Hasta que se
+alcance una solución mutuamente satisfactoria, se mantendrán para el año 2012 y siguientes los
+valores máximos de contenido importado y las preferencias arancelarias mutuas vigentes en 2011.
+
+Artículo 6.- En caso de incompatibilidad entre cualquier disposición de este anexo y cualquiera otra
+de este Acuerdo, las disposiciones de este anexo prevalecerán en la medida de la incompatibilidad.
+
+Artículo 7.- A los efectos del presente Anexo, se entenderá por:
+
+autopartes: piezas, conjuntos y subconjuntos, comprendiendo neumáticos necesarios para la
+producción de vehículos, así como las destinadas al mercado de reposición, y como también las
+necesarias para la producción de otras autopartes;
+
+bastidor: la placa inferior de un vehículo automotor; o estructura compuesta de elementos
+longitudinales y transversales que soportan los componentes principales de:
+(i)     el tren motriz (motor, transmisión, ejes propulsores, ejes motrices y no motrices del vehículo,
+        brazos de dirección); y
+(ii)    la suspensión del vehículo; estructura sobre la cual se monta la carrocería o cabina del
+        automotor y que en la descripción del tipo de vehículo se conoce en inglés como BOF (body
+        on frame);
+
+conjunto: grupo integrado por partes y piezas que conforman un sistema (suspensión, dirección,
+frenos, etc.).
+
+                                                1389
+
+carrocería autoportante: carrocería automotriz cuyo diseño permite instalar directamente a la
+cabina todos los componentes del tren motriz, dirección y suspensión del vehículo sin necesidad de
+contar con un bastidor independiente. Este tipo de vehículo se conoce como monocasco o, en
+inglés como BIF (body in frame).
+
+nombre de modelo: la palabra o grupo de palabras, letra o letras, número o números o designación
+similar asignada a un vehículo automotor por una división de comercialización de un ensamblador
+de vehículos automotores comprendidos en los literales a) a c) del párrafo 2 para:
+a) Diferenciar el vehículo automotor de otros vehículos automotores que usen la misma plataforma;
+   o
+b) Asociar al vehículo automotor con otros vehículos automotores que utilicen una plataforma
+   diferente;
+
+planta: un edificio o edificios no necesariamente contiguos, maquinarias, aparatos y accesorios que
+están bajo el control de un productor y se utilizan para la producción de bienes automotores;
+
+plataforma: el ensamble primario de un ensamble estructural portador de carga de un vehículo
+automotor que determina el tamaño básico de ese vehículo y conforma la base estructural que
+soporta el tren motriz y sirve de unión del vehículo automotor en diversos tipos de bastidores, tales
+como para montaje de carrocería, bastidor dimensional; o
+(i)    bastidor para carrocería no autoportante; o
+(ii)   conjunto de piso y elementos estructurales de la carrocería autoportante que determina el
+       ancho del vehículo y la estructura de soporte del tren motriz, dirección y suspensión del
+       vehículo;
+
+subconjunto: grupo integrado por partes y piezas que conforman un elemento de un sistema de
+vehículo.
+
+vehículos de Categoría 1: Automóviles y otros vehículos de peso total con carga máxima inferior o
+igual a 5.000 kg -cinco mil kilogramos- (comerciales livianos, chasis con motor y cabina y
+carrocerías para esos vehículos, camiones y chasis con motor y cabina de peso total con carga
+máxima inferior o igual a 5.000 kg -cinco mil kilogramos-) y vehículos para el transporte de hasta 16
+personas, incluido el conductor;
+
+vehículos de Categoría 2 a: Ómnibus (ómnibus completos para el transporte de más de 16
+personas, incluido el conductor);
+
+vehículos de Categoría 2 b: Otros vehículos de peso total con carga máxima superior a 5.000 kg -
+cinco mil kilogramos- (camiones, tractores de carretera para semirremolques y chasis con motor y
+cabina de peso total con carga máxima superior a 5.000 kg -cinco mil kilogramos-).
+
+                                               1390
+
+                                            APÉNDICE I
+
+NALADISA 96                                                DESCRIPCIÓN
+ *84248190    Los demás
+ *84291100    De orugas
+ *84291900    Las demás
+ *84292000    Niveladoras
+ *84293000    Traíllas (scrapers)
+ *84294000    Compactadoras y apisonadoras (aplanadoras)
+ *84295100    Cargadoras y palas cargadoras de carga frontal
+ *84295200    Máquinas cuya superestructura pueda girar 360
+ *84295900    Las demás
+ *84303100    Autopropulsadas
+ *84304100    Autopropulsadas
+ *84304900    Las demás
+ *84305000    Las demás máquinas y aparatos, autopropulsados
+ *84335100    Cosechadoras-trilladoras
+ *84335200    Las demás máquinas y aparatos para trillar.
+ *84335300    Máquinas para cosecha de raíces o tubérculos
+ *84335900    Las demás
+ *84791000    Máquinas y aparatos para obras públicas, la construcción o trabajos análogos
+ *87011000    Motocultores
+ 87012000     Tractores de carretera para semirremolques
+ *87013000    Tractores de oruga
+ *87019000    Los demás
+ 87021000     Con motor de émbolo (pistón), de encendido por compresión (Diesel o semi-Diesel)
+ 87029000     Los demás
+ 87032100     De cilindrada inferior o igual a 1.000 cm3
+ 87032200     De cilindrada superior a 1.000 cm3 pero inferior o igual a 1.500 cm3
+ 87032300     De cilindrada superior a 1.500 cm3 pero inferior o igual a 3.000 cm3
+ 87032400     De cilindrada superior a 3.000 cm3
+ 87033100     De cilindrada inferior o igual a 1.500 cm3
+ 87033200     De cilindrada superior a 1.500 cm3 pero inferior o igual a 2.500 cm3
+ 87033300     De cilindrada superior a 2.500 cm3
+ 87039000     Los demás
+ 87042100     De peso total con carga máxima inferior o igual a 5 t
+ 87042200     De peso total con carga máxima superior a 5 t pero inferior o igual a 20 t
+ 87042300     De peso total con carga máxima superior a 20 t
+ 87043100     De peso total con carga máxima inferior o igual a 5 t
+ 87043200     De peso total con carga máxima superior a 5 t
+
+                                                 1391
+
+       87049000          Los demás
+       87051000          Camiones grúa
+       87052000          Camiones automóviles para sondeo o perforación
+       87053000          Camiones de bomberos
+       87054000          Camiones hormigonera
+       87059000          Los demás
+       87060000          Chasis de vehículos automóviles de las partidas Nos. 87.01 a 87.05, equipados con su motor.
+       87071000          De los vehículos de la partida N. 87.03
+       87079000          Las demás
+      *87162000          Remolques y semirremolques autocargables y autodescargables para usos agrícolas
+       87163100          Cisternas
+       87163900          Los demás
+       87164000          Los demás remolques y semirremolques
+(*) De acuerdo con lo establecido en el Artículo 1: corresponde aplicar para el caso de Argentina y Colombia el Requisito Específico de
+Origen indicado en el apéndice bilateral 3.1; para el caso de Brasil y Colombia el indicado en el apéndice bilateral 3.2.
+
+                                                          APÉNDICE II
+
+   NALADISA 96                                                      DESCRIPCIÓN
+      83012000          Cerraduras del tipo de las utilizadas en vehículos automóviles
+      84099100          Identificables como destinadas, exclusiva o principalmente, a los motores de émbolo (pistón) de
+                        encendido por chispa
+      84099900          Las demás
+      84133000          Bombas de carburante, aceite o refrigerante, para motores de encendido por chispa o
+                        compresión
+      84148000          Los demás - Solo: Compresores para vehículos automóviles (NANDINA 84148010)
+      84152000          Del tipo de los utilizados en vehículos automóviles, para sus ocupantes
+      84212300          Para filtrar lubricantes o carburantes en los motores de encendido por chispa o compresión
+     *84212900          Los demás - Solo: Los demás aparatos para filtrar o depurar líquidos (NANDINA 84212990)
+      84213100          Filtros de entrada de aire para motores de encendido por chispa o compresión
+      84219900          Las demás
+      84248990          Los demás
+      84818090          Los demás - Solo: Válvulas para neumáticos (NANDINA 84818030)
+      84831000          Árboles de transmisión (incluidos los de levas y los cigüeñales) y manivelas
+      84841000          Juntas metaloplásticas
+      84849000          Los demás
+      85071000          De plomo, del tipo de los utilizados para arranque de motores de explosión
+      85072000          Los demás acumuladores de plomo
+      85111000          Bujías de encendido
+      85113000          Distribuidores, bobinas de encendido
+      85114000          Motores de arranque, aunque funcionen también como generadores
+
+                                                               1392
+
+85115000   Los demás generadores
+85118000   Los demás aparatos y dispositivos
+85119000   Partes
+85122000   Los demás aparatos de alumbrado o señalización visual
+85123000   Aparatos de señalización acústica
+85124000   Limpiaparabrisas y eliminadores de escarcha o vaho
+85129000   Partes
+85391000   Faros o unidades selladas
+85392900   Los demás
+87081000   Parachoques (paragolpes, defensas) y sus partes
+87082100   Cinturones de seguridad
+87082900   Los demás
+87083100   Guarniciones de frenos, montadas
+87083900   Los demás
+87084000   Cajas de cambio
+87085000   Ejes con diferencial, incluso provistos de otros órganos de transmisión
+87086000   Ejes portadores y sus partes
+87087000   Ruedas, sus partes y accesorios
+87088000   Amortiguadores de suspensión
+87089100   Radiadores
+87089200   Silenciadores y tubos (caños) de escape
+87089300   Embragues y sus Partes
+87089400   Volantes, columnas y cajas de dirección
+87089900   Los demás
+90261000   Para medida o control de caudal de nivel de líquidos - Solo: Medidores de carburante para
+           vehículos del Capítulo 87, eléctricos o electrónicos (NANDINA 90261011)
+90292000   Velocímetros y tacómetros; estroboscopios - Solo: Manómetros para vehículos del Capítulo 87,
+           eléctricos o electrónicos (cobijados por la NANDINA 90262000)
+91040000   Relojes de tablero de instrumentos y relojes similares, para automóviles, aeronaves, barcos o
+           demás vehículos
+94012000   Asientos del tipo de los utilizados en vehículos automóviles
+94019090   Las demás
+
+                                               1393
+
+                                                  APÉNDICE III
+
+NALADISA                                                  DESCRIPCIÓN
+   96
+38151200   Con metal precioso o sus compuestos como sustancia activa
+38190000   Líquidos para frenos hidráulicos y demás líquidos preparados para transmisiones hidráulicas, sin aceites
+           de petróleo ni material bituminoso o con un contenido inferior al 70 % en peso de dichos aceites
+39263000   Guarniciones para muebles, carrocerías o similares
+39269000   Las demás
+40091000   Sin reforzar ni combinar de otro modo con otras materias, sin accesorios
+40092000   Reforzados o combinados de otro modo solamente con metal, sin accesorios
+40093000   Reforzados o combinados de otro modo solamente con materia textil, sin accesorios
+40094000   Reforzados o combinados de otro modo con otras materias, sin accesorios
+40095000   Con accesorios
+40102100   Correas de transmisión sin fin de circunferencia superior a 60 cm pero inferior o igual a 180cm, incluso
+           estriadas, de sección trapezoidal
+40102200   Correas de transmisión sin fin de circunferencia superior a 180 cm pero inferior o igual a 240 cm, incluso
+           estriadas, de sección trapezoidal
+40102300   Correas de transmisión sin fin de circunferencia superior a 60 cm pero inferior o igual a 150 cm, con
+           muescas (sincrónicas)
+40102400   Correas de transmisión sin fin de circunferencia superior a 150 cm pero inferior o igual a 198 cm, con
+           muescas (sincrónicas)
+40111000   Del tipo de los utilizados en automóviles de turismo (incluidos los del tipo familiar ["break" o "station
+           wagon"] y los de carreras)
+40112000   Del tipo de los utilizados en autobuses y camiones
+40119100   Con altos relieves en forma de taco, ángulo o similares
+40119900   Los demás
+40129010   Protectores ("Flaps")
+40129090   Los demás
+40131000   Del tipo de las utilizadas en automóviles de turismo (incluidos los vehículos de tipo familiar - break o station
+           wagon y los de carrera), en autobuses o camiones
+40139000   Las demás
+40161000   De caucho celular
+40169300   Juntas o empaquetaduras
+40169900   Las demás
+45049020   Juntas, discos, arandelas, manguitos y demás artículos de estanqueidad
+68129000   Las demás
+68131000   Guarniciones para frenos
+68139010   Guarniciones para embragues
+68139090   Las demás
+69091990   Los demás
+
+                                                        1394
+
+70071110   Curvo
+70071190   Los demás
+70072110   Curvo
+70072190   Los demás
+70091000   Espejos retrovisores para vehículos
+70140000   Vidrio para señalización y elementos de óptica de vidrio (excepto los de la partida nº 7015), sin trabajar
+           ópticamente
+73110000   Recipientes para gas comprimido o licuado, de fundición, hierro o acero
+73181100   Tirafondos
+73181300   Escarpias y armellas, roscadas
+73181400   Tornillos taladradores
+73181500   Los demás tornillos y pernos, incluso con sus tuercas y arandelas
+73181600   Tuercas
+73181900   Los demás
+73182100   Arandelas de muelle (resorte) y las demás de seguridad
+73182200   Las demás Arandelas
+73182300   Remaches
+73182400   Pasadores, clavijas y chavetas
+73182900   Los demás
+73201000   Ballestas y sus hojas
+73202000   Muelles (resortes) helicoidales
+76130000   Recipientes para gas comprimido o licuado, de aluminio
+83021000   Bisagras de cualquier clase (incluidos los pernios y demás goznes)
+83023000   Las demás guarniciones, herrajes y artículos similares, para vehículos automóviles
+84073300   De cilindrada superior a 250cc pero inferior o igual a 1000cc
+84073400   De cilindrada superior a 1000 cm3
+84082000   Motores del tipo de los utilizados para la propulsión de vehículos del Capítulo 87
+84135000   Las demás bombas volumétricas alternativas
+*84139100 De bombas
+*84141000 Bombas de vacío
+84143000   Compresores del tipo de los utilizados en equipos frigoríficos
+84145900   Los demás
+84159000   Partes
+*84189900 Las demás
+*84213900 Los demás
+84254200   Los demás gatos hidráulicos
+84254900   Los demás
+84821000   Rodamientos de bolas
+84822000   Rodamientos de rodillos cónicos, incluidos los ensamblados de conos y rodillos cónicos
+84823000   Rodamientos de rodillos en forma de tonel
+
+                                                       1395
+
+84824000    Rodamientos de agujas
+84825000    Rodamientos de rodillos cilíndricos
+84828000    Los demás, incluidos los rodamientos combinados
+84829100    Bolas, esferas y agujas
+84832000    Cajas de cojinetes con rodamientos incorporados
+84833000    Cajas de cojinetes sin rodamientos incorporados, cojinetes
+*84834000 Engranajes y ruedas de fricción, excepto las simples ruedas dentadas y demás órganos elementales de
+          transmisión, husillos fileteados de bolas (tornillos de bolas), reductores, multiplicadores y variadores de
+          velocidad, incluidos los convertidores de par *
+84835000    Volantes, poleas, incluidos los motones
+84836000    Embragues y órganos de acoplamiento, incluidas las juntas de articulación
+84839000    Partes
+84842000    Juntas mecánicas de estanqueidad
+84859000    Las demás
+85013100    De potencia inferior o igual a 750 W
+85013200    De potencia superior a 750 W pero inferior o igual a 75 KW
+85079000    Partes
+85112000    Magnetos, dinamomagnetos, volantes magnéticos
+85182900    Los demás
+85199300    Los demás tocacasetes
+85199900    Los demás
+85272100    Combinados con grabador o reproductor de sonido
+85272900    Los demás
+85291000    Antenas y reflectores de antenas de cualquier tipo; partes apropiadas para su utilización en dichos
+            artículos
+*85299000 Las demás
+85311000    Avisadores eléctricos de protección contra robo o incendio y aparatos similares
+85318000    Los demás aparatos
+85319000    Partes
+85332100    De potencia superior a 20 W
+85361000    Fusibles y cortacircuitos de fusible - Solo: Fusibles para vehículos del Capítulo 87 (NANDINA 85361010)
+85365000    Los demás interruptores, seccionadores y conmutadores
+85392100    Halógenos, de wolframio
+*85432000 Generadores de señales
+85443010    Con piezas de conexión
+85443090    Los demás
+85471000    Piezas aislantes de cerámica
+85472000    Piezas aislantes de plástico
+87169000    Partes
+90251900    Los demás
+
+                                                       1396
+
+  90259000      Partes y accesorios
+  90262000      Para medida o control de presión - Solo: Manómetros para vehículos del Capítulo 87, eléctricos o
+                electrónicos (cobijados por la NANDINA 90262000)
+  90269000      Partes y accesorios
+  90291000      Cuentarrevoluciones, contadores de producción, taxímetros, cuentakilómetros, podómetros y contadores
+                similares
+  90299000      Partes y accesorios
+ *90318000 Aparatos digitales de uso en vehículos automóviles para medida e indicación de múltiples magnitudes tales
+           como: velocidad media, consumos instantáneo y medio y autonomía (computadores de a bordo) *
+  94018000      Los demás asientos
+  96138000      Los demás encendedores y mecheros
+*) De acuerdo con lo establecido en el Artículo 1: corresponde aplicar para el caso de Argentina y Colombia el Requisito Específico de
+Origen indicado en el apéndice bilateral 3.1; para el caso de Brasil y Colombia el indicado en el apéndice bilateral 3.2.
+
+                                                        ____________
+
+                                                               1397
+
+1398

@@ -1,0 +1,279 @@
+APÉNDICE 1-bis AL ANEXO IV
+
+          INSTRUCTIVO PARA EL LLENADO DEL CERTIFICADO DE ORIGEN
+
+                       CASILLAS DEL CERTIFICADO DE ORIGEN
+
+NÚMERO DEL CERTIFICADO: corresponde a un número que cada entidad habilitada
+asigna a los certificados de origen que emite. Esta casilla solo debe ser llenada por la
+entidad certificadora.
+
+PAÍS EXPORTADOR: indicar el nombre del país del cual es originaria la mercancía a
+exportar.
+
+PAÍS IMPORTADOR: indicar el nombre del país de destino de la mercancía a exportar.
+
+NÚMERO DE ORDEN: Numerar en forma consecutiva las mercancías que ampara el
+Certificado. En caso que el espacio sea insuficiente, se continuará la numeración de las
+mercancías en otro ejemplar.
+
+NALADISA: indicar la clasificación arancelaria de la mercancía a exportar utilizando la
+nomenclatura NALADISA vigente en el Acuerdo, al nivel de 8 dígitos.
+
+DENOMINACIÓN DE LAS MERCANCÍAS: Indicar la descripción arancelaria de la
+mercancía a exportar la cual deberá concordar con la descripción del código arancelario en
+que se clasifica en la NALADISA vigente en el Acuerdo, sin que ello implique el ajuste
+estricto a dicho texto. La descripción de la factura comercial deberá corresponderse en
+términos generales con esta denominación.
+
+PESO O CANTIDAD: Indicar la cantidad y la unidad de medida por cada número de orden.
+
+VALOR FOB EN DÓLARES: Indicar el Valor FOB de la mercancía en dólares de los
+Estados Unidos por cada número de orden.
+
+DECLARACIÓN DE ORIGEN: deben llenarse los espacios correspondientes a Factura
+Comercial No., Fecha y el número correspondiente al Acuerdo por el cual se solicita la
+preferencia arancelaria.
+
+Factura Comercial No.: indicar el número de la factura comercial.
+
+Fecha: indicar la fecha de emisión de la factura comercial.
+
+Cuando la mercancía originaria sea facturada por un operador de un país distinto al de
+origen de la mercancía, sea o no Parte del Acuerdo, en el campo relativo a “Observaciones”
+del certificado de origen se deberá señalar que la mercancía será facturada por ese
+operador, indicando el nombre, denominación o razón social y domicilio de quien en
+definitiva facture la operación a destino así como el número y la fecha de la factura
+comercial correspondiente.
+
+                                            1377
+
+En la situación a que se refiere el párrafo anterior, y excepcionalmente, si al momento de
+expedir el certificado de origen no se conociera el número de la factura comercial emitida
+por el operador del país parte o no parte del Acuerdo, distinta a la de origen, el importador
+presentará a la administración aduanera correspondiente una declaración jurada que
+justifique el hecho, en la que deberá indicar el número y la fecha de la factura comercial y
+del certificado de origen que amparan la importación.
+
+En caso de existir más de una factura comercial, deberá hacerse la aclaración en la casilla
+de “Observaciones”, indicando números y fechas correspondientes.
+
+NÚMERO DE ORDEN: Este número de orden deberá ser el mismo que el número de orden
+especificado junto a las casillas NALADISA y DENOMINACIÓN DE LAS MERCANCÍAS.
+
+NORMAS: en esta casilla se debe identificar la norma de origen que cumple la mercancía a
+exportar individualizada por su número de orden.
+
+Las normas de origen establecidas en el Acuerdo, deberán citarse de la forma en que
+aparecen en la columna derecha de los siguientes cuadros explicativos:
+
+MERCANCÍAS ENTERAMENTE OBTENIDAS, EXCEPTO LOS PRODUCTOS INDICADOS
+     EN EL ARTÍCULO 3° (LITERALES “G” e “I”) DEL RÉGIMEN DE ORIGEN
+
+   Norma de calificación de origen       Identificación de la norma en el certificado de origen
+
+Cuando son mercancías enteramente        Anexo IV, Artículo 2°, literal a)
+obtenidas en las Partes Signatarias
+
+    MERCANCÍAS ELABORADAS EXCLUSIVAMENTE A PARTIR DE MATERIALES
+    ORIGINARIOS QUE HAYAN CUMPLIDO CON EL REQUISITO EXIGIDO EN LOS
+      ARTÍCULOS 3 (LITERALES “G” e “I”), 4 Y/O 5 DEL RÉGIMEN DE ORIGEN
+
+   Norma de calificación de origen       Identificación de la norma en el certificado de origen
+
+Mercancías elaboradas exclusivamente a   Anexo IV, artículo 2°, literal c)
+partir de materiales originarios
+
+                                            1378
+
+           MERCANCÍAS QUE CUMPLAN CON LA REGLA GENERAL
+   MERCANCÍAS QUE INCORPORAN MATERIALES NO ORIGINARIOS POR HABER
+         CUMPLIDO CON EL ARTÍCULO 4 DEL RÉGIMEN DE ORIGEN
+
+              Norma de calificación de origen                       Identificación de la norma en el
+                                                                          certificado de origen
+
+Mercancías que incorporen en su elaboración materiales no          Anexo IV, artículo 4°, literal a)
+originarios, siempre que resulten de un proceso de
+transformación, distinto al ensamblaje o montaje, realizado en
+el territorio de cualquiera de las Partes Signatarias, que les
+confiera una nueva individualidad. Esa nueva individualidad
+implica que, en el Sistema Armonizado, se clasifiquen en una
+partida diferente a aquéllas en que se clasifiquen cada uno
+de los materiales no originarios, de acuerdo a lo establecido en
+el Anexo IV, articulo 4, literal a);
+Mercancías que no cumplan con lo establecido en el Anexo IV,       Anexo IV, artículo 4°, literal b)
+el artículo 4 literal a) porque el proceso de transformación,
+distinto al ensamblaje o montaje, realizado en el territorio de
+cualquiera de las Partes Signatarias no implique un cambio
+de partida arancelaria, cuando el valor CIF de los
+materiales no originarios no exceda los porcentajes del
+valor FOB de exportación de la mercancía establecidos en
+el Anexo IV, artículo 4 literal b);
+Mercancías que resulten de un proceso de ensamblaje o              Anexo IV, artículo 4°, literal c)
+montaje, realizado en el territorio de cualquiera de las Partes
+Signatarias, siempre que en su elaboración se utilicen
+materiales originarios y no originarios y el valor CIF de éstos
+últimos no exceda los porcentajes del valor FOB de
+exportación de la mercancía establecidos en el Anexo IV,
+artículo 4 literal c).
+
+        MERCANCÍAS QUE CUMPLAN REQUISITOS ESPECÍFICOS DE ORIGEN
+                            BILATERALES
+
+   MERCANCÍAS QUE INCORPORAN MATERIALES NO ORIGINARIOS POR HABER
+         CUMPLIDO CON EL ARTÍCULO 5 DEL RÉGIMEN DE ORIGEN
+
+             Norma de calificación de origen                       Identificación de la norma en el
+                                                                        certificado de origen
+
+Requisitos bilaterales acordados entre la República de         Anexo IV, artículo 5º, Apéndice 3.1
+Argentina y la República de Colombia.
+Requisitos bilaterales acordados entre la República            Anexo IV, artículo 5º, Apéndice 3.2
+Federativa de Brasil y la República de Colombia.
+Requisitos bilaterales acordados entre la República del        Anexo IV, artículo 5º, Apéndice 3.3
+Paraguay y Colombia
+Requisitos bilaterales acordados entre la República Oriental   Anexo IV, artículo 5º, Apéndice 3.4
+del Uruguay y Colombia
+
+                                                1379
+
+                                 OTROS CRITERIOS DE ORIGEN
+
+             Norma de calificación de origen                        Identificación de la norma en el
+                                                                         certificado de origen
+
+Un juego o surtido de mercancías será originario de las Anexo IV, artículo 8°, literal a)
+Partes Signatarias, siempre que cada una de las mercancías
+en él contenida, califique como originaria de acuerdo al
+presente Régimen. No obstante, el juego o surtido que
+contenga mercancías no originarias, producidas en una
+Parte Signataria o importadas de terceros países será
+considerado originario de las Partes Signatarias siempre que
+el valor CIF de las mercancías importadas de terceros
+países o de los materiales no originarios incorporados en las
+mercancías producidas no exceda el 6% del valor FOB del
+juego o surtido.
+
+           REQUISITOS ESPECÍFICOS DE ORIGEN DEL SECTOR AUTOMOTOR
+
+           MERCANCÍAS QUE INCORPORAN MATERIALES NO ORIGINARIOS
+
+              Norma de calificación de origen                          Identificación de la norma en el
+                                                                            certificado de origen
+
+Para el caso de los estados Parte de MERCOSUR:                      Anexo IV, artículo 5°, Apéndice 2,
+Automóviles, Omnibuses y otros vehículos (ver Anexo IV,             Artículo 2, numeral 1
+Artículo 5, Apéndice 2, Artículo 1, numeral 1, literales a) a c))
+Para el caso de Colombia: Automóviles, Omnibuses y otros            Anexo IV, artículo 5°, Apéndice 2,
+vehículos (ver Anexo IV, Artículo 5, Apéndice 2, Artículo 1,        Artículo 2, numeral 2
+numeral 1, literales a) a c))
+Para conjuntos y subconjuntos de autopartes incluidos en            Anexo IV, artículo 5°, Apéndice 2,
+Anexo IV, Artículo 5, Apéndice 2, Artículo 1, numeral 2             Artículo 2, numeral 3
+Para el caso de los estados Parte de MERCOSUR, un                   Anexo IV, artículo 5°, Apéndice 2,
+producto automotor de nuevo modelo (Automóviles,                    Artículo 3
+Omnibuses y otros vehículos (ver Anexo IV, Artículo 5,
+Apéndice 2, Artículo 1, numeral 1, literales a) a c)); o para los
+conjuntos y subconjuntos de autopartes (ver Anexo IV, Artículo
+5, Apéndice 2, Artículo 1, numeral 2)
+Para el caso de las carrocerías, remolques y tractores (ver         Anexo IV, artículo 5°, Apéndice 2,
+Anexo IV, Artículo 5, Apéndice 2, Artículo 1, numeral 1,            Artículo 4
+literales d) a f)
+Para el caso de las piezas de autopartes (ver Anexo IV,             Anexo IV, artículo 5°, Apéndice 2,
+Artículo 5, Apéndice 2, Artículo 1, numeral 2) obtenidas en su      Artículo 5 literal a)
+totalidad o producidas enteramente en una o más de las
+Partes.
+Para el caso de las piezas de autopartes (ver Anexo IV,             Anexo IV, artículo 5°, Apéndice 2,
+Artículo 5, Apéndice 2, Artículo 1, numeral 2) enteramente          Artículo 5 literal b)
+producidas en el territorio de una o más de las Partes, a partir
+de materiales originarios de conformidad con el régimen de
+este Acuerdo.
+Para el caso de las piezas de autopartes (ver Anexo IV,             Anexo IV, artículo 5°, Apéndice 2,
+                                                 1380
+
+              Norma de calificación de origen                           Identificación de la norma en el
+                                                                             certificado de origen
+
+Artículo 5, Apéndice 2, Artículo 1, numeral 2), elaboradas          Artículo 5 literal c)
+utilizando materiales no originarios siempre que resulte de un
+proceso de producción realizado enteramente en territorio de
+una o más de las Partes de forma que el bien se clasifique en
+una partida diferente de las de dichos materiales según la
+NALADISA. (Cambio de Partida).
+Para el caso de los estados Parte de MERCOSUR, las piezas           Anexo IV, artículo 5°, Apéndice 2,
+de autopartes (ver Anexo IV, Artículo 5, Apéndice 2, Artículo 1,    Artículo 5 literal d), inciso i)
+numeral 2), elaboradas utilizando materiales no originarios que
+no cumplan con lo dispuesto en el cambio de partida, siempre
+que resulte de un proceso de producción realizado
+enteramente en territorio de una o más de las Partes y cuando
+el valor CIF de los materiales importados no supere el valor
+FOB de exportación establecido en el Anexo IV, Artículo 5,
+Apéndice 2, Artículo 5, literal d), inciso i).
+Para el caso de Colombia, las piezas de autopartes (ver Anexo       Anexo IV, artículo 5°, Apéndice 2,
+IV, Artículo 5, Apéndice 2, Artículo 1, numeral 2, apéndice II),    Artículo 5 literal d), inciso ii)
+elaboradas utilizando materiales no originarios que no
+cumplan con lo dispuesto en el cambio de partida, siempre
+que resulte de un proceso de producción realizado
+enteramente en territorio de una o más de las Partes y cuando
+el valor CIF de los materiales importados no supere el valor
+FOB de exportación establecido en el Anexo IV, Artículo 5,
+Apéndice 2, Artículo 5, literal d), inciso ii).
+Para el caso de Colombia, las piezas de autopartes (ver Anexo       Anexo IV, artículo 5°, Apéndice 2,
+IV, Artículo 5, Apéndice 2, Artículo 1, numeral 2, apéndice III),   Artículo 5 literal d), inciso iii)
+elaboradas utilizando materiales no originarios que no
+cumplan con lo dispuesto en el cambio de partida, siempre
+que resulte de un proceso de producción realizado
+enteramente en territorio de una o más de las Partes y cuando
+el valor CIF de los materiales importados no supere el valor
+FOB de exportación establecido en el Anexo IV, Artículo 5,
+Apéndice 2, Artículo 5, literal d), inciso iii).
+
+EXPORTADOR O PRODUCTOR
+
+Razón Social: indicar los datos de la persona natural, física o jurídica que realiza la
+exportación.
+
+Dirección: domicilio legal o registrado para efectos fiscales de la persona natural, física o
+jurídica que solicita el certificado de origen.
+
+Fecha: debe ser aquella en la cual el certificado de origen fue llenado y firmado por el
+exportador y/o productor.
+
+SELLO Y FIRMA DEL EXPORTADOR O PRODUCTOR: esta casilla debe ser completada
+con la firma del exportador o productor.
+
+                                                 1381
+
+IMPORTADOR
+
+Razón Social: indicar los datos de la persona natural, física o jurídica que realiza la
+importación.
+
+Dirección: domicilio legal o registrado para efectos fiscales de la persona natural, física o
+jurídica que realiza la importación.
+
+MEDIO DE TRANSPORTE: indique el tipo de transporte previsto para el desplazamiento de
+la mercancía.
+
+PUERTO O LUGAR DE EMBARQUE: Indique nombre del lugar de embarque de las
+mercancías.
+
+OBSERVACIONES: en este espacio se puede colocar cualquier observación y/o aclaración
+que considere necesaria, además de las previstas específicamente en el instructivo y/o en el
+Acuerdo.
+
+CERTIFICACIÓN DE ORIGEN: esta casilla sólo debe ser llenada por la entidad certificadora
+autorizada.
+
+SELLO Y FIRMA DE LA ENTIDAD CERTIFICADORA: esta casilla debe ser llenada con el
+nombre y la firma autógrafa del funcionario habilitado por las Partes Signatarias para tal
+efecto, así como el sello de la entidad certificadora. La certificación de origen digital y los
+documentos vinculados a la misma, tendrán la misma validez jurídica que la certificación de
+origen basada en el formato de papel y firma autógrafa, siempre que sean emitidos y
+firmados digitalmente de conformidad con las respectivas legislaciones de las Partes
+Signatarias por entidades y funcionarios debidamente habilitados, y de acuerdo con los
+procedimientos y las especificaciones técnicas de la Certificación de Origen Digital
+establecidos en la Resolución 386 del Comité de Representantes de la ALADI, sus
+modificatorias y/o complementarias.
+
+                                            1382

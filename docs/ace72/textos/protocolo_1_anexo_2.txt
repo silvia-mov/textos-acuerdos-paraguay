@@ -1,0 +1,279 @@
+ANEXO 2
+
+SERVICIOS DE TELECOMUNICACIONES
+
+ARTÍCULO 1
+Ámbito y Definiciones
+
+1. Este Anexo aplica a las medidas de las Partes Signatarias que afecten al comercio
+de los servicios de telecomunicaciones1. Este Anexo no aplica a las medidas relativas
+a la radiodifusión2 o distribución por cable de programación de radio o televisión.
+
+2. Ninguna disposición del presente Anexo se interpretará en el sentido de que:
+
+i) obligue a una Parte Signataria a autorizar a un proveedor de servicios de
+otra Parte Signataria a establecer, instalar, adquirir, arrendar, explotar o
+suministrar redes o servicios de transporte de telecomunicaciones distintos
+de los previstos en su Lista de Compromisos Específicos; u
+ii) obligue a una Parte Signataria (o exija a una Parte Signataria que obligue a
+los proveedores de servicios que se hallen bajo su jurisdicción) a
+establecer, instalar, adquirir, arrendar, explotar o suministrar redes o
+servicios públicos de transporte de telecomunicaciones que no se ofrezcan
+al público en general.
+
+3. Para los efectos de este Anexo:
+
+a) “Telecomunicaciones”: se entiende por “telecomunicaciones” la transmisión,
+emisión o recepción de signos, señales, escritos, imágenes, sonidos o informaciones
+de cualquier naturaleza por hilo, radioelectricidad, medios ópticos u otros sistemas
+electromagnéticos.
+
+b) “Servicio público de transporte de telecomunicaciones”3: significa todo servicio de
+transporte telecomunicaciones que una Parte Signataria prescriba expresamente o
+de hecho, que se ofrezca al público en general. Tales servicios pueden incluir, entre
+otros: telégrafo, teléfono, télex y transmisión de datos caracterizada por la transmisión
+en tiempo real de información facilitada por los clientes entre dos o más puntos sin
+ningún cambio de extremo a extremo en la forma o contenido de dicha información.
+Dicho servicio podrá ser prestado por empresas públicas o privadas.
+
+c) “Red pública de telecomunicaciones”: es el conjunto de sistemas de transmisión y
+conmutación que permite las telecomunicaciones entre dos o más puntos terminales
+definidos de una red que se requiere para proveer servicios de telecomunicaciones al
+público en general.
+
+"El comercio de servicios de telecomunicaciones" se entenderá de acuerdo con la definición que figura en el literal a) del Artículo
+III del Protocolo, y comprende tanto la provisión de redes y servicios de transporte de telecomunicaciones prestados al público
+en general, como -en los casos y en los términos en que lo contemple la legislación interna de las Partes Signatarias- los
+servicios de valor agregado –.
+“Radiodifusión” “Se entenderá tal como está dispuesto en la legislación relevante de cada Parte Signataria”.
+3De acuerdo con la legislación brasileña el concepto de servicios de telecomunicaciones utilizado en este Anexo se aplica
+solamente a los servicios de telecomunicaciones de interés colectivo.
+
+d) “Autoridad reguladora”: significa un organismo u organismos encargados de
+cualquiera de las tareas de regulación asignadas en relación con las cuestiones
+mencionadas en el presente anexo. En los casos donde la legislación interna de la
+Parte Signataria lo prevea, la autoridad reguladora podrá ejercer tareas de control.
+
+e) “Instalaciones esenciales”: son las funciones y elementos de una red pública de
+telecomunicaciones que:
+
+a. sean suministradas en forma exclusiva o predominante por un único o
+un número limitado de proveedores; y
+
+b. no sea factible económica o técnicamente substituirlas con el objeto de
+suministrar un servicio;
+
+f) “Proveedor importante”: es un proveedor que tenga la capacidad de afectar de
+manera importante las condiciones de participación (desde el punto de vista de los
+precios y del suministro) en el mercado relevante como resultado de:
+
+a. el control de instalaciones esenciales, o
+
+b. la utilización de su posición de mercado
+
+g) “Licencia”: cualquier instrumento o autorización legal requerida conforme al marco
+regulatorio de la Parte Signataria para prestar un servicio de telecomunicaciones a
+terceros o al público en general.
+
+h) “oferta de interconexión de referencia”: Es el listado de elementos y funciones de
+red con capacidad de ser utilizados para la interconexión y que son ofrecidos por un
+proveedor en las condiciones y precios que en esa oferta se indican.
+
+i) “no discriminatorio”: significa un trato no menos favorable que aquel otorgado, en
+circunstancias similares, a cualquier otro usuario o proveedor de servicios de
+telecomunicaciones similares.
+
+ARTÍCULO 2
+Salvaguardias Competitivas
+
+1. Cada Parte Signataria mantendrá medidas adecuadas con el objeto de impedir que
+proveedores que, en forma individual o conjunta, sean proveedores importantes
+empleen o sigan empleando prácticas anticompetitivas.
+
+2. Las prácticas anticompetitivas pueden incluir abuso de posición dominante, así
+como todas las prácticas, conductas o recomendaciones, individuales o concertadas,
+que tengan por efecto u objeto restringir, limitar, obstaculizar, distorsionar o impedir la
+competencia actual o futura en el mercado relevante.
+
+ARTÍCULO 3
+Obligaciones Relativas a los Proveedores Importantes
+
+Obligación de transparencia
+
+1. Las autoridades reguladoras de cada Parte Signataria impondrán obligaciones de
+transparencia en relación con la interconexión o acceso a los proveedores
+importantes, procurando hacer pública información específica, como estados
+contables generales, especificaciones técnicas, características de las redes,
+términos y condiciones de suministro y uso, y precios.
+
+Obligaciones de no discriminación
+
+2. Las autoridades reguladoras de cada Parte Signataria impondrán obligaciones de
+no discriminación, en relación con la interconexión o acceso a los proveedores
+importantes con el objeto de que los proveedores importantes en su territorio
+otorguen a los proveedores de servicios de telecomunicaciones de la otra Parte
+Signataria un trato no menos favorable que el otorgado por dichos proveedores
+importantes en materia de interconexión o acceso.
+
+ARTÍCULO 4
+Interconexión
+
+1. El presente artículo se aplica al enlace entre proveedores4 que suministran redes y
+servicios de telecomunicaciones con el fin de permitir a los usuarios de un proveedor
+comunicarse con los usuarios de otro proveedor y acceder a los servicios de otro
+proveedor.
+
+2. Cada Parte Signataria se asegurará de que cualquier proveedor importante
+suministre interconexión en cualquier punto técnicamente factible de la red. Dicha
+Interconexión se proporcionará:
+
+a) bajo términos, condiciones (incluyendo normas técnicas y especificaciones)
+y tarifas no discriminatorias y de una calidad no menos favorable que la
+proporcionada a sus propios servicios similares o a servicios similares de otros
+proveedores de servicios, no vinculados o a sus subsidiarias u otros
+proveedores vinculados;
+
+b) de una manera oportuna, en términos y condiciones (incluyendo normas
+técnicas y especificaciones) transparentes y razonables y tarifas que sigan los
+parámetros que pudiera establecer la autoridad reguladora; y
+
+4La obligación de acceso e interconexión sólo se prevé entre proveedores de servicios de
+telecomunicaciones de acuerdo a la legislación interna de las Partes Signatarias.
+
+c) previa solicitud, en puntos adicionales a los puntos de terminación de la red
+ofrecidos a la mayoría de los usuarios, sujeto a cargos que se determinarán
+conforme a los parámetros que establezca la autoridad reguladora.
+
+3. Cada Parte Signataria garantizará que los proveedores importantes pongan sus
+acuerdos de interconexión a disposición de los proveedores de servicios de otra Parte
+Signataria, y/o publiquen ofertas de interconexión de referencia de antemano, a
+menos que los procedimientos aplicables a las negociaciones de interconexión con un
+proveedor importante estén a disposición del público en general.5
+
+4. Cada Parte Signataria asegurará que los proveedores de servicios de
+telecomunicaciones de la otra Parte Signataria puedan interconectarse con un
+proveedor importante de conformidad con al menos una de, entre otras, las siguientes
+opciones:
+
+a) los acuerdos de interconexión en vigor;
+
+b) disponibilidad pública de las ofertas de interconexión;
+
+c) a través de la negociación de un nuevo acuerdo de interconexión.
+
+5. Cada Parte Signataria se asegurará que los proveedores de redes o servicios de
+telecomunicaciones en su territorio adopten medidas razonables para proteger, entre
+otros:
+
+a) la privacidad de las personas en relación con el procesamiento y la difusión de
+los datos personales;
+
+b) la confidencialidad de los registros individuales; y
+
+c) la confidencialidad de la información comercialmente sensible de, o relacionada
+con, proveedores y usuarios finales de servicios de telecomunicaciones.
+
+Los datos y la información obtenida por un proveedor de servicios de
+telecomunicaciones se utilizarán únicamente con el fin de proporcionar esos servicios.
+
+ARTÍCULO 5
+Servicio Universal
+
+1. Cada Parte Signataria tiene derecho a definir el tipo de obligación de servicio
+universal6 que desee adoptar o mantener.
+
+5Las disposiciones de este párrafo y la definición de oferta de interconexión de referencia no se aplican
+
+a la República del Paraguay.
+De acuerdo con la legislación brasileña, las obligaciones de servicio universal se aplican solamente a
+los prestadores en régimen público.
+
+2. Las medidas que regulan el servicio universal serán transparentes, objetivas, y no
+discriminatorias. Las Partes Signatarias procurarán que las mismas sean neutrales
+con respecto a la competencia.
+
+ARTÍCULO 6
+Procedimientos de Licencias
+
+1. Cuando para el suministro de un servicio de telecomunicaciones se requiera una
+licencia de la autoridad competente de una Parte Signataria, dicha parte pondrá a
+disposición del público lo siguiente
+
+a) los términos y condiciones para la obtención de los mismos y,
+
+b) en la medida de lo posible, el periodo de tiempo que se requiere para tomar una
+decisión relativa a una solicitud de licencia o concesión.
+
+2. La autoridad competente de una Parte Signataria comunicará al solicitante sobre el
+resultado de su solicitud inmediatamente después de la adopción de la decisión. En
+caso que se tome la decisión de denegar una solicitud de licencia o una concesión, la
+autoridad competente de una Parte Signataria dará a conocer al solicitante, previa
+solicitud, el motivo de la denegación.
+
+ARTÍCULO 7
+Autoridad Reguladora Independiente
+
+1. Las autoridades reguladoras de los servicios de telecomunicaciones deberán estar
+separadas de, y no ser responsables, ante ningún proveedor de servicios básicos de
+telecomunicaciones.
+
+2. Cada Parte Signataria garantizará que las decisiones de y los procedimientos
+usados por las autoridades reguladoras sean imparciales con respecto a todos los
+participantes del mercado.
+
+ARTÍCULO 8
+Recursos Escasos
+
+1. Cada Parte Signataria se asegurará de que sus procedimientos para la asignación
+y uso de los recursos escasos de telecomunicaciones, incluidas las frecuencias, los
+números y los derechos de paso, se lleven a cabo de manera objetiva, oportuna,
+transparente y no discriminatoria. En la medida de lo posible, cada Parte pondrá a
+disposición del público el estado actual de las bandas de frecuencias asignadas, pero
+la identificación detallada de las frecuencias asignadas a usos específicos de
+gobierno no será requerida.
+
+2. Cuando se asigne espectro para servicios de telecomunicaciones radioeléctricos
+no-gubernamentales, cada Parte Signataria procurará basarse en enfoques de
+mercado, teniendo en cuenta el interés público.
+
+ARTÍCULO 9
+Solución de Diferencias entre Proveedores de Servicios de Telecomunicaciones
+
+Cada Parte Signataria asegurará que:
+
+(a) los proveedores pueden someter un recurso a la autoridad reguladora de
+telecomunicaciones u otro organismo pertinente, para resolver
+controversias relacionadas con los proveedores importantes;
+
+(b) un proveedor que ha solicitado la interconexión con un proveedor
+importante y, dentro del plazo establecido por la normativa respectiva, no ha
+logrado un acuerdo con la otra parte respecto de las condiciones de
+interconexión (incluyendo términos apropiados, condiciones y tarifas para la
+misma), pueda solicitar la intervención de la autoridad reguladora a efectos
+de la resolución del desacuerdo.
+
+ARTÍCULO 10
+Revisión de las decisiones de la autoridad reguladora
+
+Los proveedores afectados por la decisión de la autoridad reguladora tendrán los
+recursos para reclamar a un cuerpo administrativo independiente y/o un tribunal
+conforme a las leyes y regulaciones de las Partes Signatarias.
+
+ARTÍCULO 11
+Flexibilidad en la Elección de Tecnologías
+
+1. Los proveedores de servicios de telecomunicaciones tendrán la flexibilidad para
+escoger las tecnologías que utilicen para el suministro de sus servicios, sujeto a
+requisitos necesarios para satisfacer los intereses legítimos de política pública,
+incluyendo el uso de protocolos e interoperabilidad.
+
+2. En los casos en que la normativa interna lo requiera, los equipos involucrados
+deberán contar con la homologación correspondiente.
+
+ARTÍCULO 12
+Relación con otros Anexos
+
+En caso de cualquier incompatibilidad entre este Anexo y otro Anexo del Protocolo o
+con otro artículo del marco general del presente Protocolo, este Anexo prevalecerá en
+la medida de la incompatibilidad.
+________________
