@@ -88,7 +88,7 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 <main class="wrap">
 
 <h2>Colombia da libre comercio inmediato al 92 % de los productos que le vende Paraguay</h2>
-<p>Cada producto tiene una categoría de rebaja (cronograma). La <b>A</b> es 100 % de preferencia desde la entrada en vigor; la <b>B</b>, <b>C</b>, <b>D</b> y <b>E</b> llegaban al 100 % en 2018. Algunos productos tienen reglas propias (contingentes o preferencias fijas) en los Apéndices 3.3 y 4.3.</p>
+<p>Cada producto tiene una categoría de rebaja (cronograma). La <b>A</b> es 100 % de preferencia desde la entrada en vigor; la <b>B</b>, <b>C</b>, <b>D</b> y <b>E</b> llegaban al 100 % en 2018. Algunos productos tienen reglas propias (contingentes o preferencias fijas) en los Apéndices 3.3 y 4.3. Y en los dos sentidos quedan <b>excluidos 29 productos</b> con la nota (1): azúcar, confitería, chocolates, algunas preparaciones y alcohol etílico; la rebaja empieza recién cuando las partes lo acuerden.</p>
 <div class="card">
   <div class="barras" id="barras"></div>
   <div class="ley" id="ley"></div>
@@ -99,6 +99,35 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 <p class="chica">Por código NALADISA 96 (4 a 8 dígitos) o por palabra. Ojo: el acuerdo usa la nomenclatura NALADISA de 1996, no la NCM de hoy; para pasar un código de la NCM, usá el <a href="https://silvia-mov.github.io/nomenclaturas-y-correlaciones-del-mercosur/">traductor de nomenclaturas</a>.</p>
 <input type="search" id="q-prod" placeholder="Por ejemplo: soja, carne, 1201, 0201" aria-label="Producto o código NALADISA">
 <div class="tw"><table id="t-prod" class="res"></table></div>
+
+<h2>Los contingentes que le tocan a Paraguay</h2>
+<p class="chica">Colombia da a Paraguay rebaja total para una cantidad fija por año. Paraguay no da contingentes a Colombia.</p>
+<div class="tw"><table>
+<thead><tr><th>Producto</th><th>Contingente</th><th>Con quién se comparte</th><th>Fuera del contingente</th></tr></thead>
+<tbody>
+<tr><td>Carne bovina deshuesada (demás cortes), despojos, carne salada y tripas</td><td>3.299 t desde 2018, con 2 % más por año desde 2019 (unas 3.789 t en 2026)</td><td>Todo el MERCOSUR, en conjunto</td><td>25 % de preferencia fija</td></tr>
+<tr><td>Cortes finos de carne bovina (lomito, punta de anca, lomo ancho)</td><td>5.294 t en 2018</td><td>Todo el MERCOSUR</td><td>Categoría C: 100 % desde 2018, así que hoy el contingente ya no limita</td></tr>
+<tr><td>Leche y nata en polvo (partida 0402)</td><td>303 t por año desde 2018, sin crecimiento</td><td>Solo Paraguay</td><td>No hay rebaja</td></tr>
+<tr><td>Preparaciones y conservas de carne</td><td>4.538 kg por año desde 2018</td><td>Solo Paraguay</td><td>70 % de preferencia fija</td></tr>
+<tr><td>Leche maternizada</td><td>300 t</td><td>Todo el MERCOSUR</td><td>Categoría C: 100 % desde 2018</td></tr>
+</tbody></table></div>
+<p class="note">Fuente: Anexo II, Apéndice 3.3. Las cifras de 2026 son un cálculo propio a partir del crecimiento del 2 % anual. El arancel de referencia para los contingentes de carne es 20 %, o el arancel general de Colombia si es menor.</p>
+
+<h2>Paraguay usa poco el acuerdo para venderle a Colombia</h2>
+<p>En 2025, Paraguay exportó a Colombia USD 23,5 millones según los despachos de la DNIT, y solo el <b>20 %</b> usó una preferencia. En 2020 había llegado al 66 %.</p>
+<div class="tw"><table>
+<thead><tr><th>Año</th><th>Exportado a Colombia (millones de USD)</th><th>Con preferencia</th><th>% que usó una preferencia</th></tr></thead>
+<tbody>
+<tr><td>2019</td><td>13,9</td><td>7,7</td><td>55 %</td></tr>
+<tr><td>2020</td><td>14,9</td><td>9,9</td><td>66 %</td></tr>
+<tr><td>2021</td><td>14,5</td><td>3,7</td><td>26 %</td></tr>
+<tr><td>2022</td><td>25,8</td><td>7,0</td><td>27 %</td></tr>
+<tr><td>2023</td><td>21,6</td><td>5,1</td><td>24 %</td></tr>
+<tr><td>2024</td><td>25,8</td><td>8,1</td><td>31 %</td></tr>
+<tr><td>2025</td><td>23,5</td><td>4,8</td><td>20 %</td></tr>
+<tr><td>2026*</td><td>36,9</td><td>4,7</td><td>13 %</td></tr>
+</tbody></table></div>
+<p class="note">* Enero a septiembre. FOB, despachos definitivos de la DNIT. Las importaciones desde Colombia con el ACE 72 fueron USD 30,2 millones en 2025. Datos y método: <a href="https://silvia-mov.github.io/comercio-exterior-paraguay-acuerdos/">Comercio exterior de Paraguay y acuerdos comerciales</a>. Una parte de lo que no usa el acuerdo puede no tener rebaja o no cumplir las reglas de origen.</p>
 
 <h2>Qué dice el Acuerdo, título por título</h2>
 <p class="chica">El Acuerdo tiene 50 artículos agrupados en 31 títulos. El detalle técnico está en los anexos.</p>
@@ -138,23 +167,29 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const sinT = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const fmt = n => n.toLocaleString("es-PY");
-const COL = {A:"var(--s1)", B:"var(--s4)", C:"var(--s4)", D:"var(--s4)", E:"var(--s4)", V:"var(--s3)", X:"var(--s2)"};
-const grupo = c => /^[A]$/.test(c) ? "A" : /^[B-E]$/.test(c) ? "B" : /^Ver/.test(c) ? "V" : "X";
-const NOMG = {A:"A: 100 % desde el inicio", B:"B a E: 100 % desde 2018", V:"Reglas propias (Apéndices 3.3 y 4.3)", X:"Bienes usados (excluidos) o ver nota"};
+const COL = {A:"var(--s1)", B:"var(--s4)", V:"var(--s3)", X:"var(--s2)", N:"var(--line)"};
+const EXCL = n => /\((1|8)\)/.test(n || "");
+const grupo = (c, n) => EXCL(n) || /^Bienes/i.test(c) ? "X" : /^[A]$/.test(c) ? "A" : /^[B-E]$/.test(c) ? "B" : /^Ver Ap/.test(c) ? "V" : "N";
+const NOTAS = {1:"no se aplica la rebaja hasta que las partes lo acuerden", 2:"solo vehículos nuevos (del año o del anterior)", 3:"no se aplica a autopartes reconstruidas",
+  4:"solo motocicletas nuevas", 5:"no se aplica a motopartes reconstruidas", 6:"bienes de uso automotor: preferencia fija (ver apéndice)", 7:"no se aplica a desechos farmacéuticos",
+  8:"no se aplica; Colombia y Paraguay negociarán cuándo empieza"};
+const nota = n => (n || "").match(/\d+/g) ? (n.match(/\d+/g).map(k => `<div class="det">(${k}) ${NOTAS[k] || ""}</div>`).join("")) : "";
+const NOMG = {A:"A: 100 % desde el inicio", B:"B a E: 100 % desde 2018", V:"Contingente o preferencia fija (Apéndices 3.3 y 4.3)", X:"Excluidos (notas 1 y 8, bienes usados)", N:"Ver nota explicativa"};
 let P = [];
 // columnas: 0 código, 1 descripción, 2 Colombia→PY, 3 nota, 4 PY→Colombia, 5 nota, 6 detalle CO, 7 detalle PY, 8 requisito de origen
 fetch("ace72/preferencias.json").then(r => r.json()).then(d => {
   P = d;
   const host = document.getElementById("barras");
   [["Colombia a Paraguay", 2], ["Paraguay a Colombia", 4]].forEach(([nom, k]) => {
-    const n = {A:0, B:0, V:0, X:0}; d.forEach(r => n[grupo(r[k])]++);
+    const n = {A:0, B:0, V:0, X:0, N:0}; d.forEach(r => n[grupo(r[k], r[k+1])]++);
     const tot = d.length, pa = Math.round(100 * n.A / tot);
     host.insertAdjacentHTML("beforeend", `<div class="barra"><div class="t"><b>${nom}</b><span>${pa} % en A · ${fmt(n.A)} de ${fmt(tot)}</span></div><div class="pila">` +
-      ["A","B","V","X"].map(g => `<span style="width:${100*n[g]/tot}%;background:${COL[g]}" title="${NOMG[g]}: ${fmt(n[g])}"></span>`).join("") + "</div></div>");
+      ["A","B","V","X","N"].map(g => `<span style="width:${100*n[g]/tot}%;background:${COL[g]}" title="${NOMG[g]}: ${fmt(n[g])}"></span>`).join("") + "</div></div>");
   });
   document.getElementById("ley").innerHTML = ["A","B","V","X"].map(g => `<span><i style="background:${COL[g]}"></i>${NOMG[g]}</span>`).join("");
 });
-function cat(c) { if (!c) return '<span class="chica">sin dato</span>'; const g = grupo(c); return `<span class="cat" style="background:${g==="A"?"var(--s1)":g==="B"?"var(--s4)":g==="V"?"var(--s3)":"var(--s2)"};color:${g==="V"?"#fff":"#08261f"}">${esc(c.replace("Ver Apéndice","Ap."))}</span>`; }
+function cat(c, n) { if (!c) return '<span class="chica">sin dato</span>'; const g = grupo(c, n); const t = g === "X" ? "Excluido" : c.replace("Ver Apéndice","Ap.").replace(/^Bienes.*/, "Usado");
+  return `<span class="cat" style="background:${COL[g]};color:${g==="V"?"#fff":"#1d1a1c"}">${esc(t)}</span>`; }
 function detalle(t) { if (!t) return ""; return `<details style="padding:4px 8px;margin:4px 0 0"><summary class="chica">Ver detalle</summary><div class="det">${t.split(" | ").map(esc).join("<br>")}</div></details>`; }
 let tPr;
 document.getElementById("q-prod").addEventListener("input", e => { clearTimeout(tPr); tPr = setTimeout(() => buscarProd(e.target.value), 150); });
@@ -164,7 +199,7 @@ function buscarProd(q) {
   const dig = q.replace(/\D/g, ""), esCod = /^\d[\d.\s]*$/.test(q);
   const res = P.filter(r => esCod ? r[0].startsWith(dig) : sinT(r[1]).includes(q)).slice(0, 80);
   t.innerHTML = res.length ? `<thead><tr><th>Código</th><th>Producto</th><th>Colombia da a Paraguay</th><th>Paraguay da a Colombia</th><th>Requisito de origen</th></tr></thead><tbody>` +
-    res.map(r => `<tr><td class="cod">${r[0]}</td><td>${esc(r[1])}</td><td>${cat(r[2])} ${esc(r[3])}${detalle(r[6])}</td><td>${cat(r[4])} ${esc(r[5])}${detalle(r[7])}</td><td class="chica">${esc(r[8] || "General (Anexo IV)")}</td></tr>`).join("") + "</tbody>"
+    res.map(r => `<tr><td class="cod">${r[0]}</td><td>${esc(r[1])}</td><td>${cat(r[2], r[3])}${nota(r[3])}${detalle(r[6])}</td><td>${cat(r[4], r[5])}${nota(r[5])}${detalle(r[7])}</td><td class="chica">${esc(r[8] || "General (Anexo IV)")}</td></tr>`).join("") + "</tbody>"
     : '<tbody><tr><td class="chica">No hay productos con esa búsqueda.</td></tr></tbody>';
   if (res.length === 80) t.insertAdjacentHTML("beforeend", '<caption class="chica" style="caption-side:bottom;text-align:left">Se muestran los primeros 80. Escribí algo más preciso.</caption>');
 }
