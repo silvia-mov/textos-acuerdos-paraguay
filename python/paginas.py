@@ -188,7 +188,7 @@ def bilaterales(clave, socio, carpeta, nota="No forman parte del acuerdo, pero l
 
 
 VIG35 = vigencia_ace35() + normas_ace35() + bilaterales("ace35_chile", "Chile", "ace35", "No forman parte del ACE 35, pero lo complementan: depósitos francos en puertos, inversiones, doble imposición y promoción de exportaciones.")
-ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
+ARANCELES_CHILE_BASE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 <p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
 <div class="disp">
 <div class="card"><div class="v">6 %</div><h3>Arancel general (NMF) en 2026</h3><p>Lo paga el 99,4 % de los productos (5.572 de 5.604 subpartidas). Promedio simple: 5,98 %.</p><div class="src">OMC, base de datos integrada, SA 2022</div></div>
@@ -196,8 +196,10 @@ ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 <div class="card"><div class="v">31,5 %</div><h3>Techo consolidado en la OMC</h3><p>Chile puede subir hasta 25 % casi todo y hasta 31,5 % lácteos, trigo, harina y semillas oleaginosas, entre otros. Hoy aplica mucho menos.</p><div class="src">OMC, lista de concesiones de Chile</div></div>
 <div class="card"><div class="v">98 %</div><h3>Azúcar: el techo más alto</h3><p>Para el azúcar (partida 1701) el techo es 98 %, por el sistema de bandas de precios, que el Artículo 24 del ACE 35 congeló para el MERCOSUR.</p><div class="src">OMC; ACE 35, Artículo 24</div></div>
 </div>
+<!--comp-->
 <p class="note">Aranceles por subpartida de 6 dígitos (aplicado 2026 y consolidado): <a href="tablas/aranceles_chile_omc.csv" download>CSV</a> · <a href="tablas/aranceles_chile_omc.xlsx" download>Excel</a>. Fuente: OMC, Tariff &amp; Trade Data (descargado el 26/11/2026). El arancel aplicado de la OMC no incluye las preferencias del ACE 35.</p>"""
 
+ARANCELES_CHILE = ARANCELES_CHILE_BASE + "\n" + aranceles.competidores("chile", "Chile")
 
 ACUERDOS = [
     dict(

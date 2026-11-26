@@ -67,4 +67,41 @@ def seccion(pais, socio, carpeta, docs, contexto=""):
             f'<h3>Dónde se concentran los aranceles altos</h3>\n<div class="card"><div class="grupos">{barras}</div>'
             '<p class="note">Arancel NMF aplicado promedio por capítulo del Sistema Armonizado (capítulos con 5 subpartidas o más). '
             f'Aranceles por subpartida: <a href="tablas/aranceles_{pais}_omc.csv" download>CSV</a> · <a href="tablas/aranceles_{pais}_omc.xlsx" download>Excel</a>. '
-            'Fuente: OMC, Tariff &amp; Trade Data (descargado el 26/11/2026). El arancel aplicado de la OMC no incluye las preferencias de los acuerdos.</p></div>')
+            'Fuente: OMC, Tariff &amp; Trade Data (descargado el 26/11/2026). El arancel aplicado de la OMC no incluye las preferencias de los acuerdos.</p></div>\n'
+            + competidores(pais, socio))
+
+
+TRAD = [("Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)", "CPTPP (Acuerdo Transpacífico)"),
+        ("Common Market for Eastern and Southern Africa (COMESA) - Accession of Seychelles", "COMESA (adhesión de Seychelles)"),
+        ("Chile- Tariff preferences for Least developed countries (LDC)", "Preferencias para países menos adelantados"),
+        ("EU - Colombia and Peru - Accession of Ecuador", "Unión Europea"), ("United Kingdom - Colombia, Ecuador and Peru", "Reino Unido"),
+        ("Colombia - Northern Triangle (El Salvador, Guatemala, Honduras)", "Triángulo Norte (El Salvador, Guatemala, Honduras)"),
+        ("Chile - Guatemala (Chile - Central America)", "Guatemala"), ("Chile - Nicaragua (Chile - Central America)", "Nicaragua"),
+        ("Chile - Honduras under Chile - Central America trade agreement", "Honduras"), ("Pacific Alliance", "Alianza del Pacífico"),
+        ("EU-", "Unión Europea -"), ("United States", "Estados Unidos"), ("United Kingdom", "Reino Unido"), ("Korea, Republic of", "Corea del Sur"),
+        ("Hong Kong, China", "Hong Kong"), ("Viet Nam", "Vietnam"), ("Türkiye", "Turquía"), ("Mexico", "México"), ("Peru", "Perú"),
+        ("Japan", "Japón"), ("Thailand", "Tailandia"), ("Malaysia", "Malasia"), ("Panama", "Panamá"), ("Canada", "Canadá"),
+        ("free trade agreement", ""), ("trade agreement", "")]
+
+
+def nombre_es(t, pais_es):
+    for a, b in TRAD:
+        t = t.replace(a, b)
+    partes = [p.strip() for p in t.split(" - ")]
+    otros = [p for p in partes if p and p != pais_es] or partes
+    return " - ".join(otros).strip(" -")
+
+
+def competidores(pais, socio):
+    """Quién más entra con preferencia al mercado del socio (indicadores de la OMC, promedio simple)."""
+    p = DATOS / f"{pais}_preferenciales.csv"
+    if not p.exists():
+        return ""
+    d = pd.read_csv(p).drop_duplicates("duty_scheme_name")
+    d["N"] = [nombre_es(t, socio) for t in d.duty_scheme_name]
+    d = d.sort_values("simple_average")
+    filas = "".join(f'<tr><td>{e(r.N)}</td><td>{num(r.simple_average, 2)} %</td></tr>' for r in d.itertuples())
+    return (f'<h3>Quién más entra a {socio} con preferencia</h3>\n<p class="chica">Acuerdos de {socio} notificados a la OMC y el arancel '
+            'promedio que pagan esos socios. Paraguay no es el único que entra con 0 % o casi: compite con ellos. La OMC no incluye los '
+            f'acuerdos del MERCOSUR en esta lista.</p>\n<div class="tw"><table class="num"><thead><tr><th>Socio</th><th>Arancel promedio que paga</th></tr></thead><tbody>'
+            + filas + '</tbody></table></div><p class="note">Fuente: OMC, Tariff &amp; Trade Data, indicadores de aranceles preferenciales (2026).</p>')
