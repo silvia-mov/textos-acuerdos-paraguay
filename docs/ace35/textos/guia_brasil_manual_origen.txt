@@ -1,0 +1,528 @@
+Regime de Origem do
+Acordo Mercosul-Chile
+(ACE-35)
+
+MINISTÉRIO DO
+SECRETÁRIA DE D E S E N V O LV I M E N T O ,
+COMÉRCIO EXTERIOR INDÚSTRIA, COMÉRCIO
+E SERVIÇOS
+
+Ficha Técnica
+Geraldo José Rodrigues Alckmin Filho
+Ministro do Desenvolvimento, Indústria, Comércio e Serviços
+
+Tatiana Prazeres
+Secretária de Comércio Exterior
+
+Ana Claudia Takatsu
+Diretora de Negociações Internacionais
+
+Thalis Rafael Figueiredo Silva
+Coordenador-Geral de Regimes de Origem
+
+ELABORAÇÃO
+COORDENAÇÃO-GERAL DE REGIMES DE ORIGEM
+
+Thalis Rafael Figueiredo Silva
+Coordenador-Geral
+
+Claudia Ferraz dos Santos Silveira
+Coordenadora
+
+Raquel Mayer Moreira Barros
+Chefe de Divisão
+
+Rodolpho Emerson Silva de Vasconcellos
+Especialista em Regulação de Transportes
+
+Temistócles Lisandro Sena Loiola
+Analista de Comércio Exterior
+
+Carlos Alberto Araújo de Almeida
+Economista
+
+Lucas Porto de Souza Fontão
+Analista Técnico-Administrativo
+
+Rosalia Raquel Pesoa
+Analista Técnico-Administrativo
+
+apresentação
+
+O Acordo de Complementação Econômica nº 35 (ACE-35), firmado entre o Mercosul
+e o Chile no âmbito da ALADI, é um dos mais relevantes instrumentos de integração comer-
+cial do Brasil. O Chile foi o 8º destino das exportações brasileiras em 2024, enquanto o Brasil
+é o 3º principal parceiro comercial do Chile, evidenciando a intensidade e a importância es-
+tratégica dessa relação bilateral.
+Em 2021, iniciaram-se negociações para modernizar o Regime de Origem do ACE-35
+entre Mercosul e Chile, a fim de alinhá-lo ao novo regime de origem do Mercosul (ROM) e
+às melhores práticas internacionais. O processo foi concluído em 26 de novembro de 2024,
+com a aprovação do 69º Protocolo Adicional. No Brasil, o novo regime foi internalizado pela
+Resolução GECEX nº 751/2025 e entrará em vigor em 30 de setembro de 2025, substituindo
+o anterior.
+Assim, este Manual, de iniciativa da Secretaria de Comércio Exterior (SECEX) do Minis-
+tério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), foi cuidadosamente elabo-
+rado com o objetivo de apresentar os novos conceitos presentes no novo regime de origem
+com o Chile (69º Protocolo Adicional ao ACE-35), com o fito de preparar os operadores co-
+merciais e outros interessados no comércio regional entre o Mercosul e o Chile.
+Este Manual foi concebido para ser uma ferramenta abrangente e de fácil acesso,
+destinada não apenas aos usuários recorrentes, mas também a todos aqueles que buscam
+aprofundar seu entendimento sobre regras de origem, em especial nas relações preferen-
+ciais dos sócios do Mercosul com o país andino. Com uma linguagem clara e exemplos prá-
+ticos, o objetivo é desmistificar esse tema e fornecer aos leitores as ferramentas necessárias
+para compreender os conceitos relacionados às regras de origem de forma ampla.
+
+Sumário
+Introdução 5
+2. Principais mudanças 6
+2.1. Harmonização dos requisitos específicos de origem (REOS) 6
+2.2. Flexibilização para o setor automotivo 7
+2.3. Expedição direta versus não alteração 7
+2.4. De minimis 8
+3. Autocertificação de origem 9
+4. Verificação e controle de origem 11
+5. Apêndices 13
+5.1. Certificado de origem 13
+5.2. Declaração de origem 15
+
+introdução
+O regime de origem determina a nacionalidade econômica de um produto, sendo
+essencial para definir se um bem pode usufruir das preferências tarifárias do acordo.
+Em um acordo comercial preferencial, o regime de origem é o conjunto de normas,
+procedimentos e requisitos que uma empresa deve seguir para que uma mercadoria seja
+considerada “originária” de um dos países-membros do acordo. Em outras palavras, é o arca-
+bouço legal e administrativo que determina se um produto se qualifica para receber o trata-
+mento tarifário preferencial (ou seja, ter acesso a tarifas de importação reduzidas ou zeradas)
+negociado no acordo.
+O regime de origem não se limita a apenas uma regra, mas engloba diversos aspec-
+tos, como:
+Critérios de origem: Os requisitos que um produto deve cumprir para ser con-
+siderado originário.
+Documentação e certificação: Os documentos necessários (como o Certifica-
+do de Origem) para comprovar a origem do produto.
+Procedimentos de verificação: Como as autoridades aduaneiras podem verifi-
+car a origem de um produto.
+Disposições sobre transporte: As regras sobre como a mercadoria deve ser
+transportada para manter seu status de originário.
+No ACE-35, as regras de origem anteriores foram consideradas complexas e, muitas
+vezes, desalinhadas com as melhores práticas internacionais. Isso gerava dificuldades opera-
+cionais para exportadores, importadores e autoridades aduaneiras.
+Nesse sentido, Mercosul e Chile acordaram a atualização do regime de origem do
+acordo por meio do 69º Protocolo Adicional ao ACE-35, que substituiu integralmente o 63º
+PA.
+69º Protocolo Adicional Regime
+de Origem entre Mercosul e Chile
+
+O novo regime é fruto dos esforços de modernização que o Mercosul tem en-
+vidado para modernizar as regras de origem vigentes e alinhá-las às melhores práticas in-
+ternacionais. Este manual vem no esteio desses esforços para auxiliar a compreensão dos
+operadores comerciais e de outros interessados no comércio regional entre o Mercosul e o
+Chile.
+A seguir você encontrará, de maneira sintética, os principais conceitos do novo
+regime, as principais mudanças com relação ao seu antecessor e, por fim, considerações so-
+bre os apêndices do Protocolo.
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+2. principais
+mudanças
+O regime de origem é o corpo normativo que contém o alcance, os critérios, as exi-
+gências e as obrigações de determinado acordo em matéria de origem e que regula a apli-
+cação e o acesso aos benefícios estabelecidos por esse acordo.
+O regime de origem com o Chile, previsto no 63º Protocolo Adicional ao ACE nº 35,
+estava defasado em relação ao ambiente de negócios atual, tornando necessária sua atuali-
+zação para refletir a realidade produtiva e comercial moderna.
+Essas mudanças foram compiladas no 69º PA ao ACE-35, internalizado no Brasil pela
+Resolução GECEX no 751/2025, sendo que os principais avanços serão abordados a seguir.
+
+ATENÇÃO
+O novo regime de origem do ACE-35 (69º PA ao ACE-35)
+entra em vigor no dia 30 de setembro de 2025
+
+2.1. HARMONIZAÇÃO DOS REQUISITOS ESPECÍFICOS DE ORIGEM (REOS)
+Os REOs são requisitos que as Partes Signatárias concordaram em estabelecer nos
+casos em que as regras gerais não são consideradas suficientes para determinar a transfor-
+mação substancial do produto exportado.
+Assim, diversos REOs foram revistos para reduzir divergências entre o ACE-35 e o
+novo ROM. Por exemplo, houve avanços relevantes para inúmeros setores, como para produ-
+tos químicos.
+A referida harmonização das regras permite o ganho de escala das empresas brasi-
+leiras e reduz custos de adequação.
+
+ATENÇÃO
+Os REOs podem ser encontrados nos Apêndices nº 1 (Geral)
+e nº 3 (Setor Automotivo).
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+Principais Mudanças
+
+2.2. FLEXIBILIZAÇÃO PARA O SETOR AUTOMOTIVO
+O limite de insumos não originários para veículos e autopeças foi flexibilizado, pas-
+sando de 40% para 50%, o que aumenta a competitividade e estimula a integração em ca-
+deias de valor regionais.
+
+Exemplo
+O produtor brasileiro de espelhos retrovisores para
+veículos poderá importar mais insumos de extrazona,
+como tintas reflexivas, sem comprometer a origem do
+produto, ampliando sua competitividade.
+
+ATENÇÃO
+Os produtos do setor automotivo (Anexo I do Apêndice
+3) devem ser certificados na NALADI SH-1996. Contudo,
+os demais produtos devem ser certificados com base na
+NALADI SH-2012.
+
+2.3. EXPEDIÇÃO DIRETA VERSUS NÃO ALTERAÇÃO
+Outro ganho observado com o exercício da revisão do Regime é a substituição do
+conceito de “Expedição Direta” pelo de “Não Alteração”, segundo o qual os operadores po-
+dem utilizar centros de distribuição ao redor do mundo, desde que haja controle aduaneiro,
+privilegiando a lógica comercial e logística.
+
+Exemplo
+Determinada empresa brasileira decide utilizar um cen-
+tro de distribuição na Colômbia para atender a todo o
+mercado latino, inclusive o Chile. Essa empresa poderá
+se beneficiar das preferências sob o ACE-35?
+De acordo com o regime vigente, 63º PA ao ACE-35, essa
+empresa não poderia utilizar centros de distribuição na
+Colômbia, haja vista que não cumpriria o disposto no ar-
+tigo 9 (b).
+Contudo, com o novo regime, essa operação é possível,
+desde que haja controle aduaneiro na Colômbia.
+
+ATENÇÃO
+O novo regime de origem Mercosul-Chile privilegia a lógica
+comercial e a logística internacional, sem comprometer a
+segurança das operações.
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+Principais Mudanças
+
+2.4. DE MINIMIS
+De minimis é uma flexibilidade existente em alguns acordos que permite que a mer-
+cadoria seja considerada originária, ainda que alguns materiais não originários não cumpram
+com a regra estabelecida de salto tarifário. Nesses casos, a regra do de minimis define um
+percentual limite de valor ou peso, negociado no acordo, que determinado material não ori-
+ginário pode representar em relação ao produto exportado.
+No atual regime de origem do ACE-35, há tolerância para produtos enquadrados na
+regra geral, mas essa flexibilidade não se aplica aos produtos sujeitos aos REOs. Com a re-
+visão, o benefício do de minimis passará a ser estendido a todos os produtos que utilizarem
+o critério de salto tarifário para comprovar origem, representando um importante ganho de
+competitividade aos produtores nacionais.
+
+ATENÇÃO
+Os produtos compreendidos nos capítulos 50 a 63 que
+estejam nos Apêndices 1 e 3 não poderão utilizar o de
+minimis
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+3. autocertificação
+de origem
+
+ATENÇÃO
+A autocertificação de origem com o Chile ainda não será imple-
+mentada.
+
+Além do Certificado de Origem em papel e do Certificado de Origem Eletrônico (COE),
+já implementado desde 3 de junho de 2025, as empresas poderão utilizar a autocertificação
+de origem após sua regulamentação.
+A partir do novo regime de origem do ACE-35, as Partes acordaram a adoção
+de uma nova forma de prova de origem, a autocertificação, na qual os próprios operadores
+comerciais poderão declarar a origem de seu produto.
+É importante frisar, entretanto, que essa alternativa ainda não está disponível, pois
+depende de regulamentação específica para começar a valer.
+Quando implementado, o novo regime contará com diversas ferramentas que garan-
+tem a sua credibilidade, como a obrigação de que os produtores e exportadores guardem os
+documentos de apoio por três anos, com o propósito de serem investigados, se necessário.
+Constatada a adulteração ou a falsificação das provas de origem em quaisquer
+de seus elementos, o país de exportação poderá impedir a emissão de provas de origem para
+o mesmo produto por um prazo máximo de até 18 meses. Isso mostra um compromisso para
+que a facilitação de comércio prospere em um ambiente de negócios justo e transparente
+para todos os operadores econômicos.
+Esse modelo híbrido - no qual o exportador poderá escolher entre emitir certificados
+tradicionais ou optar pela autocertificação - alinha-se às melhores práticas internacionais, já
+adotadas por países como os da União Europeia e os Estados Unidos.
+Entende-se, assim, que o conhecimento das entidades habilitadas será muito útil às
+empresas exportadoras, nesse novo contexto de certificação, para garantir que seus impor-
+tadores se beneficiem das preferências tarifárias negociadas pelo Brasil.
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+Autocertificação de Origem
+
+ATENÇÃO
+Mais informações sobre a Autocertificação de
+Origem podem ser obtidas no Guia de Autocertifi-
+cação da SECEX
+
+A adoção da autocertificação de origem permite que a própria em-
+presa exportadora ou produtora preencha a fatura comercial, ou outro
+documento pertinente, com dados mínimos que a transforme em uma
+prova de origem válida, substituindo o Certificado de Origem emitido
+pelas entidades habilitadas.
+
+No novo regime, o operador comercial poderá optar por autocertificar
+a origem do seu produto ou adquirir um certificado de origem em uma
+das entidades habilitadas. A autocertificação já estava prevista nos
+acordos com União Europeia, EFTA e Singapura e certamente contri-
+bui para a facilitação comercial e redução de custos ao se permitir o
+uso de uma prova de origem de emissão mais célere e menos onerosa.
+
+A adoção de um modelo híbrido de prova de origem visa atender à
+realidade de todos os tipos de exportadores brasileiros, já que uma
+grande empresa pode ter capacidade de analisar e autocertificar a
+origem do seu produto, mas uma pequena, ou média empresa, pode
+necessitar do auxílio de uma entidade para emissão de um certificado.
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+4. verificação e
+controle de origem
+Os novos dispositivos acordados permitem que as aduanas façam, quando se julgue
+necessário e suficiente, contatos diretos com os produtores ou exportadores, sem a neces-
+sidade de abertura de um procedimento formal de investigação de origem pela autoridade
+competente do país de exportação.
+Assim, será possível liberar operações comerciais com maior agilidade, reduzindo o
+ônus para os operadores comerciais e diminuindo os custos administrativos para os gover-
+nos. Dessa maneira, atende-se a um importante pleito da indústria nacional por celeridade
+nas eventuais investigações.
+
+ATENÇÃO
+A prova de origem pode ser aceita pela aduana ou
+substituída, ou seja, nunca simplesmente rechaçada
+
+O novo texto também prevê a possibilidade de substituição da prova de origem quan-
+do a aduana do país importador entenda necessário. O objetivo é privilegiar a verdade mate-
+rial dos fatos e não apenas formalidades documentais, como ocorre no procedimento atual.
+Portanto, eventuais equívocos na prova de origem serão tratados como erros formais,
+já que o que realmente importa para a aduana é confirmar se o produto é, de fato, originário.
+
+Exemplo
+A RFB deseja investigar um produtor chileno.
+Hoje, a RFB precisa notificar o governo chileno, quem enviará a solicitação de es-
+clarecimento para a entidade habilitada que, por sua vez, contatará o exportador. O
+exportador, ao responder, o faz à entidade emissora, esta ao seu governo que, então,
+envia a informação à aduana brasileira.
+Todo esse trâmite, além de representar custos administrativos e uma excessiva buro-
+cracia, aumenta os prazos da investigação e, eventualmente, o prazo para liberação
+das garantias constituídas, impactando na segurança jurídica das operações e no flu-
+xo de caixa das empresas.
+No novo regime de origem do ACE-35, a RFB poderá contatar diretamente o exporta-
+dor, apenas notificando o governo do Chile.
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+Verificação e Controle de Origem
+
+Nesse diapasão, permitir-se-á ao operador retificar eventuais erro por meio de um
+simples esclarecimento ou da apresentação de uma nova prova de origem em substituição à
+anterior, o que certamente será menos oneroso do que ter a origem desqualificada e a con-
+sequente cobrança do imposto de importação e multas.
+
+Novo Regime de Origem do ACE-35
+Menos burocracia + Mais facilitação de comércio =
+Mais fluxo comercial
+
+Novo Regime de Origem do ACE-35
+Erros no critério de origem não representam
+denegação de preferências.
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+5. apêndices
+
+5.1. CERTIFICADO DE ORIGEM
+O novo regime traz um modelo de Certificado de Origem (Apêndice nº 4) e orienta-
+ções para o seu preenchimento (Apêndice nº 5). Ambos os documentos apresentam de for-
+ma sequencial e detalhada a forma correta de preencher o Certificado de Origem.
+A seguir, segue uma tabela para auxiliar no preenchimento do Campo 13, relativo às
+normas de origem que devem ser indicadas para cada produto.
+
+REGRA DE ORIGEM REQUISITO INDICADO NO CERTIFICADO
+
+Produtos totalmente elaborados ou
+produzidos no território de uma das Anexo 13, Art. 4º, Inciso 1
+partes
+
+Produtos que sejam elaborados in-
+tegralmente no território de uma ou
+mais Partes Signatárias, quando em
+Anexo 13, Art. 4º, Inciso 2
+sua elaboração forem utilizados úni-
+ca e exclusivamente materiais origi-
+nários das Partes Signatários
+
+Produtos elaborados com materiais
+não originários, desde que resultem
+de um processo de transformação
+realizado nos territórios das Partes
+Signatárias, que lhes confira uma
+Anexo 13, Art. 4º, Inciso 3
+nova individualidade. Esta individu-
+alidade está presente no fato de o
+produto ser classificado em uma po-
+sição diferente dos materiais (quatro
+primeiros números da NALADI/SH)
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+APÊNDICES
+
+Produtos elaborados com materiais
+não originários que não cumpram o
+requisito indicado na alínea c), por-
+que o processo de transformação
+não implica salto de posição, mas Anexo 13, Art. 4º, Inciso 4
+o valor CIF porto de destino ou CIF
+porto marítimo dos materiais não
+originários não excede 40% do valor
+FOB de exportação do produto final.
+
+Produtos resultantes de operações
+de montagem ou ensamblagem re-
+alizadas dentro do território de uma
+das Partes Signatárias, apesar de
+cumprir o salto de posição, utilizan-
+Anexo 13, Art. 4º, Inciso 5
+do materiais não originários, quando
+o valor CIF porto de destino ou CIF
+porto marítimo desses materiais não
+exceda 40% do valor FOB de expor-
+tação do produto final
+
+Produtos que cumpram os requisi-
+tos específicos, conforme o Artigo 8 Anexo 13, Art. 4º, Inciso 6
+(Requisitos específicos de origem).
+
+Exportações de Modelos Novos > Apêndice Nº
+3, Anexo I, Inciso 2
+Produtos do setor automotivo do
+Anexo I do Apêndice nº 3 Demais Produtos >
+Apêndice Nº 3, Anexo I, Inciso 1
+
+DÚVIDA
+Um Certificado pode cobrir duas ou mais faturas?
+Sim! No novo regime, não é mais necessário guardar a relação de um
+certificado para cada fatura expedida. O novo regime permite que uma
+prova de origem possa compreender mais de uma fatura comercial.
+Todos os erros podem ser corregidos
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+APÊNDICES
+
+5.2. DECLARAÇÃO DE ORIGEM
+
+O Apêndice nº 6 apresenta aos operadores comerciais um rol de informações que
+devem estar presentes na Declaração de Origem realizada pelo exportador. Importante lem-
+brar que, com a possibilidade de autocertificação, é este documento que formará a base da
+solicitação de tratamento tarifário preferencial sob o ACE-35.
+
+Abaixo uma lista dos elementos mínimos.
+
+ELEMENTO INFORMAÇÃO
+
+Nome, Endereço com País, E-mail, Número de
+Exportador
+telefone
+
+Nome, Endereço com País, E-mail, Número de
+telefone
+Obs: Se o Produtor for diferente do Exporta-
+dor ou se houver vários produtores, deverá
+Produtor ser apresentada a lista dos produtores. Caso
+o exportador queira que essas informações
+permaneçam confidenciais, poderá declarar
+“Disponível a pedido das autoridades compe-
+tentes.”
+
+Descrição e classificação tarifária
+A descrição deve estar apresentada em nível
+do produto segundo a nomenclatu-
+de 8 dígitos
+ra da ALADI
+
+Número e data da fatura comercial Dados da Fatura
+
+Nome completo, assinatura e data Responsável por certificar a origem do produto
+
+“Certifico que os produtos descritos neste
+documento qualificam como originários sob o
+“Artigo 4 (Qualificação de origem)” e as infor-
+Além dos itens anteriores, a decla-
+mações contidas neste documento são verda-
+ração deve ser assinada e datada
+deiras e exatas. Assumo a responsabilidade de
+pelo exportador ou produtor e
+provar o aqui declarado e me comprometo a
+acompanhada da declaração trans-
+conservar e a apresentar, caso seja requerido,
+crita ao lado:
+a documentação necessária para sustentar
+esta certificação, ou disponibilizá-la durante
+uma visita de verificação”
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+APÊNDICES
+
+QUADRO RESUMO
+
+COMO É? COMO VAI SER? COMO ISSO ME AFETA?
+
+Modelo híbrido: Certificado e Declara- As empresas poderão escolher a op-
+Certificado de Origem
+ção de Origem ção mais adequada à sua realidade
+
+REOS distintos do novo Harmonização para diversos setores, Ganho de escala e redução de cus-
+ROM como químicos tos de adaptação
+
+40% de máximo conte-
+50% de máximo conteúdo importado Regra mais flexível que impulsionará
+údo importado para o
+para o setor automotivo o fluxo comercial da região
+setor automotivo
+
+Possibilidade de possuir centros de
+distribuição em terceiros países,
+Expedição Direta Não alteração
+desde que sob controle aduaneiro
+
+De minimis aplicável a qualquer produto
+Mais flexibilidade para o cumpri-
+De minimis aplicável que invoque o critério de
+mento das regras de origem da
+somente à regra geral salto tarifário
+mercadoria
+
+Erros no certificado Valorização da verdade material e pos-
+Mais segurança jurídica e justiça
+poderiam resultar na sibilidade de substituição da prova de
+comercial
+denegação origem
+
+Definição de um prazo máximo de
+investigação e possibilidade de con-
+Investigações lentas e tato direto entre a autoridade que
+Investigações rápidas e assertivas
+burocráticas investiga e o exportador, reduzindo
+prazos e burocracia
+
+ATENÇÃO
+A vigência do novo regime de origem do ACE-35 começará no
+dia 30 de setembro de 2025
+
+Regime de Origem do Acordo Mercosul-Chile (Ace-35)
+
+Regime de Origem do
+Acordo Mercosul-Chile
+(ACE-35)
+
+Coordenação-Geral de Regimes de Origem
+Departamento de Negociações Internacionais
+Secretaria de Comércio Exterior
+Ministério do Desenvolvimento, Indústria,
+Comércio e Serviços

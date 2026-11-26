@@ -1,0 +1,150 @@
+                                    COORDENAÇÃO-GERAL DE REGIMES DE ORIGEM (CGRO) – DEINT/SECEX/MDIC
+Ficha Técnica: ACE 35 (MERCOSUL-CHILE)
+Legislação em vigor (a partir de 30.09.2025): 69º Protocolo Adicional ao ACE 35 (Resolução GECEX nº 751, de 3 de julho de 2025).
+Última Atualização: 08.08.2025
+                                         CONCEITO                                                            NORMAS                             OBSERVAÇÕES
+ Nomenclatura do Acordo                     Nomenclatura do Sistema Harmonizado 69º PA ao ACE 35                                       NALADI SH-2012
+                                            utilizada para definir os produtos negociados                                              NALADI SH-1996 para o setor
+                                            no acordo e suas respectivas regras de origem                                              automotivo (Anexo I do
+                                            e preferências tarifárias.                                                                 Apêndice 3)
+ Totalmente Elaborados ou Obtidos           Produtos totalmente elaborados ou obtidos no 69º PA ao ACE 35, art. 4º, §1º
+                                            território de um ou mais Estados Partes.
+ Elaborados Exclusivamente a Partir de      Produtos elaborados no território de um ou 69º PA ao ACE 35, art. 4º, §2º
+ Materiais Originários                      mais Estados Partes exclusivamente a partir de
+                                            materiais originários.
+ Regra Geral                                Princípio de determinação de origem que se 69º PA ao ACE 35, art. 4º, §3º, §4º e §5º
+                                            aplica a todos os produtos negociados, exceto
+                                            aquelas mercadorias para as quais se deseja
+                                            estabelecer uma exigência de origem distinta.
+ Regras Específicas                         São as exceções à regra geral. Para cada produto 69º PA ao ACE 35, art. 8º                 Os requisitos específicos de
+                                            é definido uma regra específica.                 69º PA ao ACE 35, Apêndices nº 1, 2 e 3   origem prevalecerão sobre as
+                                                                                                                                       regras gerais, dispostas no art. 4º
+ Critérios de Qualificação Salto            Estabelece que a mudança de classificação 69º PA ao ACE 35, art. 4º, §3º
+ de Origem (utilização de Tarifário         tarifária dos insumos originários, em qualquer
+ materiais não-originários)                 nível de abertura da nomenclatura, pode
+                                            resultar em uma mercadoria originária, uma
+                                            vez que houve uma transformação substancial.
+                            Máximo          Define um limite máximo da participação dos 69º PA ao ACE 35, art. 4º, § 4º e 5º
+                            Conteúdo        insumos importados no preço da mercadoria
+                            Importado       exportada.
+
+
+                                                                                                                                                                        1
+                                         CONCEITO                                                          NORMAS            OBSERVAÇÕES
+                            Requisitos      Exigência que especifica certos processos 69º PA ao ACE 35, Apêndices nº 1 e 3
+                            Técnicos/       produtivos que devem ser efetuados,
+                            Processos       obrigatoriamente, no território de um país
+                            Produtivos      membro, para que a mercadoria produzida seja
+                                            considerada originária.
+Trânsito e não alteração dos produtos       Exigências adicionais relacionadas com a 69º PA ao ACE 35, art. 11
+                                            logística da mercadoria, que devem ser
+                                            obedecidas para que esta seja considerada
+                                            originária.
+
+Operações Insuficientes                     Processos produtivos que, por sua simplicidade 69º PA ao ACE 35, art. 6º
+                                            e por agregar pouco valor, não são
+                                            considerados suficientemente importantes
+                                            para conferir origem à mercadoria final.
+
+
+
+
+“De minimis”                                Permite que um determinado percentual de 69º PA ao ACE 35, art. 5º
+                                            insumos não-originários que não cumprem a
+                                            exigência de salto tarifário estabelecida possa
+                                            ser utilizado na produção de uma mercadoria,
+                                            sem que esta perca sua condição de originária.
+                                            Esse percentual pode ser de quantidade ou
+                                            valor.
+Tratamento Diferenciado                     Flexibilidade para países membros de menor 69º PA ao ACE 35, art. 4, §7º
+                                            desenvolvimento econômico relativo.        69º PA ao ACE 35, Apêndice nº 2
+
+
+
+
+                                                                                                                                           2
+                                      CONCEITO                                                             NORMAS                  OBSERVAÇÕES
+Fórmula de Cálculo de Valor de Conteúdo   Fórmula para calcular o critério de qualificação 69º PA ao ACE 35, art. 4, §4º
+Importado                                 de conteúdo regional.
+Acumulação                                Permite que os insumos originários de outros 69º PA ao ACE 35, art. 10, §1º
+                                          países membros do acordo sejam considerados
+                                          também como originários para determinar a
+                                          origem da mercadoria final.
+Acumulação Estendida                      Permite que os países membros possam 69º PA ao ACE 35, art. 10, §2º
+                                          acumular insumos de terceiros países
+
+Acumulação de Processos                   Considera o território dos países membros NÃO APLICÁVEL
+                                          como um único território, priorizando os
+                                          processos.
+Prova de Origem                           Documento que comprova que a mercadoria 69º PA ao ACE 35, art. 14 a 16
+                                          cumpre o estabelecido em determinado regime
+                                          de origem de um acordo comercial, permitindo
+                                          assim o tratamento tarifário preferencial.
+Certificado de Origem                     Documento que atesta o caráter originário da     69º PA ao ACE 35, art. 17       Formato estabelecido no
+                                          mercadoria.                                                                      Apêndice nº 4 (Certificado de
+                                                                                                                           Origem – ACE N° 35)
+Certificado de Origem Eletrônico ou       Certificado de origem emitido eletronicamente 69º PA ao ACE 35, art. 17, §2º     Estrutura deverá conter campos
+Digital                                   com assinatura digital (sem papel).                                              indicados no Apêndice Nº 4
+                                                                                                                           (Certificado de origem do ACE N°
+                                                                                                                           35)
+Entidades Certificadoras                  Entidades habilitadas pelos governos           a 69º PA ao ACE 35, art. 18
+                                          emitirem certificados de origem.
+Terceiro Operador                         Operador diferente ao produtor e exportador 69º PA ao ACE 35, art. 12
+                                          da mercadoria.
+
+
+
+
+                                                                                                                                                           3
+                                           CONCEITO                                                          NORMAS     OBSERVAÇÕES
+ Verificação de Origem e Investigação de      Atividades relacionadas com o controle e 69º PA ao ACE 35, art. 22 a 36
+ Origem                                       constatação do cumprimento das regras de
+                                              origem por uma mercadoria declarada como
+                                              originária.
+
+
+
+
+Sanções                                      Ações para punir eventuais infrações cometidas 69º PA ao ACE 35, art. 40
+                                             pelas entidades emissoras dos certificados de
+                                             origem ou seus solicitantes.
+
+
+Quota                                        Limite quantitativo para a importação de NÃO APLICÁVEL
+                                             determinado bem com preferência tarifária.
+Mercadoria Originária                        Mercadoria que cumpre com as exigências do 69º PA ao ACE 35, art. 4º
+                                             regime de origem e, por conseguinte, faz jus ao
+                                             tratamento preferencial.
+Materiais Indiretos ou Neutros               Materiais empregados na produção, verificação NÃO APLICÁVEL
+                                             ou inspeção de uma mercadoria, podendo estar
+                                             ou não fisicamente incorporados a ela.
+Materiais Intermediários                     Material originário produzido por um fabricante NÃO APLICÁVEL
+                                             que o utiliza na produção de outra mercadoria.
+Materiais Fungíveis                          Materiais   intercambiáveis      para  efeitos NÃO APLICÁVEL
+                                             comerciais     cujas      propriedades    são
+                                             essencialmente idênticas.
+
+
+
+
+                                                                                                                                      4
+                                 CONCEITO                                                      NORMAS   OBSERVAÇÕES
+Jogos e Sortidos                   Bens que podem ser comercializados NÃO APLICÁVEL
+                                   conjuntamente, constituindo um conjunto de
+                                   mercadorias de uma mesma gama ou que se
+                                   complementam em seu uso, de acordo com a
+                                   Regra Geral 3 do SH.
+ Mecanismo de Desabastecimento      Mecanismo que determina a possibilidade de NÃO APLICÁVEL
+                                    utilização de materiais não-originários, sem
+                                    que comprometa a qualificação de origem da
+                                    mercadoria, quando não houver produção dos
+                                    insumos nos países membros ou quando
+                                    houver     problemas    circunstanciais    de
+                                    abastecimento, tais como: disponibilidade ou
+                                    prazo de entrega.
+
+
+
+
+                                                                                                                      5
+

@@ -53,6 +53,13 @@ def identificar(b):
         k = m.group(1)
         grupo = "Anexos del Programa de Liberación" if k not in ("13", "14", "P", "15_pt", "15") else "Origen y controversias"
         return f"anexo_{k.lower()}", ANEXOS[k], grupo
+    if b == "ACE_035_064_01_Decision_CA_02_2024":
+        return ("protocolo_64_1_decision_02_2024", "Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio "
+                "Brasil–Chile: cosméticos (base del Protocolo 64.1)", "Protocolos adicionales")
+    if b == "ACE_035_Guia_BR_Ficha_Tecnica":
+        return "guia_brasil_ficha_tecnica", "Brasil (MDIC): Ficha técnica del régimen de origen del ACE 35, 2025 (en portugués)", "Guías de otros países"
+    if b == "ACE_035_Guia_BR_Manual_Origen":
+        return "guia_brasil_manual_origen", "Brasil (MDIC): Manual del Régimen de Origen del ACE 35 (en portugués)", "Guías de otros países"
     if b == "ACE_035_Notas_PY":
         return "notas_paraguay", "Notas complementarias de Paraguay (Artículos 5, 6 y 7)", "Acuerdo"
     m = re.fullmatch(r"ACE_035_Notas_Art(\d)", b)
@@ -79,6 +86,7 @@ def identificar(b):
 
 
 SICE = Path(__file__).resolve().parent / "datos" / "sice"
+OTROS = Path(__file__).resolve().parent / "datos" / "otros"     # documentos de otras fuentes (Brasil)
 
 
 def leer(b, ocr):
@@ -86,6 +94,9 @@ def leer(b, ocr):
     p = SICE / f"{b}.txt"
     if p.exists():
         return p.read_text(encoding="utf-8"), "texto del SICE"
+    p = OTROS / f"{b}.txt"
+    if p.exists():
+        return p.read_text(encoding="utf-8"), ("OCR" if "Decision" in b else "texto del PDF")
     p = ocr / f"{b}.txt"
     if p.exists():
         return p.read_text(encoding="utf-8", errors="replace"), "texto del PDF"
@@ -136,7 +147,8 @@ def main(carpeta_pdf, ocr):
     carpeta_pdf, ocr = Path(carpeta_pdf), Path(ocr)
     (SALIDA / "textos").mkdir(parents=True, exist_ok=True)
     filas, textos = [], []
-    nombres = sorted({p.stem for p in carpeta_pdf.glob("ACE_035_*.pdf")} | {p.stem for p in SICE.glob("ACE_035_*.txt")})
+    nombres = sorted({p.stem for p in carpeta_pdf.glob("ACE_035_*.pdf")} | {p.stem for p in SICE.glob("ACE_035_*.txt")}
+                     | {p.stem for p in OTROS.glob("ACE_035_*.txt")})
     for b in nombres:
         pdf = carpeta_pdf / f"{b}.pdf"
         id_, titulo, grupo = identificar(b)
@@ -150,7 +162,7 @@ def main(carpeta_pdf, ocr):
         sin = sintesis(bruto) if grupo == "Protocolos adicionales" and "_" not in id_[10:] else ""
         paginas = len(re.findall(r"\f", bruto)) + 1 if lectura == "OCR" else bruto.count("\f") or 1
         filas.append({"ID": id_, "TITULO": titulo, "SINTESIS": sin, "GRUPO": grupo, "FECHA": f,
-                      "ARCHIVO_ALADI": pdf.name if pdf.exists() else "(solo SICE)", "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
+                      "ARCHIVO_ALADI": pdf.name if pdf.exists() else ("(solo SICE)" if (SICE / f"{b}.txt").exists() else "(Siscomex, Brasil)"), "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
         (SALIDA / "textos" / f"{id_}.txt").write_text(t, encoding="utf-8")
         textos.append({"id": id_, "titulo": titulo, "sintesis": sin, "grupo": grupo, "fecha": f, "paginas": paginas,
                        "lectura": lectura, "tabla": tabla, "texto": t})

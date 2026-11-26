@@ -3,7 +3,7 @@
 Textos y tablas del Acuerdo de Complementación Económica N° 35, armados con `python/ace35_armar.py` a partir de los
 archivos publicados por la ALADI (los PDF no se publican aquí).
 
-- `catalogo.csv/.xlsx`: 136 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
+- `catalogo.csv/.xlsx`: 139 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
   Adicionales 1 a 69 y 64.1, con sus anexos y apéndices). Cada protocolo tiene fecha y síntesis (su primer artículo).
 - `textos/`: texto de cada documento. 43 se leyeron con OCR (eran imágenes escaneadas): pueden tener errores de lectura.
 - `estructura.json`: los 26 títulos del Acuerdo (57 artículos).
@@ -23,3 +23,4 @@ Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus ve
 - Copias en texto del SICE (OEA), 26/11/2026, en `python/datos/sice/`: Anexo 4, Anexo 12 (los cuatro países), notas complementarias de Paraguay y Anexo 15 en español. Reemplazan al OCR en esos documentos.
 - `tablas/paraguay_lista_adecuacion_anexo12`: Lista de Adecuación de Paraguay (298 productos, arancel para Chile 1996–2006), del SICE.
 - `tablas/chile_a_paraguay_margenes_iniciales_1996`: columna FUENTE; hasta la partida 1702 viene del SICE (48 productos), el resto del OCR.
+- Siscomex (Brasil): ficha técnica y manual del régimen de origen (portugués), Decisión 02/2024 de la Comisión Administradora Brasil–Chile (OCR) y planilla NALADISA 2012 con 100 % en los 6.811 códigos (`tablas/naladisa_2012_preferencias_chile`). Fuentes en `python/datos/otros/`.
