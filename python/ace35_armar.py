@@ -28,7 +28,8 @@ ANEXOS = {
     "6": "Anexo 6 – Productos sensibles: desgravación del año 10 al 15 (100 % en 2011)",
     "7": "Anexo 7 – Productos con tratamiento especial a 15 años (cupos)",
     "8": "Anexo 8 – Productos sensibles: desgravación del año 11 al 16 (100 % en 2012)",
-    "9": "Anexo 9 – Productos de incorporación diferida (100 % desde el 1/1/2014)",
+    "9": "Anexo 9 – Productos de incorporación diferida: trigo y harina de trigo (100 % desde el 1/1/2014)",
+    "P": "Protocolo sobre Integración Física",
     "10": "Anexo 10 – Productos con márgenes de preferencia iniciales propios",
     "11": "Anexo 11 – Aranceles máximos de Argentina para productos de Chile",
     "12_AR": "Anexo 12 – Aranceles residuales para Chile: Argentina",
@@ -48,7 +49,7 @@ def identificar(b):
     m = re.fullmatch(r"ACE_035_Anexo_(\w+)", b)
     if m:
         k = m.group(1)
-        grupo = "Anexos del Programa de Liberación" if k not in ("13", "14") else "Origen y controversias"
+        grupo = "Anexos del Programa de Liberación" if k not in ("13", "14", "P") else "Origen y controversias"
         return f"anexo_{k.lower()}", ANEXOS[k], grupo
     m = re.fullmatch(r"ACE_035_Notas_Art(\d)", b)
     if m:
@@ -113,7 +114,7 @@ def sintesis(texto):
 
 
 def es_tabla(id_, texto):
-    if re.fullmatch(r"anexo_(\d+|12_\w\w)", id_) and id_ not in ("anexo_13", "anexo_14"):
+    if re.fullmatch(r"anexo_(\d+|12_\w\w)", id_) and id_ not in ("anexo_13", "anexo_14", "anexo_9"):
         return True
     lineas = [l for l in texto.splitlines() if l.strip()]
     codigos = sum(1 for l in lineas if re.match(r"\s*[:|]?\s*\d{4}(\.\d{2}){0,3}\b", l))

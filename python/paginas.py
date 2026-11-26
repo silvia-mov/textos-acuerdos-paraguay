@@ -148,10 +148,10 @@ ACUERDOS = [
         descripcion="El ACE 35 (MERCOSUR–Chile) ordenado y buscable: texto del Acuerdo, 14 anexos, 69 protocolos adicionales, "
                     "el régimen de origen de 2025 y la lista especial de origen para las exportaciones de Paraguay a Chile.",
         h1="ACE 35: el acuerdo del MERCOSUR con <em>Chile</em>, completo y en un solo lugar",
-        lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto. "
-             "Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
+        lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto, incluido el "
+             "Acuerdo Comercial Chile–Paraguay de 2021. Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
         kpis=[("25/06/1996", "firmado en Potrero de los Funes (Argentina)"), ("1/10/1996", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("131", "documentos ordenados")],
+              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("133", "documentos ordenados")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
                ("2004", "100 % para el cronograma general y el Anexo 1.", False),
@@ -160,8 +160,12 @@ ACUERDOS = [
                ("2011 y 2012", "100 % para los productos sensibles (Anexos 6 y 8).", False),
                ("2014", "100 % para el Anexo 9: termina el Programa de Liberación.", False),
                ("2023", "Protocolo 68: el origen diferenciado para Paraguay se extiende hasta el 31/12/2038.", True),
-               ("2025", "Protocolo 69: nuevo Régimen de Origen (reemplaza el Anexo 13).", False)],
+               ("1/12/2021", "Paraguay y Chile firman en Santiago un Acuerdo Comercial bilateral de 19 capítulos.", True),
+               ("15/02/2022", "Protocolo 66: ese Acuerdo Comercial Chile–Paraguay se incorpora al ACE 35 (rige solo entre los dos países).", True),
+               ("2025", "Protocolo 69: nuevo Régimen de Origen (reemplaza el Anexo 13).", False),
+               ("Marzo de 2026", "Chile publica el decreto que fija la entrada en vigor del Protocolo 69 para Paraguay y Uruguay.", True)],
         disposiciones=[
+            ("19", "capítulos del Acuerdo Comercial Chile–Paraguay", "Facilitación del comercio, buenas prácticas regulatorias, medidas sanitarias, obstáculos técnicos, servicios, comercio electrónico, competencia, mipymes, cadenas de valor, asuntos laborales, medio ambiente, género, cooperación, transparencia y anticorrupción, administración y solución de controversias.", "Protocolo 66 (2022)"),
             ("194", "productos con origen diferenciado", "Para lo que Paraguay exporta a Chile hay requisitos de origen propios (Apéndice 2 del Régimen de Origen), en general salto de partida o 50 % de contenido regional.", "Protocolos 68 y 69"),
             ("2038", "plazo del origen diferenciado", "Vence el 31/12/2038 y se extiende de a cinco años, salvo que Paraguay o Chile avisen con nueve meses de anticipación.", "Protocolo 69, Anexo, art. 4.7"),
             ("Puertos", "valor de los materiales para Paraguay", "Para calcular el valor de los materiales no originarios, Paraguay puede tomar como destino cualquier puerto marítimo o fluvial de las Partes, incluidos depósitos y zonas francas.", "Protocolo 69, Anexo, definiciones"),
@@ -179,7 +183,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
                    ("Origen diferenciado Paraguay a Chile (194 productos)", "tablas/origen_diferenciado_paraguay_a_chile"),
                    ("Márgenes iniciales de Chile a Paraguay en 1996 (Anexo 10, leído con OCR)", "tablas/chile_a_paraguay_margenes_iniciales_1996")],
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
-             "<p><b>Lo que falta:</b> el Anexo 9 y el Anexo 15 no estaban entre los archivos reunidos. Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
+             "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p><b>Lo que falta:</b> el Anexo 15 (acuerdos del Cono Sur), que la ALADI no publica. Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
         carpeta="ace58", uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",
