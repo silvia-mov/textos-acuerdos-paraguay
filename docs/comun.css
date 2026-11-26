@@ -80,3 +80,15 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 .acuerdos h3 { margin:2px 0 6px; font-size:19px; }
 .acuerdos p { margin:0; font-size:14.5px; color:var(--text2); }
 .acuerdos .est { display:inline-block; margin-top:8px; font-size:12.5px; border-radius:99px; padding:1px 8px; background:var(--hero1); color:var(--text); }
+.graf { margin:14px 0 4px; }
+.graf figcaption { font-weight:700; font-size:15px; margin-bottom:4px; }
+.graf svg { width:100%; height:auto; display:block; font-family:inherit; }
+.gb { margin:0 0 12px; }
+.gt { display:flex; justify-content:space-between; gap:12px; font-size:14.5px; margin-bottom:4px; }
+.gt b { white-space:nowrap; }
+.gk { height:10px; border-radius:99px; background:color-mix(in srgb, var(--line) 70%, transparent); overflow:hidden; }
+.gk div { height:100%; border-radius:99px; background:var(--s1); }
+.gb:first-child .gk div { background:var(--s3); }
+.disp.dos { grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr)); }
+table.num td, table.num th { white-space:nowrap; }
+table.num td:not(:first-child), table.num th:not(:first-child) { text-align:right; }

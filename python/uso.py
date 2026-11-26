@@ -44,8 +44,8 @@ def tabla(codigo, socio, desde, hasta=9999):
             vp = pct - 100 * p.DNIT_CON_ACUERDO_USD / p.DNIT_EXPORTADO_USD if p.DNIT_EXPORTADO_USD else None
         filas.append(f"<tr><td>{a}{'*' if a == PARCIAL else ''}</td><td>{num(exp)}</td><td>{flecha(ve, '%')}</td>"
                      f"<td>{num(con)}</td><td>{num(pct, 0)} %</td><td>{flecha(vp, 'pts.')}</td></tr>")
-    return (f'<div class="tw"><table><thead><tr><th>Año</th><th>Exportado a {socio} (millones de USD)</th><th>Cambio frente al año anterior</th>'
-            f'<th>Con preferencia</th><th>% que usó una preferencia</th><th>Cambio frente al año anterior</th></tr></thead><tbody>'
+    return (f'<div class="tw"><table class="num"><thead><tr><th>Año</th><th>Exportado a {socio}<br>(mill. USD)</th><th>Cambio</th>'
+            f'<th>Con preferencia<br>(mill. USD)</th><th>% con preferencia</th><th>Cambio</th></tr></thead><tbody>'
             + "".join(filas) + "</tbody></table></div>")
 
 
@@ -56,7 +56,7 @@ def resumen(codigo, desde):
     return ult, r.DNIT_EXPORTADO_USD / 1e6, 100 * r.DNIT_CON_ACUERDO_USD / r.DNIT_EXPORTADO_USD
 
 
-NOTA = ("* Enero a septiembre: no se compara con el año anterior, que está completo. FOB, despachos definitivos de la DNIT; "
+NOTA = ("Cambio: frente al año anterior. * Enero a septiembre: no se compara con el año anterior, que está completo. FOB, despachos definitivos de la DNIT; "
         "▲ sube, ▼ baja; el cambio del porcentaje se mide en puntos. «Con preferencia»: exportaciones que usaron algún acuerdo "
         "comercial con ese socio. Datos y método: <a href=\"https://silvia-mov.github.io/comercio-exterior-paraguay-acuerdos/\">"
         "Comercio exterior de Paraguay y acuerdos comerciales</a>. Una parte de lo que no usa el acuerdo puede no tener rebaja o no "
