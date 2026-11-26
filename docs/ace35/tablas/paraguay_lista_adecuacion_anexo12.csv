@@ -1,0 +1,299 @@
+﻿N,NALADISA_93,DESCRIPCION,ARANCEL_1996,ARANCEL_1997,ARANCEL_1998,ARANCEL_1999,ARANCEL_2000,ARANCEL_2001,ARANCEL_2002,ARANCEL_2003,ARANCEL_2004,ARANCEL_2005,ARANCEL_2006
+1,0201.10.00,En canales o medias canales,10,9,8,7,6,5,4,3,2,1,0
+2,0201.20.00,Los demás cortes (trozos) sin deshuesar,27,24,18,13,9,5,4,3,2,1,0
+3,0201.30.00,Deshuesada,27,24,19,14,9,6,5,4,2,1,0
+4,0202.10.00,En canales o medias canales,10,9,8,7,6,5,4,3,2,1,0
+5,0202.20.00,Los demás cortes (trozos) sin deshuesar,27,24,18,13,9,5,4,3,2,1,0
+6,0202.30.00,Deshuesada Jamones Paletas y,27,24,19,14,9,6,5,4,2,1,0
+7,0203.12.00,sus trozos sin deshuesar fresca o refrigerada,27,24,18,13,9,5,4,3,2,1,0
+8,0203.22.00,Jamones Paletas y sus trozos sin deshuesar congeladas,27,24,18,13,9,5,4,3,2,1,0
+9,0207.10.00,"Aves sin trocear, frescas o refrigeradas",27,24,18,13,9,5,4,3,2,1,0
+10,0207.21.00,"Gallos y gallinas, sin trocear, congelados",27,24,18,13,9,5,4,3,2,1,0
+11,0207.22.00,Pavos,27,24,18,13,9,5,4,3,2,1,0
+12,0207.39.10,Los demás,27,24,18,13,9,5,4,3,2,1,0
+13,0207.39.20,Los demás,27,24,18,13,9,5,4,3,2,1,0
+14,0207.41.10,Trozos y despojos de gallo o de gallina,27,24,18,13,9,5,4,3,2,1,0
+15,0401.10.00,"Leche UHT (""Ultra High Temperature"")",27,24,19,14,10,7,6,4,3,1,0
+16,0401.20.00,"Leche UHT (""Ultra High Temperature"")",27,24,19,14,10,7,6,4,3,1,0
+17,0401.30.10,Leche con un contenido de materias grasas superior al 6% en,27,24,19,14,9,6,5,4,2,1,0
+18,0405.00.10,peso. Manteca natural (fresca o salada),27,24,19,15,11,8,6,5,3,2,0
+19,0406.90.00,Los demás,16,14,13,11,10,8,6,5,3,2,0
+20,0409.00.00,"Miel natural Flores y capullos,",27,24,19,15,11,8,6,5,3,2,0
+21,0603.10.00,"cortados para ramos o adornos,",27,24,18,13,9,5,4,3,2,1,0
+22,0703.20.00,frescos. Los demás,27,24,18,13,9,5,4,3,2,1,0
+23,0706.10.10,Zanahorias y nabos frescos o refrigerados.,27,24,18,13,9,5,4,3,2,1,0
+24,0803.00.00,Bananas o plátanos frescos o secos,27,24,18,13,9,5,4,3,2,1,0
+25,0804.30.00,Ananas (Piñas),27,24,18,13,9,5,4,3,2,1,0
+26,0805.10.00,Naranjas.,25,23,17,12,8,5,4,3,2,1,0
+27,0901.21.10,"Café tostado, sin descafeinar.",10,9,8,7,6,5,4,3,2,1,0
+28,0901.21.90,Los demás,10,9,8,7,6,5,4,3,2,1,0
+29,0903.00.10,Yerba mate. Simplemente canchada.,27,24,18,13,9,5,4,3,2,1,0
+30,0903.00.90,"Las demás, yerba mate",27,24,18,13,9,5,4,3,2,1,0
+31,1006.10.10,"Arroz con cascara ( arroz ""paddy"") no parboilizado",27,24,18,13,9,5,4,3,2,1,0
+32,1006.10.20,Los demás arroz con cáscara parboilizado,27,24,18,13,9,5,4,3,2,1,0
+33,1006.20.00,Arroz descascarillado ( arroz cargo o arroz pardo ),27,24,18,13,9,5,4,3,2,1,0
+34,1006.30.11,parboilizado Semiblanqueado,27,24,19,14,9,6,5,4,2,1,0
+35,1006.30.12,Arroz blanqueado,27,24,19,14,9,6,5,4,2,1,0
+36,1006.30.91,Pulido,27,24,18,13,9,5,4,3,2,1,0
+37,1006.30.92,Glaseado,27,24,19,14,9,6,5,4,2,1,0
+38,1507.10.00,"Aceite de soja en bruto, incluso desgomado.",27,24,18,13,9,5,4,3,2,1,0
+39,1507.90.00,Los demás,27,24,19,14,9,6,5,4,2,1,0
+40,1508.10.00,"Aceite de maní, en bruto.",27,24,18,13,9,5,4,3,2,1,0
+41,1508.90.00,Los demás aceites de maní (cacahuete),27,24,19,14,9,6,5,4,2,1,0
+42,1511.10.00,"Aceite de palma, en bruto.",27,24,18,13,9,5,4,3,2,1,0
+43,1512.19.10,"Aceite girasol, refinado.",18,16,14,11,8,6,5,4,2,1,0
+44,1512.21.00,"Aceite de algodón y sus fracciones, en bruto, incluso sin el gosipol.",27,24,18,13,9,5,4,3,2,1,0
+45,1512.29.00,"Aceite de algodón, refinados.",27,24,18,13,9,5,4,3,2,1,0
+46,1513.21.10,Aceite de almendra de palma en bruto,10,9,8,7,6,5,4,3,2,1,0
+47,1513.29.10,"Aceite de almendra de palma, refinado",10,9,8,7,6,5,4,3,2,1,0
+48,1515.29.00,Las demás Embutidos y,10,9,8,7,6,5,4,3,2,1,0
+49,1601.00.00,"productos similares de carne, despojos o sangre; preparaciones alimenticias a base",27,24,19,15,11,8,6,5,3,2,0
+50,1901.90.40,de estos productos Dulce de leche,16,14,13,11,10,8,6,5,3,2,0
+51,2005.40.00,"Arverjas (chícharos, guisantes ) ( pisum",14,13,11,10,8,7,6,4,3,1,0
+52,2007.91.90,sativum) Los demás,16,14,13,11,9,7,6,4,3,1,0
+53,2103.20.10,Ketchup,18,16,14,13,11,9,7,5,4,2,0
+54,2103.20.90,Los demás,18,16,14,13,11,9,7,5,4,2,0
+55,2207.10.00,Alcohol etílico sin desnaturalizar,20,18,16,14,12,10,8,6,4,2,0
+56,2209.00.10,De vino,20,18,16,14,12,10,8,6,4,2,0
+57,2209.00.20,De pomelo,20,18,16,14,12,10,8,6,4,2,0
+58,2209.00.90,Los demás,20,18,16,14,12,10,8,6,4,2,0
+59,2402.20.00,Cigarrillos que contengan tabaco:,27,24,20,16,13,10,8,6,4,2,0
+60,3003.10.10,Medicamentos a base de Penicilina G Benzatínica,14,13,11,10,8,7,6,4,3,1,0
+61,3003.10.90,Los demás,8,7,6,6,5,4,3,2,2,0,0
+62,3004.10.10,A base de Penicilina G Benzatínica,14,13,11,10,8,7,6,4,3,1,0
+63,3004.10.90,Los demás a base de Ampicilina o sus sales,14,13,11,10,8,7,6,4,3,1,0
+64,3004.50.10,"A base de comp,ejo B",14,13,11,10,8,7,6,4,3,1,0
+65,3004.50.90,Los demás,8,7,6,6,5,4,3,2,2,0,0
+66,3401.11.10,Jabones de tocador; medicinales,18,16,14,13,11,9,7,5,4,2,0
+67,3401.11.20,Jabones de tocador; medicinales,18,16,14,13,11,9,7,5,4,2,0
+68,3401.11.30,Jabones de tocador; medicinales,18,16,14,13,11,9,7,5,4,2,0
+69,3401.19.19,Los demás Productos y,18,16,14,13,11,9,7,5,4,2,0
+70,3401.19.20,preparaciones orgánicos tensoactivos,18,16,14,13,11,9,7,5,4,2,0
+71,3401.20.10,"usados como jabón Jabones en otras formas, de tocador",18,16,14,13,11,9,7,5,4,2,0
+72,3401.20.20,Industriales,18,16,14,13,11,9,7,5,4,2,0
+73,3401.20.90,Los demás,18,16,14,13,11,9,7,5,4,2,0
+74,3920.51.00,De polimetacrilato de metílo,23,21,17,13,11,8,6,5,3,2,0
+75,3920.59.00,De los demás,23,21,17,13,11,8,6,5,3,2,0
+76,4104.21.00,"Cueros y pieles de bovino, con precurtido vegetal.",14,13,10,8,7,5,4,3,2,1,0
+77,4104.22.00,"Cueros y pieles de bovino, precurtidos de otro modo",14,13,10,8,5,4,3,2,2,0,0
+78,4104.39.11,"Cueros de bovinos, sin apergaminar",14,13,10,8,7,5,4,3,2,1,0
+79,4104.39.19,Los demás,14,13,10,8,7,5,4,3,2,1,0
+80,4109.00.10,Barnizados o revestidos Con la superficie,14,13,10,8,7,5,4,3,2,1,0
+81,4202.11.00,"exterior de cuero natural, de cuero artificial (regenerado) o",20,18,16,14,12,10,8,6,4,2,0
+82,4202.12.00,cuero barnizado De plástico,20,18,16,14,12,10,8,6,4,2,0
+83,4202.19.00,Los demás Con la superficie,20,18,16,14,12,10,8,6,4,2,0
+84,4202.21.00,exterior de cuero natural o artificial (regenerado) o de cuero barnizado,20,18,16,14,12,10,8,6,4,2,0
+85,4202.22.20,"Con la superficie exterior de hojas de plástico,",20,18,16,14,12,10,8,6,4,2,0
+86,4202.29.00,Los demás Con la superficie,20,18,16,14,12,10,8,6,4,2,0
+87,4202.31.00,exterior de cuero natural o artificial (regenerado) o de cuero barnizado,20,18,16,14,12,10,8,6,4,2,0
+88,4202.32.00,Con la superficie exterior de hojas de plásticos o de,20,18,16,14,12,10,8,6,4,2,0
+89,4202.39.00,materias textiles Las demás,20,18,16,14,12,10,8,6,4,2,0
+90,4202.91.00,Con la superficie exterior de cuero natural o artificial,20,18,16,14,12,10,8,6,4,2,0
+91,4202.92.00,Con la superficie exterior de hojas de plásticos o de,20,18,16,14,12,10,8,6,4,2,0
+92,4202.99.00,materias textiles Los demás Las demás,20,18,16,14,12,10,8,6,4,2,0
+93,4203.40.00,complementos (accesorios) de,27,24,20,16,13,10,8,6,4,2,0
+94,4407.99.90,vestir Las demás,18,16,12,8,5,3,2,2,1,0,0
+95,4408.20.10,Hojas para chapado o contrachapado,27,24,16,10,4,3,2,2,1,0,0
+96,4408.20.20,Las demás maderas aserradas,27,24,16,10,4,3,2,2,1,0,0
+97,4408.90.10,Hoja para chapado c contrachapado (incluso unidas),27,24,16,10,4,3,2,2,1,0,0
+98,4408.90.20,Las demás,27,24,16,10,4,3,2,2,1,0,0
+99,4409.20.10,Tablillas y frisos para parqués sin ensamblar,27,24,18,13,9,5,4,3,2,1,0
+100,4409.20.90,"Las demás Las demás, con",27,24,18,13,9,5,4,3,2,1,0
+101,4412.12.00,"una hoja externa, por lo menos, de madera distinta de",27,24,18,13,9,5,4,3,2,1,0
+102,4412.91.90,la de coníferas Las demás,27,24,18,13,9,5,4,3,2,1,0
+103,4412.99.19,Las demás,27,24,18,13,9,5,4,3,2,1,0
+104,4412.99.99,Las demás,27,24,18,13,9,5,4,3,2,1,0
+105,4418.20.00,Puertas y sus marcos y umbrales,27,24,19,14,10,7,6,4,3,1,0
+106,4418.90.10,Tableros celulares,27,24,19,14,10,7,6,4,3,1,0
+107,4418.90.90,Los demás,27,24,19,14,10,7,6,4,3,1,0
+108,4819.10.00,Cajas de papel o cartón corrugado (ondulado),27,24,19,15,11,8,6,5,3,2,0
+109,4819.40.00,Los demás sacos (bolsas); bolsitas (excluidas las fundas para discos) y cucuruchos,27,24,19,15,11,8,6,5,3,2,0
+110,4819.60.00,"Cartonajes de oficina, de tienda o similares",27,24,19,15,11,8,6,5,3,2,0
+111,4820.20.00,Cuadernos Formularios,27,24,19,15,11,8,6,5,3,2,0
+112,4820.40.00,"impresos en tacos o plegados (""manifold""), aunque lleven",27,24,19,15,11,8,6,5,3,2,0
+113,4821.90.00,papel cartón Las demás,27,24,19,15,11,8,6,5,3,2,0
+114,4823.51.00,"Impresos, estampados o perforados",16,14,13,11,10,8,6,5,3,2,0
+115,5201.00.00,Algodón sin cardar ni peinar,27,24,18,12,7,3,2,2,1,0,0
+116,5203.00.00,Algodón cardado o peinado.,27,24,18,13,8,4,3,2,2,0,0
+117,5205.13.10,Crudos,22,19,16,12,9,7,6,4,3,1,0
+118,5205.13.90,Los demás De titulo superior,22,19,16,12,9,7,6,4,3,1,0
+119,5205.21.10,"o igual a 714,29 decitex (inferior o igual al número métrico 14),",22,19,16,12,9,7,6,4,3,1,0
+120,5205.21.90,"crudos Los demás De titulo inferior a 714,29 decitex",22,19,16,12,9,7,6,4,3,1,0
+121,5205.22.10,"pero superior o igual a 232,56 decitex ( superior al número métrico 14 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+122,5205.22.90,"métrico 43), crudos Los demás",22,19,16,12,9,7,6,4,3,1,0
+123,5205.23.10,Crudos,22,19,16,12,9,7,6,4,3,1,0
+124,5205.23.90,Los demás,22,19,16,12,9,7,6,4,3,1,0
+125,5205.31.10,"o igual a 714,29 decitex por hilo sencillo (inferior o igual al número métrico 14 por hilo",14,13,11,10,8,7,6,4,3,1,0
+126,5205.31.90,"sencillo), crudos Los demás De titulo inferior 714,29 decitex pero superior o",14,13,11,10,8,7,6,4,3,1,0
+127,5205.32.10,"igual a 232,56 decitex por hilo sencillo (superior al número métrico 14 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+128,5205.32.90,"métrico 43, por hilo sencillo), crudos Los demás De titulo inferior a 232,56 decitex",22,19,16,12,9,7,6,4,3,1,0
+129,5205.33.10,"pero superior o igual 192,31 decitex, por hilo sencillo ( superior al número métrico 43 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+130,5205.33.90,"métrico 52 por hilo sencillo), crudos Los demás De titulo inferior a 714,29 decitex pero superior o",22,19,16,12,9,7,6,4,3,1,0
+131,5205.42.10,"igual a 232,56 decitex, por hilo sencillo ( superior al número métrico 14 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+132,5205.42.90,"métrico 43, por hilo sencillo), crudos Los demás",22,19,16,12,9,7,6,4,3,1,0
+133,5205.43.10,"De titulo inferior a 232,56 decitex pero superior o",22,19,16,12,9,7,6,4,3,1,0
+134,5205.43.90,"sencillo, crudos Los demás De titulo superior",22,19,16,12,9,7,6,4,3,1,0
+135,5206.11.10,"o igual a 714,29 decitex (inferior o igual al número métrico 14),",14,13,11,10,8,7,6,4,3,1,0
+136,5206.11.90,"crudos Los demás De titulo inferior 714,29 decitex",14,13,11,10,8,7,6,4,3,1,0
+137,5206.12.10,"pero superior o igual a 232,56 decitex (superior al número métrico 14 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+138,5206.12.90,"métrico 43), crudos Los demás De titulo inferior a 232,56 decitex",22,19,16,12,9,7,6,4,3,1,0
+139,5206.13.10,"pero superior o igual 192,31 decitex (superior al número métrico 43 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+140,5206.13.90,"métrico 52), crudos Los demás De título superior",22,19,16,12,9,7,6,4,3,1,0
+141,5206.21.10,"o igual a 714,29 decitex (inferior o igual al número métrico 14)",14,13,11,10,8,7,6,4,3,1,0
+142,5206.21.90,"De título superior o igual a 714,29 decitex (inferior o igual al número métrico 14)",14,13,11,10,8,7,6,4,3,1,0
+143,5206.22.10,"pero superior o igual a 232,56 decitex (superior al número métrico 14 pero inferior o igual al número métrico 43)",22,19,16,12,9,7,6,4,3,1,0
+144,5206.22.90,"De título inferior a 714,29 decitex pero superior o igual a 232,56 decitex (superior al número métrico 14 pero inferior o igual al número métrico 43)",22,19,16,12,9,7,6,4,3,1,0
+145,5206.23.10,"De titulo inferior a 232,56 decitex pero superior o igual 192,31 decitex (superior al número métrico 43 pero inferior o igual al número métrico 52)",22,19,16,12,9,7,6,4,3,1,0
+146,5206.23.90,"De titulo inferior a 232,56 decitex pero superior o igual 192,31 decitex (superior al número métrico 43 pero inferior o igual al número métrico 52)",22,19,16,12,9,7,6,4,3,1,0
+147,5206.31.10,"De titulo superior o igual a 714,29 decitex por hilo sencillo (inferior o igual al número métrico 14 por hilo",14,13,11,10,8,7,6,4,3,1,0
+148,5206.31.90,"sencillo) De titulo superior o igual a 714,29 decitex por hilo",14,13,11,10,8,7,6,4,3,1,0
+149,5206.32.10,"igual a 232,56 decitex, por hilo sencillo (superior al número métrico 14 pero inferior o igual al métrico 43 por hilo sencillo)",22,19,16,12,9,7,6,4,3,1,0
+150,5206.32.90,"De titulo inferior 714,29 decitex pero superior o igual a 232,56 decitex, por hilo sencillo (superior al número métrico 14 pero inferior o igual al métrico 43 por hilo sencillo)",22,19,16,12,9,7,6,4,3,1,0
+151,5206.33.10,"De titulo inferior a 232,56 decitex pero superior o igual a 192,31 decitex, por hilo sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo",22,19,16,12,9,7,6,4,3,1,0
+152,5206.33.90,"De titulo inferior a 232,56 decitex pero superior o igual a 192,31 decitex, por hilo sencillo (superior al número métrico 43 pero inferior o",22,19,16,12,9,7,6,4,3,1,0
+153,5206.41.10,"o igual a 714,29 decitex por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo)",14,13,11,10,8,7,6,4,3,1,0
+154,5206.41.90,"De titulo superior o igual a 714,29 decitex por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo) De titulo inferior",14,13,11,10,8,7,6,4,3,1,0
+155,5206.42.10,"714,29 decitex pero superior o igual a 232,56 decitex, por hilo sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo)",22,19,16,12,9,7,6,4,3,1,0
+156,5206.42.90,"De titulo inferior 714,29 decitex pero superior o igual a 232,56 decitex, por hilo sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo)",22,19,16,12,9,7,6,4,3,1,0
+157,5206.43.10,"De titulo inferior a 232,56 decitex pero superior o igual 192,31 decitex, por hilo sencillo (superior al número métrico 43 pero inferior o igual al número",22,19,16,12,9,7,6,4,3,1,0
+158,5206.43.90,"métrico 52, por hilo sencillo) De titulo inferior a 232,56 decitex",22,19,16,12,9,7,6,4,3,1,0
+159,5208.11.00,"De ligamento tafetan de gramaje, inferior o igual a",22,20,17,14,11,9,7,5,4,2,0
+160,5208.19.00,100 g/m2 Los demás tejidos Blanqueados de,18,16,14,13,11,9,7,5,4,2,0
+161,5208.21.00,"ligamento tafetan, de gramaje inferior o igual a 100 g/m2",18,16,14,13,11,9,7,5,4,2,0
+162,5208.22.00,"De ligamento tafetan, de gramaje superior a 100 g/ m2",18,16,14,13,11,9,7,5,4,2,0
+163,5208.23.00,"De ligamento sarga o cruzado, de curso inferior o",18,16,14,13,11,9,7,5,4,2,0
+164,5208.29.00,igual a 4 Los demás tejidos Teñidos de,18,16,14,13,11,9,7,5,4,2,0
+165,5208.31.00,ligamentos tafetan de gramaje inferior o igual a 100 g/m2,18,16,14,13,11,9,7,5,4,2,0
+166,5208.32.00,De ligamento tafetan de gramaje superior a 100 g/ m2,18,16,14,13,11,9,7,5,4,2,0
+167,5208.33.00,"De ligamento sarga o cruzado, de curso inferior o",18,16,14,13,11,9,7,5,4,2,0
+168,5208.39.00,igual a 4 Los demás tejidos Con hilados de,18,16,14,13,11,9,7,5,4,2,0
+169,5208.41.00,distintos colores de ligamento tafetan de gramaje inferior,18,16,14,13,11,9,7,5,4,2,0
+170,5208.42.00,o igual a 100 g/m2 De ligamento tafetan de gramaje superior a 100 g/,18,16,14,13,11,9,7,5,4,2,0
+171,5208.43.00,"De ligamento sarga o cruzado, de curso inferior o igual a 4",18,16,14,13,11,9,7,5,4,2,0
+172,5208.51.00,Estampados de ligamento tafetan de gramaje inferior o igual a 100 g/m2,18,16,14,13,11,9,7,5,4,2,0
+173,5208.52.00,De ligamento tafetan de gramaje superior a 100 g/ m2,18,16,14,13,11,9,7,5,4,2,0
+174,5208.53.00,"De ligamento sarga o cruzado, de curso inferior o igual a 4",18,16,14,13,11,9,7,5,4,2,0
+175,5209.11.00,"Tejidos de algodón, crudos, de ligamentos tafetan",25,23,18,15,12,9,7,5,4,2,0
+176,5209.21.00,Blanqueados de ligamento tafetan,18,16,14,13,11,9,7,5,4,2,0
+177,5209.22.00,"De ligamento sarga o cruzado, de curso inferior o",18,16,14,13,11,9,7,5,4,2,0
+178,5209.29.00,igual a 4 Los demás,18,16,14,13,11,9,7,5,4,2,0
+179,5209.31.00,Teñidos de ligamento tafetan,18,16,14,13,11,9,7,5,4,2,0
+180,5209.32.00,"De ligamentos sarga o cruzado, de curso inferior o igual a 4",18,16,14,13,11,9,7,5,4,2,0
+181,5209.41.00,Con hilados de distintos colores de ligamento tafetan,18,16,14,13,11,9,7,5,4,2,0
+182,5209.43.00,Los demás tejidos de ligamento sarga o cruzado de curso,18,16,14,13,11,9,7,5,4,2,0
+183,5209.49.00,inferior o igual a 4 Los demás tejidos,18,16,14,13,11,9,7,5,4,2,0
+184,5209.51.00,Estampados de ligamento tafetán,18,16,14,13,11,9,7,5,4,2,0
+185,5209.52.00,"De ligamento sarga o cruzado, de curso inferior o",18,16,14,13,11,9,7,5,4,2,0
+186,5210.11.00,igual a 4 Crudos de ligamento tafetán,25,23,18,15,12,9,7,5,4,2,0
+187,5210.12.00,"De ligamento sarga o cruzado, de curso inferior o",25,23,18,15,12,9,7,5,4,2,0
+188,5210.19.00,igual a 4 Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+189,5210.21.00,"Blanqueados, de ligamento tafetán",25,23,18,15,12,9,7,5,4,2,0
+190,5210.22.00,"Blanqueados de ligamento sarga o cruzado, de curso",25,23,18,15,12,9,7,5,4,2,0
+191,5210.29.00,inferior o igual a 4 Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+192,5210.39.00,Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+193,5210.41.00,Con hilados de distintos colores de ligamento tafetán,25,23,18,15,12,9,7,5,4,2,0
+194,5210.42.00,Con hilados de distintos colores de ligamento sarga o cruzado de curso,25,23,18,15,12,9,7,5,4,2,0
+195,5210.49.00,inferior o igual a 4 Los demás tejidos Estampados de,25,23,18,15,12,9,7,5,4,2,0
+196,5210.52.00,"ligamento sarga o cruzado, de curso inferior o igual a 4",25,23,18,15,12,9,7,5,4,2,0
+197,5211.21.00,Blanqueados de ligamento tafetán,25,23,18,15,12,9,7,5,4,2,0
+198,5211.22.00,"Blanqueados de ligamento sarga o cruzado, de curso",25,23,18,15,12,9,7,5,4,2,0
+199,5211.29.00,inferior o igual a 4 Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+200,5211.39.00,Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+201,5211.41.00,Con hilados de distintos colores de ligamento tafetán,25,23,18,15,12,9,7,5,4,2,0
+202,5211.43.00,"Los demás tejidos de ligamentos sarga o cruzado, de curso inferior o",25,23,18,15,12,9,7,5,4,2,0
+203,5211.49.00,igual a 4 Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+204,5211.51.00,Estampados de ligamento tafetán,25,23,18,15,12,9,7,5,4,2,0
+205,5211.52.00,"Estampados de ligamento sarga o cruzado, de curso",25,23,18,15,12,9,7,5,4,2,0
+206,5211.59.00,inferior o igual a 4 Los demás tejidos,25,23,18,15,12,9,7,5,4,2,0
+207,5212.14.00,Con hilados de distintos colores,25,23,18,15,12,9,7,5,4,2,0
+208,5212.15.00,Estampados,25,23,18,15,12,9,7,5,4,2,0
+209,5212.24.00,Con hilados de distintos colores,25,23,18,15,12,9,7,5,4,2,0
+210,5212.25.00,Estampados,25,23,18,15,12,9,7,5,4,2,0
+211,5607.41.00,Cuerdas para atadoras o gavilladoras,18,16,14,13,11,9,7,5,4,2,0
+212,5607.49.00,Los demás,18,16,14,13,11,9,7,5,4,2,0
+213,5607.50.00,De las demás fibras sintéticas,18,16,14,13,11,9,7,5,4,2,0
+214,5801.21.00,"Terciopelo y felpa por trama sin cortar, de algodón",18,16,14,13,11,9,7,5,4,2,0
+215,5801.22.00,"Terciopelo y felpa por trama , cortados rayados",18,16,14,13,11,9,7,5,4,2,0
+216,5801.24.00,Terciopelo y felpa por urdimbre sin cortar (rizados),18,16,14,13,11,9,7,5,4,2,0
+217,5801.25.00,"Terciopelo y felpa por urdimbre, cortados",18,16,14,13,11,9,7,5,4,2,0
+218,5801.26.00,Tejidos de chenilla,18,16,14,13,11,9,7,5,4,2,0
+219,5805.00.20,Tapicería tejida a mano de algodón,18,16,14,13,11,9,7,5,4,2,0
+220,5807.10.00,Tejidos,18,16,14,13,11,9,7,5,4,2,0
+221,5807.90.00,Los demás Bordados,18,16,14,13,11,9,7,5,4,2,0
+222,5810.10.00,químicos o aéreos y bordados con fondo recortado,18,16,14,13,11,9,7,5,4,2,0
+223,5810.91.00,Los demás bordados de algodón,18,16,14,13,11,9,7,5,4,2,0
+224,5811.00.00,"de materias textiles combinadas con una materia de relleno, acolcahados, excepto los",18,16,14,13,11,9,7,5,4,2,0
+225,6001.10.20,"bordados de la partida 5810 Terciopelo, felpa y géneros con blucles, de punto de algodón",18,16,14,13,11,9,7,5,4,2,0
+226,6001.21.00,"Géneros con bucles, de algodón",18,16,14,13,11,9,7,5,4,2,0
+227,6001.91.00,Los demás de algodón,18,16,14,13,11,9,7,5,4,2,0
+228,6002.42.00,"Los demás géneros de punto por urdimbre, de algodón",18,16,14,13,11,9,7,5,4,2,0
+229,6002.92.00,Los demás de algodón,18,16,14,13,11,9,7,5,4,2,0
+230,6103.19.10,De algodón,20,18,16,14,12,10,8,6,4,2,0
+231,6103.19.20,De fibras artificiales,20,18,16,14,12,10,8,6,4,2,0
+232,6103.19.90,Los demás,20,18,16,14,12,10,8,6,4,2,0
+233,6103.32.00,Chaquetas (Sacos) de algodón,20,18,16,14,12,10,8,6,4,2,0
+234,6103.42.00,De algodón,20,18,16,14,12,10,8,6,4,2,0
+235,6104.22.00,"Conjuntos, de algodón",20,18,16,14,12,10,8,6,4,2,0
+236,6104.23.00,Conjuntos de fibras sintéticas,20,18,16,14,12,10,8,6,4,2,0
+237,6107.12.00,De fibras sintéticas o artificiales,20,18,16,14,12,10,8,6,4,2,0
+238,6107.22.00,De fibras sintéticas o artificiales,20,18,16,14,12,10,8,6,4,2,0
+239,6107.92.00,De fibras sintéticas o artificiales,20,18,16,14,12,10,8,6,4,2,0
+240,6108.22.10,"Bragas (bombachas, calzones) de fibras",20,18,16,14,12,10,8,6,4,2,0
+241,6108.22.20,"Bragas (bombachas, calzones) de fibras artificiales",20,18,16,14,12,10,8,6,4,2,0
+242,6108.32.10,"Camisones y pijamas, para mujeres o niñas, de fibras sintéticas",20,18,16,14,12,10,8,6,4,2,0
+243,6108.32.20,"Camisones y pijamas, para mujeres o niñas, de fibras artificiales",20,18,16,14,12,10,8,6,4,2,0
+244,6108.92.10,Los demás de fibras sintéticas,20,18,16,14,12,10,8,6,4,2,0
+245,6108.92.20,Los demás de fibras artificiales Prendas y,20,18,16,14,12,10,8,6,4,2,0
+246,6111.20.00,"complementos (accesorios) de vestir, de punto, para bebes, de",25,23,19,16,13,10,8,6,4,2,0
+247,6112.20.00,algodón. Monos (overoles) y conjuntos de esquí,20,18,16,14,12,10,8,6,4,2,0
+248,6115.19.90,Las demás,20,18,16,14,12,10,8,6,4,2,0
+249,6115.20.90,Las demás,20,18,16,14,12,10,8,6,4,2,0
+250,6201.99.00,De las demás materias textiles,27,24,20,16,13,10,8,6,4,2,0
+251,6204.39.10,De fibras artificiales,27,24,20,16,13,10,8,6,4,2,0
+252,6204.39.90,Las demás,27,24,20,16,13,10,8,6,4,2,0
+253,6206.90.00,De las demás materias textiles,20,18,16,14,12,10,8,6,4,2,0
+254,6207.19.10,De fibras sintéticas,27,24,20,16,13,10,8,6,4,2,0
+255,6207.19.90,Los demás,27,24,20,16,13,10,8,6,4,2,0
+256,6207.29.00,De las demás materias textiles,27,24,20,16,13,10,8,6,4,2,0
+257,6207.92.00,De fibras sintéticas o artificiales,27,24,20,16,13,10,8,6,4,2,0
+258,6207.99.00,De las demás materias textiles,27,24,20,16,13,10,8,6,4,2,0
+259,6210.50.00,"Las demás prendas de vestir, para mujeres o niñas",20,18,16,14,12,10,8,6,4,2,0
+260,6211.20.10,Para hombres o niños,20,18,16,14,12,10,8,6,4,2,0
+261,6211.20.20,Para mujeres o niñas,20,18,16,14,12,10,8,6,4,2,0
+262,6302.31.00,De algodón,27,24,20,16,13,10,8,6,4,2,0
+263,6302.40.00,"Ropa de mesa, de punto",20,18,16,14,12,10,8,6,4,2,0
+264,6302.91.00,Las demás de algodón,20,18,16,14,12,10,8,6,4,2,0
+265,6302.92.00,Las demás de lino,20,18,16,14,12,10,8,6,4,2,0
+266,6302.93.00,Las demás de fibras sintéticas o artificiales,20,18,16,14,12,10,8,6,4,2,0
+267,6302.99.00,"De las demás materias textiles Visillos y cortinas,",20,18,16,14,12,10,8,6,4,2,0
+268,6303.11.00,"guardamaletas y artículos similares para cama, de",20,18,16,14,12,10,8,6,4,2,0
+269,6303.91.00,algodón Las demás de algodón,27,24,20,16,13,10,8,6,4,2,0
+270,6305.31.00,"De tiras o formas similares, de polietileno o",27,24,19,15,11,8,6,5,3,2,0
+271,6305.39.00,polipropileno Los demás,27,24,19,15,11,8,6,5,3,2,0
+272,6305.90.00,De las demás materias textiles,27,24,19,15,11,8,6,5,3,2,0
+273,7010.90.10,Bombonas y botellas,16,15,12,9,7,5,4,3,2,1,0
+274,7010.90.20,"Frascos, tarros, potes, Con muescas,",16,15,12,9,7,5,4,3,2,1,0
+275,7214.20.00,"cordones, surcos o relieves, producidos en el laminado o sometidas a torsión después del",27,24,19,14,9,6,5,4,2,1,0
+276,7214.30.00,laminado De acero de fácil mecanización,27,24,19,14,9,6,5,4,2,1,0
+277,7214.40.00,"Las demás, con un contenido de carbono, en peso inferior al 0.25%",27,24,19,14,9,6,5,4,2,1,0
+278,7217.11.00,Alambres de hierro o de acero sin alear sin revestir incluso pulidos,27,24,19,14,9,6,5,4,2,1,0
+279,7217.12.00,"Alambres de hierro o de acero sin alear, cincado. Con un contenido",27,24,19,14,9,6,5,4,2,1,0
+280,7217.19.00,"inferior a 0,25% Los demás Con un contenido",27,24,19,14,9,6,5,4,2,1,0
+281,7217.21.00,"de carbono en peso, superior o igual a 0,25% pero inferior a 0,6% sin revestir incluso pulido",27,24,19,14,9,6,5,4,2,1,0
+282,7217.22.00,"Alambres de hierro o de acero sin alear, cincado. Con un contenido superior o igual a",27,24,19,14,9,6,5,4,2,1,0
+283,7217.29.00,"0,25% Los demás Con un contenido",27,24,19,14,9,6,5,4,2,1,0
+284,7217.32.00,"de carbono, superior o igual a 0,6% cincados",27,24,19,14,9,6,5,4,2,1,0
+285,8504.21.00,Transformadores de dielectrico liquido. De potencia inferior o igual a 650 kva.,23,21,18,15,12,10,8,5,4,2,0
+286,8504.22.00,De potencia superior a 650 kva. pero inferior o igual 10.000 kva,23,21,18,15,12,10,8,5,4,2,0
+287,8504.33.00,De potencia superior a 16 Kva pero inferior o igual a 500 Kva,23,21,18,15,12,10,8,5,4,2,0
+288,8504.34.00,De potencia superior a 500 Kva,23,21,18,15,12,10,8,5,4,2,0
+289,8537.10.00,Para una tensión inferior o igual a 1000 V,18,16,14,13,11,9,7,5,4,2,0
+290,8537.20.00,Para una tensión superior a 1000V,18,16,14,13,11,9,7,5,4,2,0
+291,9401.30.90,Los demás,27,24,20,16,12,9,7,5,4,2,0
+292,9401.80.00,Los demás asientos,27,24,20,16,12,9,7,5,4,2,0
+293,9401.90.10,"Partes, de maderas Muebles de metal",18,16,14,13,11,9,7,5,4,2,0
+294,9403.10.00,del tipo de los utilizados en la oficina,27,24,20,16,12,9,7,5,4,2,0
+295,9403.20.00,Los demás muebles de metales comunes,27,24,20,16,12,9,7,5,4,2,0
+296,9403.30.00,Muebles de madera del tipo de los utilizados en las oficinas,27,24,20,16,12,9,7,5,4,2,0
+297,9403.40.00,Muebles de madera del tipo de los utilizados en la cocina,27,24,20,16,12,9,7,5,4,2,0
+298,9403.80.00,"Muebles de otras materias, incluido el roten, el mimbre, el bambu, o de materias",27,24,20,16,12,9,7,5,4,2,0

@@ -23,7 +23,7 @@ ANEXOS = {
     "1": "Anexo 1 – Preferencias del patrimonio histórico (márgenes que suben hasta 100 % en 2004)",
     "2": "Anexo 2 – Productos con desgravación especial a 10 años (desde 30 %)",
     "3": "Anexo 3 – Productos con desgravación especial a 10 años (desde 0 %)",
-    "4": "Anexo 4 – Productos del comercio Chile–Paraguay (tratamiento a definir antes de 1999)",
+    "4": "Anexo 4 – Lista de autopartes de Paraguay (comercio Chile–Paraguay)",
     "5": "Anexo 5 – Productos con tratamiento especial a 10 años (cupos)",
     "6": "Anexo 6 – Productos sensibles: desgravación del año 10 al 15 (100 % en 2011)",
     "7": "Anexo 7 – Productos con tratamiento especial a 15 años (cupos)",
@@ -31,6 +31,7 @@ ANEXOS = {
     "9": "Anexo 9 – Productos de incorporación diferida: trigo y harina de trigo (100 % desde el 1/1/2014)",
     "P": "Protocolo sobre Integración Física",
     "15_pt": "Anexo 15 – Acuerdos del MERCOSUR sobre transporte (Artículo 38; versión en portugués)",
+    "15": "Anexo 15 – Acuerdos del MERCOSUR sobre transporte (Artículo 38)",
     "10": "Anexo 10 – Productos con márgenes de preferencia iniciales propios",
     "11": "Anexo 11 – Aranceles máximos de Argentina para productos de Chile",
     "12_AR": "Anexo 12 – Aranceles residuales para Chile: Argentina",
@@ -50,8 +51,10 @@ def identificar(b):
     m = re.fullmatch(r"ACE_035_Anexo_(\w+)", b)
     if m:
         k = m.group(1)
-        grupo = "Anexos del Programa de Liberación" if k not in ("13", "14", "P", "15_pt") else "Origen y controversias"
+        grupo = "Anexos del Programa de Liberación" if k not in ("13", "14", "P", "15_pt", "15") else "Origen y controversias"
         return f"anexo_{k.lower()}", ANEXOS[k], grupo
+    if b == "ACE_035_Notas_PY":
+        return "notas_paraguay", "Notas complementarias de Paraguay (Artículos 5, 6 y 7)", "Acuerdo"
     m = re.fullmatch(r"ACE_035_Notas_Art(\d)", b)
     if m:
         return f"notas_art_{m.group(1)}", f"Notas complementarias al Artículo {m.group(1)}", "Acuerdo"
@@ -75,7 +78,14 @@ def identificar(b):
     raise ValueError(b)
 
 
+SICE = Path(__file__).resolve().parent / "datos" / "sice"
+
+
 def leer(b, ocr):
+    """Prefiere la copia en texto del SICE (OEA) cuando existe; si no, el texto del PDF o el OCR."""
+    p = SICE / f"{b}.txt"
+    if p.exists():
+        return p.read_text(encoding="utf-8"), "texto del SICE"
     p = ocr / f"{b}.txt"
     if p.exists():
         return p.read_text(encoding="utf-8", errors="replace"), "texto del PDF"
@@ -126,8 +136,9 @@ def main(carpeta_pdf, ocr):
     carpeta_pdf, ocr = Path(carpeta_pdf), Path(ocr)
     (SALIDA / "textos").mkdir(parents=True, exist_ok=True)
     filas, textos = [], []
-    for pdf in sorted(carpeta_pdf.glob("ACE_035_*.pdf")):
-        b = pdf.stem
+    nombres = sorted({p.stem for p in carpeta_pdf.glob("ACE_035_*.pdf")} | {p.stem for p in SICE.glob("ACE_035_*.txt")})
+    for b in nombres:
+        pdf = carpeta_pdf / f"{b}.pdf"
         id_, titulo, grupo = identificar(b)
         bruto, lectura = leer(b, ocr)
         if bruto is None:
@@ -139,7 +150,7 @@ def main(carpeta_pdf, ocr):
         sin = sintesis(bruto) if grupo == "Protocolos adicionales" and "_" not in id_[10:] else ""
         paginas = len(re.findall(r"\f", bruto)) + 1 if lectura == "OCR" else bruto.count("\f") or 1
         filas.append({"ID": id_, "TITULO": titulo, "SINTESIS": sin, "GRUPO": grupo, "FECHA": f,
-                      "ARCHIVO_ALADI": pdf.name, "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
+                      "ARCHIVO_ALADI": pdf.name if pdf.exists() else "(solo SICE)", "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
         (SALIDA / "textos" / f"{id_}.txt").write_text(t, encoding="utf-8")
         textos.append({"id": id_, "titulo": titulo, "sintesis": sin, "grupo": grupo, "fecha": f, "paginas": paginas,
                        "lectura": lectura, "tabla": tabla, "texto": t})
@@ -179,6 +190,16 @@ def anexo10_paraguay(ruta, salida):
             filas.append({"NALADISA_93": cod, "DESCRIPCION_OCR": desc, "MARGEN_INICIAL_1996": pref})
             pref = None
     d = pd.DataFrame(filas).drop_duplicates()
+    d["FUENTE"] = "OCR de la ALADI (verificar)"
+    sice = SICE / "anexo10_chile_a_paraguay_sice.csv"
+    if sice.exists():
+        t = pd.read_csv(sice, dtype=str)
+        ult = t.NALADISA_93.max()                   # la copia del SICE llega hasta este código
+        t = t.rename(columns={"DESCRIPCION_SICE": "DESCRIPCION"})[["NALADISA_93", "DESCRIPCION", "MARGEN_INICIAL_1996"]]
+        t["MARGEN_INICIAL_1996"] = t.MARGEN_INICIAL_1996.astype(float).astype(int).astype(str)
+        t["FUENTE"] = "SICE (texto)"
+        d = d.rename(columns={"DESCRIPCION_OCR": "DESCRIPCION"})
+        d = pd.concat([t, d[d.NALADISA_93 > ult]]).sort_values("NALADISA_93")
     d.to_csv(salida, index=False, encoding="utf-8-sig")
     return len(d)
 
