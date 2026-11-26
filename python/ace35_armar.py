@@ -56,6 +56,8 @@ def identificar(b):
     if b == "ACE_035_064_01_Decision_CA_02_2024":
         return ("protocolo_64_1_decision_02_2024", "Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio "
                 "Brasil–Chile: cosméticos (base del Protocolo 64.1)", "Protocolos adicionales")
+    if b == "ACE_035_Ley_PY_1038_1997":
+        return "ley_py_1038_1997", "Paraguay, Ley N° 1.038/1997: aprueba el Acuerdo y el Protocolo sobre Integración Física", "Normas de Paraguay"
     if b == "ACE_035_Guia_BR_Ficha_Tecnica":
         return "guia_brasil_ficha_tecnica", "Brasil (MDIC): Ficha técnica del régimen de origen del ACE 35, 2025 (en portugués)", "Guías de otros países"
     if b == "ACE_035_Guia_BR_Manual_Origen":
@@ -96,7 +98,7 @@ def leer(b, ocr):
         return p.read_text(encoding="utf-8"), "texto del SICE"
     p = OTROS / f"{b}.txt"
     if p.exists():
-        return p.read_text(encoding="utf-8"), ("OCR" if "Decision" in b else "texto del PDF")
+        return p.read_text(encoding="utf-8"), ("OCR" if "Decision" in b else "texto del documento")
     p = ocr / f"{b}.txt"
     if p.exists():
         return p.read_text(encoding="utf-8", errors="replace"), "texto del PDF"

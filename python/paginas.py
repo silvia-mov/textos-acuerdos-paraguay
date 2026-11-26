@@ -142,6 +142,16 @@ BUSCA = """<h2>Buscá un producto</h2>
 <input type="search" id="q-prod" placeholder="Escribí un código o un nombre, por ejemplo: {ej}" aria-label="Buscar un producto">
 <div class="tw"><table id="t-prod"></table></div>"""
 
+def normas_ace35():
+    d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_normas_paraguay.csv", dtype=str).fillna("")
+    filas = "".join(f'<tr><td>{e(r.NORMA)}</td><td>{e(r.FECHA)}</td><td>{e(r.QUE_INCORPORA)}</td><td class="chica">{e(r.FUENTE)}</td></tr>' for r in d.itertuples())
+    return ('<h2>Las normas con las que Paraguay incorporó el Acuerdo</h2>\n'
+            '<p class="chica">El Acuerdo se aprobó por ley (Ley N° 1.038/1997, cuyo texto está en «Los documentos»); los protocolos entran por decreto. '
+            'Lista armada con el buscador de decretos de la Presidencia de la República, la Gaceta Oficial y la ficha del MIC. Puede faltar algún protocolo de antes de 2009.</p>\n'
+            '<div class="tw"><table><thead><tr><th>Norma</th><th>Fecha</th><th>Qué incorpora</th><th>Fuente</th></tr></thead><tbody>' + filas +
+            '</tbody></table></div><p class="note">Descargar: <a href="tablas/normas_paraguay.csv" download>CSV</a> · <a href="tablas/normas_paraguay.xlsx" download>Excel</a>.</p>')
+
+
 def vigencia_ace35():
     d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_vigencia_61_69.csv", dtype=str).fillna("")
     filas = "".join(f'<tr><td>{r.PROTOCOLO}</td><td>{e(r.SINTESIS)}</td><td>{e(r.VIGENCIA_PARAGUAY_CHILE)}</td><td class="chica">{e(r.NORMA_PARAGUAY)}</td><td class="chica">{e(r.OTRAS_VIGENCIAS)}</td></tr>'
@@ -153,7 +163,7 @@ def vigencia_ace35():
             + filas + "</tbody></table></div>")
 
 
-VIG35 = vigencia_ace35()
+VIG35 = vigencia_ace35() + normas_ace35()
 ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 <p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
 <div class="disp">
@@ -176,7 +186,7 @@ ACUERDOS = [
         lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto, incluido el "
              "Acuerdo Comercial Chile–Paraguay de 2021. Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
         kpis=[("25/06/1996", "firmado en Potrero de los Funes (Argentina)"), ("1/10/1996", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("139", "documentos ordenados")],
+              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("140", "documentos ordenados")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
                ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100 % en 2006; un listado, en 2008).", True),
@@ -206,7 +216,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
   fila: r => [r[0], esc(r[1]) + (r[2] ? `<div class="det">${esc(r[2])}</div>` : ""), `<span class="chica">${esc(r[4])}</span>`, esc(r[3])]};
 </script>""",
         ejemplo="Por ejemplo: drawback, certificado de origen, salvaguardia, Paraguay",
-        grupos=["Acuerdo", "Anexos del Programa de Liberación", "Origen y controversias", "Protocolos adicionales", "Guías de otros países"],
+        grupos=["Acuerdo", "Normas de Paraguay", "Anexos del Programa de Liberación", "Origen y controversias", "Protocolos adicionales", "Guías de otros países"],
         descargas=[("Requisitos específicos de origen (805)", "tablas/requisitos_especificos_origen"),
                    ("Origen diferenciado Paraguay a Chile (194 productos)", "tablas/origen_diferenciado_paraguay_a_chile"),
                    ("Vigencia de los Protocolos 61 a 69 y normas de Paraguay", "tablas/vigencia_protocolos_61_69"),

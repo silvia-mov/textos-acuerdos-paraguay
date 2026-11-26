@@ -3,7 +3,7 @@
 Textos y tablas del Acuerdo de Complementación Económica N° 35, armados con `python/ace35_armar.py` a partir de los
 archivos publicados por la ALADI (los PDF no se publican aquí).
 
-- `catalogo.csv/.xlsx`: 139 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
+- `catalogo.csv/.xlsx`: 140 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
   Adicionales 1 a 69 y 64.1, con sus anexos y apéndices). Cada protocolo tiene fecha y síntesis (su primer artículo).
 - `textos/`: texto de cada documento. 43 se leyeron con OCR (eran imágenes escaneadas): pueden tener errores de lectura.
 - `estructura.json`: los 26 títulos del Acuerdo (57 artículos).
@@ -24,3 +24,4 @@ Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus ve
 - `tablas/paraguay_lista_adecuacion_anexo12`: Lista de Adecuación de Paraguay (298 productos, arancel para Chile 1996–2006), del SICE.
 - `tablas/chile_a_paraguay_margenes_iniciales_1996` (243) y `paraguay_a_chile_margenes_iniciales_1996` (95): Anexo 10 completo desde el SICE (a_10ch_1 a 7 y a_10ms_1 a 4).
 - Siscomex (Brasil): ficha técnica y manual del régimen de origen (portugués), Decisión 02/2024 de la Comisión Administradora Brasil–Chile (OCR) y planilla NALADISA 2012 con 100 % en los 6.811 códigos (`tablas/naladisa_2012_preferencias_chile`). Fuentes en `python/datos/otros/`.
+- `tablas/normas_paraguay`: ley y decretos con los que Paraguay incorporó el ACE 35 y sus protocolos (buscador de decretos de la Presidencia, Gaceta Oficial, ficha del MIC). Texto de la Ley N° 1.038/1997 en `textos/ley_py_1038_1997.txt`.
