@@ -1,7 +1,7 @@
 """Arma la carpeta docs/ace72 a partir de los archivos reunidos del ACE 72 (MERCOSUR–Colombia).
 
 Uso (desde la raíz del repositorio):
-    python python/ace72_armar.py <carpeta_con_inventario>
+    python python/ace72_armar.py <carpeta_con_inventario> <carpeta_con_los_PDF_de_la_ALADI>
 
 La carpeta de entrada tiene inventario.tsv (md5, ruta, bytes, tipo, páginas, caracteres, inicio del texto) y txt/<md5>.txt
 con el texto de cada PDF (pdftotext -layout, o OCR con tesseract si el PDF era una imagen). Los PDF originales no se
@@ -16,7 +16,7 @@ import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from ace72_catalogo_fuente import C  # noqa: E402
-import ace72_preferencias as pref  # noqa: E402
+import ace72_tablas_pdf as tpdf  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "docs" / "ace72"
@@ -28,12 +28,13 @@ def limpiar(texto, tabla):
     lineas = [l.rstrip() for l in texto.splitlines()]
     if not tabla:
         lineas = [re.sub(r"\s{2,}", " ", l).strip() for l in lineas]
-        lineas = [l for l in lineas if not re.fullmatch(r"\d{1,4}", l)]       # números de página sueltos
+        lineas = [l for l in lineas if not re.fullmatch(r"\d{1,4}( \d{1,4})?", l)]   # números de página sueltos
+        lineas = [re.sub(r"\s\d{4} \d{4}$", "", l) for l in lineas]                # «1333 1334» de la ALADI
     texto = "\n".join(lineas)
     return re.sub(r"\n{3,}", "\n\n", texto).strip() + "\n"
 
 
-def main(entrada):
+def main(entrada, carpeta_pdf):
     entrada = Path(entrada)
     inv = pd.read_csv(entrada / "inventario.tsv", sep="\t", header=None, dtype=str,
                       names=["MD5", "RUTA", "BYTES", "TIPO", "PAGINAS", "CARACTERES", "INICIO"], quoting=3).fillna("")
@@ -59,7 +60,7 @@ def main(entrada):
                                         encoding="utf-8")
     (SALIDA / "indice.json").write_text(json.dumps([{k: v for k, v in t.items() if k != "texto"} for t in textos],
                                                    ensure_ascii=False), encoding="utf-8")
-    pref.armar_tablas(lambda i: SALIDA / "textos" / f"{i}.txt", SALIDA / "tablas")
+    tpdf.main(carpeta_pdf, SALIDA / "tablas")
     unir_paraguay(SALIDA / "tablas")
     (SALIDA / "estructura.json").write_text(json.dumps(estructura(SALIDA / "textos" / "acuerdo.txt"), ensure_ascii=False),
                                             encoding="utf-8")
@@ -115,4 +116,4 @@ def estructura(ruta):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2])

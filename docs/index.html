@@ -115,7 +115,8 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 <h2>Cómo se armó</h2>
 <div class="card">
 <p>Se reunieron <b>155 archivos</b> sobre el ACE 72 (descargas de la ALADI, del SICE de la OEA, del Ministerio de Comercio de Colombia y copias escaneadas). Entre ellos había <b>12 copias exactas</b>, así que quedaron <b>143 archivos distintos</b>. De cada documento se eligió la versión de la <b>ALADI</b>, que es el depositario oficial; las otras versiones del mismo texto (39 archivos) figuran en el catálogo como copias. También se separaron 16 documentos del <b>ACE 59</b> (el acuerdo anterior del MERCOSUR con Colombia, Ecuador y Venezuela, de 2004), normas nacionales de Colombia, páginas web y datos de la OMC.</p>
-<p>Los textos se pasaron a texto plano con <code>pdftotext</code>; los 28 PDF que eran imágenes se leyeron con OCR (<code>tesseract</code>), pero ninguno de ellos es la versión elegida. Las listas de productos se pasaron a tablas con un programa en Python.</p>
+<p>Los textos se pasaron a texto plano con <code>pdftotext</code>; los 28 PDF que eran imágenes se leyeron con OCR (<code>tesseract</code>), pero ninguno de ellos es la versión elegida. Las listas de productos se leyeron de los PDF celda por celda (con <code>pdfplumber</code>), usando los recuadros de las tablas.</p>
+<p><b>Lo que falta:</b> el instrumento de denuncia del Apéndice 5.1 (Colombia, 30/09/2024), que la ALADI registra pero sin archivo, y el Decreto N° 1113/2019 con el que Paraguay incorporó el Acuerdo (notificado a la ALADI el 29/01/2019), que no está publicado en línea.</p>
 <p class="note">Catálogo de los 155 archivos, con su estado: <a href="ace72/catalogo.csv" download>CSV</a> · <a href="ace72/catalogo.xlsx" download>Excel</a>. Código en <a href="https://github.com/silvia-mov/textos-acuerdos-paraguay">GitHub</a>. Los PDF originales no se publican aquí: cada texto indica su fuente oficial.</p>
 </div>
 
@@ -127,7 +128,7 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
   <li>Productos con más de un cronograma (contingentes y preferencias fijas), Colombia a Paraguay: <a href="ace72/tablas/colombia_a_paraguay_varios_cronogramas.csv" download>CSV</a> · <a href="ace72/tablas/colombia_a_paraguay_varios_cronogramas.xlsx" download>Excel</a>; Paraguay a Colombia: <a href="ace72/tablas/paraguay_a_colombia_varios_cronogramas.csv" download>CSV</a> · <a href="ace72/tablas/paraguay_a_colombia_varios_cronogramas.xlsx" download>Excel</a></li>
   <li>Requisitos específicos de origen Paraguay–Colombia: <a href="ace72/tablas/requisitos_origen_paraguay_colombia.csv" download>CSV</a> · <a href="ace72/tablas/requisitos_origen_paraguay_colombia.xlsx" download>Excel</a></li>
 </ul>
-<p class="note">Las tablas salen de leer los PDF con un programa: revisá el texto original ante cualquier duda. En 5 productos de la lista de Colombia no se pudo leer la categoría para Paraguay.</p>
+<p class="note">Las tablas se leyeron de los PDF de la ALADI celda por celda. Controles: las 6.524 filas de cada lista tienen su categoría; cada producto que remite a los Apéndices 3.3 o 4.3 tiene ahí su detalle (215 y 224 productos); y la lista de Brasil coincide con el Excel oficial que publica Brasil para el ACE 72. Ante cualquier duda, vale el texto original.</p>
 
 </main>
 <footer>
@@ -139,7 +140,7 @@ const sinT = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const fmt = n => n.toLocaleString("es-PY");
 const COL = {A:"var(--s1)", B:"var(--s4)", C:"var(--s4)", D:"var(--s4)", E:"var(--s4)", V:"var(--s3)", X:"var(--s2)"};
 const grupo = c => /^[A]$/.test(c) ? "A" : /^[B-E]$/.test(c) ? "B" : /^Ver/.test(c) ? "V" : "X";
-const NOMG = {A:"A: 100 % desde el inicio", B:"B a E: 100 % desde 2018", V:"Reglas propias (Apéndices 3.3 y 4.3)", X:"Otros o sin dato"};
+const NOMG = {A:"A: 100 % desde el inicio", B:"B a E: 100 % desde 2018", V:"Reglas propias (Apéndices 3.3 y 4.3)", X:"Bienes usados (excluidos) o ver nota"};
 let P = [];
 // columnas: 0 código, 1 descripción, 2 Colombia→PY, 3 nota, 4 PY→Colombia, 5 nota, 6 detalle CO, 7 detalle PY, 8 requisito de origen
 fetch("ace72/preferencias.json").then(r => r.json()).then(d => {
