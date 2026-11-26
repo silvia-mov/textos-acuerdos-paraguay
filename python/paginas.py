@@ -74,7 +74,7 @@ def pagina(a):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(a["titulo"])}</title>
 <meta name="description" content="{e(a["descripcion"])}">
-<link rel="icon" href="../logo.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="../apple-touch-icon.png">
 <link rel="canonical" href="{URL}{carpeta}/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_PY">
@@ -377,7 +377,7 @@ def portada():
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Textos de los acuerdos comerciales de Paraguay</title>
 <meta name="description" content="Los acuerdos comerciales de Paraguay en la ALADI (ACE 72, 35, 58, 36 y 59), ordenados, sin duplicados y buscables: texto completo, protocolos, preferencias y régimen de origen.">
-<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="canonical" href="{URL}">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_PY">
