@@ -22,5 +22,5 @@ Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus ve
 
 - Copias en texto del SICE (OEA), 26/11/2026, en `python/datos/sice/`: Anexo 4, Anexo 12 (los cuatro países), notas complementarias de Paraguay y Anexo 15 en español. Reemplazan al OCR en esos documentos.
 - `tablas/paraguay_lista_adecuacion_anexo12`: Lista de Adecuación de Paraguay (298 productos, arancel para Chile 1996–2006), del SICE.
-- `tablas/chile_a_paraguay_margenes_iniciales_1996`: columna FUENTE; hasta la partida 1702 viene del SICE (48 productos), el resto del OCR.
+- `tablas/chile_a_paraguay_margenes_iniciales_1996`: columna FUENTE; hasta la partida 8308 viene del SICE (203 productos, partes 1 a 6 de a_10ch), el resto del OCR (16).
 - Siscomex (Brasil): ficha técnica y manual del régimen de origen (portugués), Decisión 02/2024 de la Comisión Administradora Brasil–Chile (OCR) y planilla NALADISA 2012 con 100 % en los 6.811 códigos (`tablas/naladisa_2012_preferencias_chile`). Fuentes en `python/datos/otros/`.

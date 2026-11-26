@@ -1,6 +1,6 @@
 """ACE 35, Anexo 10, «Preferencias otorgadas por Chile», desde la copia en texto del SICE (OEA): las filas que Chile
 otorga a Paraguay con su margen de preferencia inicial (1996). Reemplaza la lectura por OCR del PDF de la ALADI.
-Uso: python3 ace35_anexo10_sice.py <PDF del SICE a_10ch_1.asp> <salida.csv>"""
+Uso: python3 ace35_anexo10_sice.py <salida.csv> <PDF a_10ch_1> <PDF a_10ch_2> …"""
 import csv
 import re
 import sys
@@ -10,9 +10,10 @@ import pdfplumber
 MOJIBAKE = {"ï¿½": "�"}
 
 
-def main(ruta, salida):
+def main(rutas, salida):
     filas = []
-    with pdfplumber.open(ruta) as pdf:
+    for ruta in rutas:
+      with pdfplumber.open(ruta) as pdf:
         for pn, p in enumerate(pdf.pages, 1):
             W = p.extract_words()
             hdr = {w["text"]: w["x0"] for w in W if w["text"] in ("GLOSA", "OBSERV", "TIPOOBS", "PORCAD")}
@@ -38,4 +39,4 @@ def main(ruta, salida):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[2:], sys.argv[1])
