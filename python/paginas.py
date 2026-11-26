@@ -106,6 +106,7 @@ def pagina(a):
 {a.get("uso", "")}
 <p class="note">{uso.NOTA}</p>
 {a.get("despues_uso", "")}
+{a.get("aranceles", "")}
 {a.get("productos", "")}
 {titulos}
 <h2>Buscá en el texto</h2>
@@ -153,6 +154,16 @@ def vigencia_ace35():
 
 
 VIG35 = vigencia_ace35()
+ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
+<p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
+<div class="disp">
+<div class="card"><div class="v">6 %</div><h3>Arancel general (NMF) en 2026</h3><p>Lo paga el 99,4 % de los productos (5.572 de 5.604 subpartidas). Promedio simple: 5,98 %.</p><div class="src">OMC, base de datos integrada, SA 2022</div></div>
+<div class="card"><div class="v">0 %</div><h3>Las pocas excepciones</h3><p>Solo 32 subpartidas pagan menos de 6 %: sobre todo aeronaves, drones y barcos, y algunos libros e impresos.</p><div class="src">OMC, base de datos integrada</div></div>
+<div class="card"><div class="v">31,5 %</div><h3>Techo consolidado en la OMC</h3><p>Chile puede subir hasta 25 % casi todo y hasta 31,5 % lácteos, trigo, harina y semillas oleaginosas, entre otros. Hoy aplica mucho menos.</p><div class="src">OMC, lista de concesiones de Chile</div></div>
+<div class="card"><div class="v">98 %</div><h3>Azúcar: el techo más alto</h3><p>Para el azúcar (partida 1701) el techo es 98 %, por el sistema de bandas de precios, que el Artículo 24 del ACE 35 congeló para el MERCOSUR.</p><div class="src">OMC; ACE 35, Artículo 24</div></div>
+</div>
+<p class="note">Aranceles por subpartida de 6 dígitos (aplicado 2026 y consolidado): <a href="tablas/aranceles_chile_omc.csv" download>CSV</a> · <a href="tablas/aranceles_chile_omc.xlsx" download>Excel</a>. Fuente: OMC, Tariff &amp; Trade Data (descargado el 26/11/2026). El arancel aplicado de la OMC no incluye las preferencias del ACE 35.</p>"""
+
 
 ACUERDOS = [
     dict(
@@ -187,7 +198,7 @@ ACUERDOS = [
             ("Autopartes", "trato Chile–Paraguay del Anexo 4", "Cronograma propio: 100 % en 2006 y, para un listado de autopartes, en 2008.", "Protocolo 37 (2003)"),
             ("Carne", "cupos de Chile a Paraguay", "Cupos de carne bovina en el Anexo 7, ajustados por los Protocolos 2 (1997) y 29 (2002, 3.500 toneladas de carne congelada).", "Protocolos 2 y 29"),
             ("50 %", "márgenes iniciales de 1996", "En el Anexo 10, Chile dio a Paraguay márgenes iniciales (muchos de 50 %) para aves, huevos, tomates, avena y otros. Hoy esos productos tienen 100 %.", "Anexo 10")],
-        despues_uso=VIG35,
+        despues_uso=VIG35, aranceles=ARANCELES_CHILE,
         productos=BUSCA.format(texto="Requisitos específicos de origen del régimen vigente (Protocolo 69): los que valen para todas las Partes y los especiales para lo que Paraguay exporta a Chile.", ej="soja, 3923, prendas"),
         script="""<script>
 window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "Lista", "Requisito de origen"],
