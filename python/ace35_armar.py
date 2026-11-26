@@ -204,14 +204,15 @@ def anexo10_paraguay(ruta, salida):
     d = pd.DataFrame(filas).drop_duplicates()
     d["FUENTE"] = "OCR de la ALADI (verificar)"
     sice = SICE / "anexo10_chile_a_paraguay_sice.csv"
-    if sice.exists():
-        t = pd.read_csv(sice, dtype=str)
-        ult = t.NALADISA_93.max()                   # la copia del SICE llega hasta este código
-        t = t.rename(columns={"DESCRIPCION_SICE": "DESCRIPCION"})[["NALADISA_93", "DESCRIPCION", "MARGEN_INICIAL_1996"]]
-        t["MARGEN_INICIAL_1996"] = t.MARGEN_INICIAL_1996.astype(float).astype(int).astype(str)
-        t["FUENTE"] = "SICE (texto)"
-        d = d.rename(columns={"DESCRIPCION_OCR": "DESCRIPCION"})
-        d = pd.concat([t, d[d.NALADISA_93 > ult]]).sort_values("NALADISA_93")
+    if sice.exists():       # la copia del SICE (a_10ch_1 a 7) está completa: reemplaza al OCR
+        d = pd.read_csv(sice, dtype=str).rename(columns={"DESCRIPCION_SICE": "DESCRIPCION"})
+        d["MARGEN_INICIAL_1996"] = d.MARGEN_INICIAL_1996.astype(float).astype(int).astype(str)
+        d = d[["NALADISA_93", "DESCRIPCION", "MARGEN_INICIAL_1996", "OBSERVACION"]]
+        d["FUENTE"] = "SICE (texto)"
+        v = pd.read_csv(SICE / "anexo10_paraguay_a_chile_sice.csv", dtype=str).rename(columns={"DESCRIPCION_SICE": "DESCRIPCION"})
+        v["MARGEN_INICIAL_1996"] = v.MARGEN_INICIAL_1996.astype(float).astype(int).astype(str)
+        v[["NALADISA_93", "DESCRIPCION", "MARGEN_INICIAL_1996", "OBSERVACION"]].to_csv(
+            Path(salida).parent / "paraguay_a_chile_margenes_iniciales_1996.csv", index=False, encoding="utf-8-sig")
     d.to_csv(salida, index=False, encoding="utf-8-sig")
     return len(d)
 

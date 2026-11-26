@@ -32,10 +32,10 @@
 1510.00.90,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,6
 1511.10.00,Aceite en bruto,50.00,Preferencia otorgada a PARAGUAY,7
 1511.90.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,7
-1513.11.00,Aceite en bruto,50.00,OTORGADA EN ANEXO 7 Preferencia otorgada a PARAGUAY,7
-1513.19.00,Los dem?s,50.00,OTORGADA EN ANEXO 7 Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA,8
+1513.11.00,Aceite en bruto,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 7,7
+1513.19.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 7,8
 1513.21.10,De almendra de palma,50.00,Preferencia otorgada a PARAGUAY,8
-1513.21.20,De babas?,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA,9
+1513.21.20,De babas?,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 7,9
 1513.29.10,De almendra de palma,50.00,Preferencia otorgada a PARAGUAY,9
 1513.29.20,De babas?,50.00,Preferencia otorgada a PARAGUAY,9
 1514.10.10,De mostaza,50.00,Preferencia otorgada a PARAGUAY,9
@@ -59,7 +59,7 @@
 1905.90.10,"de panader?a, sin adici?n de az?car, miel,",50.00,Preferencia otorgada a PARAGUAY,3
 1905.90.99,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,3
 2004.10.00,Papas (patatas),50.00,Preferencia otorgada a PARAGUAY,3
-2007.99.10,"Confituras, jaleas y mermeladas",50.00,Preferencia otorgada a PARAGUAY,4
+2007.99.10,"Confituras, jaleas y mermeladas",50.00,BRASIL Preferencia otorgada a PARAGUAY,4
 2008.70.10,"En agua edulcorada, incluido el jarabe",50.00,Preferencia otorgada a PARAGUAY,4
 2009.60.10,Sin concentrar,50.00,Preferencia otorgada a PARAGUAY,4
 2009.60.20,Concentrado,50.00,Preferencia otorgada a PARAGUAY,5
@@ -70,14 +70,14 @@
 2103.90.10,Mayonesa,34.00,Preferencia otorgada a PARAGUAY,6
 2103.90.90,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,6
 2104.10.00,"sopas, potajes o caldos; sopas, potajes",50.00,Preferencia otorgada a PARAGUAY,6
-2104.20.00,alimenticias compuestas,50.00,Preferencia otorgada a PARAGUAY,7
+2104.20.00,alimenticias compuestas,50.00,BRASIL Preferencia otorgada a PARAGUAY,7
 2106.10.00,Concentrados de prote?nas y sustancias proteicas,50.00,Preferencia otorgada a PARAGUAY,7
 2106.90.30,"fabricaci?n de budines, cremas,",50.00,Preferencia otorgada a PARAGUAY,7
 2203.00.00,CERVEZA DE MALTA.,50.00,Preferencia otorgada a PARAGUAY,8
 2204.21.10,"Vinos ""finos"" de mesa",50.00,Preferencia otorgada a PARAGUAY,8
 2302.10.00,De ma?z,50.00,Preferencia otorgada a PARAGUAY,8
 2302.30.00,De trigo,50.00,Preferencia otorgada a PARAGUAY,8
-2304.00.00,"DE LA EXTRACCION DEL ACEITE DE SOJA (SOYA),",50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA,9
+2304.00.00,"DE LA EXTRACCION DEL ACEITE DE SOJA (SOYA),",50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 7,9
 2305.00.00,"DEL ACEITE DE MANI (CACAHUATE,",50.00,Preferencia otorgada a PARAGUAY,9
 2306.10.00,De algod?n,50.00,Preferencia otorgada a PARAGUAY,10
 2306.30.00,De girasol,50.00,Preferencia otorgada a PARAGUAY,10
@@ -118,10 +118,10 @@
 4104.10.11,"Variedad llamada ""box- calf""",50.00,Preferencia otorgada a PARAGUAY,7
 4104.10.19,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,7
 4104.10.90,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,7
-4104.21.00,"Cueros y pieles de bovino, con precurtido vegetal",50.00,Preferencia otorgada a PARAGUAY,7
-4104.22.00,"Cueros y pieles de bovino, precurtidos de otro modo",50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA,8
-4104.29.10,De bovino,50.00,EN ANEXO 5 Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA,8
-4104.29.20,De equino,50.00,OTORGADA EN ANEXO 5 Preferencia otorgada a PARAGUAY,8
+4104.21.00,"Cueros y pieles de bovino, con precurtido vegetal",50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 5,7
+4104.22.00,"Cueros y pieles de bovino, precurtidos de otro modo",50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 5,8
+4104.29.10,De bovino,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 5,8
+4104.29.20,De equino,50.00,Preferencia otorgada a PARAGUAY,8
 4104.31.11,Sin apergaminar,50.00,Preferencia otorgada a PARAGUAY,8
 4104.31.19,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,8
 4104.31.21,Sin apergaminar,50.00,Preferencia otorgada a PARAGUAY,8
@@ -136,11 +136,22 @@
 4410.10.00,De madera,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 5,10
 4411.19.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,10
 4411.21.00,Sin trabajo mec?nico ni recubrimiento de superficie,50.00,Preferencia otorgada a PARAGUAY,10
-4418.20.00,Puertas y sus marcos y umbrales,50.00,Preferencia otorgada a PARAGUAY,10
+4418.20.00,Puertas y sus marcos y umbrales,50.00,Preferencia otorgada a PARAGUAY PREVALECE PREFERENCIA OTORGADA EN ANEXO 5,10
 5202.10.00,Desperdicios de hilados,50.00,Preferencia otorgada a PARAGUAY,1
+5202.99.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,2
+5209.42.00,"Tejidos de mezclilla (""denim"")",50.00,Preferencia otorgada a PARAGUAY,4
+5211.42.00,"Tejidos de mezclilla (""denim"")",50.00,Preferencia otorgada a PARAGUAY,6
+5401.20.12,De acetato de celulosa,50.00,PREFERENCIA OTORGADA A PARAGUAY,7
+5403.20.20,De acetato de celulosa,50.00,Preferencia otorgada a PARAGUAY,8
+5403.33.00,De acetato de celulosa,50.00,Preferencia otorgada a PARAGUAY,9
+5403.42.00,De acetato de celulosa,50.00,Preferencia otorgada a PARAGUAY,9
+5503.20.00,De poli‚steres,50.00,Preferencia otorgada a PARAGUAY,10
+5803.10.00,De algod?n,50.00,Preferencia otorgada a PARAGUAY,11
+6102.20.00,De algod?n,50.00,Preferencia otorgada a PARAGUAY,12
+6106.20.00,De fibras sint?ticas o artificiales,50.00,Preferencia otorgada a PARAGUAY,13
 6108.91.00,De algod?n,50.00,Preferencia otorgada a PARAGUAY,2
 6110.30.10,De fibras sint?ticas,50.00,Preferencia otorgada a PARAGUAY,3
-6110.30.20,De fibras artificiales,50.00,URUGUAY Preferencia otorgada a PARAGUAY,3
+6110.30.20,De fibras artificiales,50.00,Preferencia otorgada a PARAGUAY,3
 6110.90.00,De las dem?s materias textiles,50.00,Preferencia otorgada a PARAGUAY,4
 6111.10.00,De lana o de pelo fino,50.00,Preferencia otorgada a PARAGUAY,4
 6112.12.00,De fibras sint?ticas,50.00,Preferencia otorgada a PARAGUAY,4
@@ -159,11 +170,11 @@
 6204.69.90,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,12
 6205.30.00,De fibras sint?ticas o artificiales,50.00,Preferencia otorgada a PARAGUAY,13
 6309.00.00,ARTICULOS DE PRENDERIA.,50.00,Preferencia otorgada a PARAGUAY,3
-6405.10.10,Con suela de madera o de corcho,50.00,BRASIL Preferencia otorgada a PARAGUAY,7
+6405.10.10,Con suela de madera o de corcho,50.00,Preferencia otorgada a PARAGUAY,7
 6405.10.20,Con suela de caucho o de pl stico,50.00,Preferencia otorgada a PARAGUAY,7
-6405.20.10,Con suela de madera o de corcho,50.00,BRASIL Preferencia otorgada a PARAGUAY,7
+6405.20.10,Con suela de madera o de corcho,50.00,Preferencia otorgada a PARAGUAY,7
 6405.90.10,Con suela de caucho o de pl stico,50.00,Preferencia otorgada a PARAGUAY,8
-6405.90.30,Con suela de madera o de corcho,50.00,BRASIL Preferencia otorgada a PARAGUAY,8
+6405.90.30,Con suela de madera o de corcho,50.00,Preferencia otorgada a PARAGUAY,8
 6902.10.00,"Con un contenido superior al 50 %, en peso, de los",50.00,Preferencia otorgada a PARAGUAY,8
 6902.20.00,"Con un contenido superior al 50 %, en peso, de",50.00,Preferencia otorgada a PARAGUAY,9
 6902.90.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,9
@@ -202,3 +213,32 @@
 7612.90.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,15
 8204.11.00,De boca (parte operante) fija,50.00,Preferencia otorgada a PARAGUAY,15
 8308.20.00,Remaches tubulares o con espiga hendida,50.00,Preferencia otorgada a PARAGUAY,15
+8418.29.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,1
+8418.91.00,Muebles proyectados para incorporarles un equipo de producci?n de fr?o,50.00,Preferencia otorgada a PARAGUAY,2
+8418.99.00,Las dem?s,50.00,Preferencia otorgada a PARAGUAY,2
+8426.41.00,Sobre neum ticos[sic],50.00,Preferencia otorgada a PARAGUAY,2
+8429.51.00,Cargadoras y palas cargadoras de carga frontal,50.00,Preferencia otorgada a PARAGUAY O o,2
+8430.49.00,Las dem?s,50.00,Preferencia otorgada a PARAGUAY,2
+8431.43.00,"aparatos de sondeo o de perforaci?n, de las subpartidas 8430.41 u",50.00,o Preferencia otorgada a PARAGUAY,3
+8466.93.00,Para m quinas[sic] de las partidas 8456 a 8461,50.00,Preferencia otorgada a PARAGUAY O,3
+8472.90.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,3
+8517.30.10,Para telefon?a,50.00,Preferencia otorgada a PARAGUAY,4
+8517.30.20,Para telegraf?a,50.00,Preferencia otorgada a PARAGUAY,4
+8517.40.00,Los dem?s aparatos telecomunicaci?n por corriente portadora,50.00,Preferencia otorgada a PARAGUAY de,4
+8517.81.00,Para telefon?a,50.00,Preferencia otorgada a PARAGUAY,4
+8517.82.00,Para telegraf?a,50.00,Preferencia otorgada a PARAGUAY,5
+8517.90.00,Partes,50.00,Preferencia otorgada a PARAGUAY,5
+8526.92.00,Aparatos de radiotelemando,50.00,PREFERENCIA OTORGADA A PARAGUAY,5
+8531.10.00,Avisadores el?ctricos de protecci?n contra robo o incendio y aparatos similares,50.00,Preferencia otorgada a PARAGUAY DE,5
+8544.59.90,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,6
+8545.11.00,Del tipo de los utilizados para hornos,50.00,Preferencia otorgada a PARAGUAY,6
+8701.20.00,Tractores de carretera para semirremolque,34.00,Preferencia otorgada a PARAGUAY,6
+8705.10.00,Camiones gr?a,34.00,Preferencia otorgada a PARAGUAY,6
+8705.20.00,Camiones autom?viles para sondeos o perforaciones,34.00,Preferencia otorgada a PARAGUAY,7
+8705.30.00,Camiones de bomberos,34.00,Preferencia otorgada a PARAGUAY,7
+8705.40.00,Camiones hormigonera,34.00,Preferencia otorgada a PARAGUAY,7
+8705.90.00,Los dem?s,34.00,Preferencia otorgada a PARAGUAY,7
+9502.10.00,"Mu?ecas, incluso vestidas",50.00,Preferencia otorgada a PARAGUAY,8
+9502.99.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY DE,8
+9506.99.00,Los dem?s,50.00,Preferencia otorgada a PARAGUAY,8
+9606.10.00,Botones de presi?n sus partes,50.00,Preferencia y otorgada a PARAGUAY,8
