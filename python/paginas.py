@@ -353,8 +353,68 @@ def uso_ace72():
     p.write_text(h[:i] + nuevo + h[j:], encoding="utf-8")
 
 
+def contingentes_ace72():
+    """Tabla de contingentes del ACE 72 con lo que vendió Paraguay (datos de la DNIT, python/contingentes_ace72.py)."""
+    d = pd.read_csv(DOCS / "ace72/tablas/contingentes_ventas_paraguay.csv")
+    G = ["Carne bovina deshuesada, despojos, carne salada y tripas", "Leche y nata en polvo",
+         "Preparaciones y conservas de carne", "Leche maternizada"]
+    t = lambda x: uso.num(x, 0) if x >= 1 or x == 0 else uso.num(x, 1)
+    def resumen(g):
+        x = d[d.CONTINGENTE == g]
+        con, sin, otro = x.CON_ACE72_T.sum(), x.SIN_ACUERDO_T.sum(), x.OTRO_O_SIN_DATO_T.sum()
+        if con + sin + otro == 0:
+            return "No hubo ventas a Colombia."
+        return f"{t(con + sin + otro)} t vendidas en total; {t(con)} t con el ACE 72 ({uso.num(100 * con / (con + sin + otro), 0)} %)."
+    filas = [
+        ("Carne bovina deshuesada (demás cortes), despojos, carne salada y tripas", "3.299 t desde 2018, con 2 % más por año desde 2019 (unas 3.789 t en 2026)", "Todo el MERCOSUR, en conjunto", "25 % de preferencia fija", resumen(G[0])),
+        ("Cortes finos de carne bovina (lomito, punta de anca, lomo ancho)", "5.294 t en 2018", "Todo el MERCOSUR", "Categoría C: 100 % desde 2018, así que hoy el contingente ya no limita", "No tienen código propio en la NCM: van con la carne deshuesada (fila de arriba)."),
+        ("Leche y nata en polvo (partida 0402)", "303 t por año desde 2018, sin crecimiento", "Solo Paraguay", "No hay rebaja", resumen(G[1])),
+        ("Preparaciones y conservas de carne", "4.538 kg por año desde 2018", "Solo Paraguay", "70 % de preferencia fija", resumen(G[2]) + " Más que el cupo: lo que pasa del cupo entra con 70 %."),
+        ("Leche maternizada", "300 t", "Todo el MERCOSUR", "Categoría C: 100 % desde 2018", resumen(G[3]))]
+    tabla1 = ('<div class="tw"><table><thead><tr><th>Producto</th><th>Contingente</th><th>Con quién se comparte</th><th>Fuera del contingente</th>'
+              '<th>Lo que vendió Paraguay a Colombia, 2019–2026</th></tr></thead><tbody>' +
+              "".join("<tr>" + "".join(f"<td>{c}</td>" for c in f) + "</tr>" for f in filas) + "</tbody></table></div>")
+    anios = sorted(d.AÑO.unique())
+    def celda(a, g, col):
+        x = d[(d.AÑO == a) & (d.CONTINGENTE == g)]
+        v = float(x[col].sum()) if len(x) else 0
+        return t(v) if v else '<span class="chica">0</span>'
+    def otro(a, g):
+        x = d[(d.AÑO == a) & (d.CONTINGENTE == g)].OTRO_O_SIN_DATO_T.sum()
+        return f'<div class="det">+ {t(x)} t sin dato del acuerdo</div>' if x else ""
+    tabla2 = ('<div class="tw"><table><thead><tr><th>Año</th><th>Carne y despojos: con ACE 72 (t)</th><th>Carne y despojos: sin acuerdo (t)</th>'
+              '<th>Conservas de carne: con ACE 72 (t)</th><th>Conservas: sin acuerdo (t)</th><th>Leche en polvo (t)</th><th>Leche maternizada (t)</th></tr></thead><tbody>' +
+              "".join(f"<tr><td>{a}{'*' if a == uso.PARCIAL else ''}</td><td>{celda(a, G[0], 'CON_ACE72_T')}</td><td>{celda(a, G[0], 'SIN_ACUERDO_T')}{otro(a, G[0])}</td>"
+                      f"<td>{celda(a, G[2], 'CON_ACE72_T')}</td><td>{celda(a, G[2], 'SIN_ACUERDO_T')}</td>"
+                      f"<td>{t(d[(d.AÑO == a) & (d.CONTINGENTE == G[1])][['CON_ACE72_T', 'SIN_ACUERDO_T', 'OTRO_O_SIN_DATO_T']].sum().sum())}</td>"
+                      f"<td>{t(d[(d.AÑO == a) & (d.CONTINGENTE == G[3])][['CON_ACE72_T', 'SIN_ACUERDO_T', 'OTRO_O_SIN_DATO_T']].sum().sum())}</td></tr>"
+                      for a in anios) + "</tbody></table></div>")
+    carne = d[d.CONTINGENTE == G[0]]
+    ult = carne[carne.AÑO < uso.PARCIAL].AÑO.max()
+    cu = carne[carne.AÑO == ult]
+    texto = (f"<p>Paraguay casi no usa los contingentes de carne: en {ult} le vendió a Colombia {t(float(cu[['CON_ACE72_T', 'SIN_ACUERDO_T', 'OTRO_O_SIN_DATO_T']].sum().sum()))} t "
+             f"de carne bovina, despojos y tripas, y " + (f"{t(float(cu.CON_ACE72_T.sum()))} t con el acuerdo" if cu.CON_ACE72_T.sum() else "ninguna con el acuerdo") + ", aunque el cupo compartido del MERCOSUR era de unas 3.700 t. "
+             "Las conservas de carne sí usan el acuerdo, y más allá del cupo.</p>")
+    html_ = ('<h2>Los contingentes que le tocan a Paraguay</h2>\n<p class="chica">Colombia da a Paraguay rebaja total para una cantidad fija por año. '
+             'Paraguay no da contingentes a Colombia.</p>\n' + tabla1 +
+             '\n<p class="note">Fuente: Anexo II, Apéndice 3.3. Las cifras de 2026 son un cálculo propio a partir del crecimiento del 2 % anual. '
+             'El arancel de referencia para los contingentes de carne es 20 %, o el arancel general de Colombia si es menor.</p>\n'
+             '<h3>Lo que vendió Paraguay de esos productos, año por año</h3>\n' + texto + tabla2 +
+             '\n<p class="note">* Enero a octubre. Toneladas netas de los despachos de exportación definitivos de la DNIT con destino a Colombia, '
+             'según el acuerdo que declaró el exportador. Solo datos de Paraguay: la DNIT no muestra cuánto del cupo asignó Colombia a cada '
+             'despacho ni lo que usaron los otros países del MERCOSUR. Carne: NCM 0201.30, 0202.30, 0206.10, 0206.21, 0206.22, 0206.29, 0210.20 '
+             'y 0504.00 (la partida 0504 incluye tripas de otras especies). Conservas: 1602.10, 1602.49, 1602.50 y 1602.90. Leche en polvo: '
+             '0402. Leche maternizada: 1901.10. Datos: <a href="tablas/contingentes_ventas_paraguay.csv" download>CSV</a> · '
+             '<a href="tablas/contingentes_ventas_paraguay.xlsx" download>Excel</a>.</p>\n\n')
+    p = DOCS / "ace72" / "index.html"
+    h = p.read_text(encoding="utf-8")
+    i, j = h.index("<h2>Los contingentes que le tocan a Paraguay</h2>"), h.index("<h2>Paraguay usa poco el acuerdo")
+    p.write_text(h[:i] + html_ + h[j:], encoding="utf-8")
+
+
 def main():
     uso_ace72()
+    contingentes_ace72()
     print("JSON de productos:", productos_json())
     for a in ACUERDOS:
         (DOCS / a["carpeta"] / "index.html").write_text(pagina(a), encoding="utf-8")
