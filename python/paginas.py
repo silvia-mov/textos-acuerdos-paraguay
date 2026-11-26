@@ -163,18 +163,24 @@ def vigencia_ace35():
             + filas + "</tbody></table></div>")
 
 
-def bilaterales_ace35():
-    d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_bilaterales_mre.csv", dtype=str).fillna("")
+def bilaterales(clave, socio, carpeta, nota="No forman parte del acuerdo, pero lo complementan."):
+    """Acuerdos bilaterales de Paraguay con el socio ligados al comercio (consulta de tratados del MRE, solo títulos)."""
+    d = pd.read_csv(Path(__file__).resolve().parent / "datos" / f"{clave}_bilaterales_mre.csv", dtype=str).fillna("")
+    nombre = f"acuerdos_bilaterales_paraguay_{clave.split('_')[1]}"
+    (DOCS / carpeta / "tablas").mkdir(exist_ok=True)
+    d.to_csv(DOCS / carpeta / "tablas" / f"{nombre}.csv", index=False, encoding="utf-8-sig")
+    try:
+        d.to_excel(DOCS / carpeta / "tablas" / f"{nombre}.xlsx", index=False)
+    except Exception:
+        pass
     filas = "".join(f'<tr><td>{e(r.FECHA)}</td><td>{e(r.ACUERDO)}</td><td class="chica">{e(r.TEMA)}</td></tr>' for r in d.itertuples())
-    return ('<h2>Otros acuerdos bilaterales de Paraguay con Chile ligados al comercio</h2>\n'
-            '<p class="chica">No forman parte del ACE 35, pero lo complementan: depósitos francos en puertos, inversiones, doble imposición y promoción de exportaciones. '
-            'Fuente: consulta de tratados del Ministerio de Relaciones Exteriores del Paraguay (solo los títulos; los textos no están aquí).</p>\n'
+    return (f'<h2>Otros acuerdos bilaterales de Paraguay con {socio} ligados al comercio</h2>\n'
+            f'<p class="chica">{nota} Fuente: consulta de tratados del Ministerio de Relaciones Exteriores del Paraguay (solo los títulos; los textos no están aquí).</p>\n'
             '<div class="tw"><table><thead><tr><th>Fecha</th><th>Acuerdo</th><th>Tema</th></tr></thead><tbody>' + filas +
-            '</tbody></table></div><p class="note">Descargar: <a href="tablas/acuerdos_bilaterales_paraguay_chile.csv" download>CSV</a> · '
-            '<a href="tablas/acuerdos_bilaterales_paraguay_chile.xlsx" download>Excel</a>.</p>')
+            f'</tbody></table></div><p class="note">Descargar: <a href="tablas/{nombre}.csv" download>CSV</a> · <a href="tablas/{nombre}.xlsx" download>Excel</a>.</p>')
 
 
-VIG35 = vigencia_ace35() + normas_ace35() + bilaterales_ace35()
+VIG35 = vigencia_ace35() + normas_ace35() + bilaterales("ace35_chile", "Chile", "ace35", "No forman parte del ACE 35, pero lo complementan: depósitos francos en puertos, inversiones, doble imposición y promoción de exportaciones.")
 ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 <p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
 <div class="disp">
@@ -238,7 +244,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
              "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p>Siete documentos se tomaron del <b>SICE de la OEA</b>, que los publica como texto y no como imagen: el Anexo 4 (autopartes de Paraguay), las listas de Adecuación del Anexo 12 de los cuatro países, las notas complementarias de Paraguay y el Anexo 15, que no está en la ALADI (hay además una copia escaneada en portugués). Las listas del Anexo 10 se tomaron completas del SICE: lo que Chile dio a Paraguay (243 productos) y lo que Paraguay dio a Chile (95). La lectura anterior con OCR tenía productos de menos y márgenes equivocados.</p><p>De la página del ACE 35 en Siscomex (Brasil) se sumaron la ficha técnica y el manual del régimen de origen (en portugués), la Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio Brasil–Chile (escaneada, con OCR) y la planilla de preferencias en NALADISA 2012, que confirma que los 6.811 códigos tienen 100 %.</p><p>El Anexo 15 Lista las normas del MERCOSUR sobre transporte vigentes en 1996; la Comisión Administradora debía identificar cuáles aplicar también con Chile (Artículo 38 del Acuerdo). Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
-        carpeta="ace58", uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
+        carpeta="ace58", despues_uso=bilaterales("ace58_peru", "Perú", "ace58"), uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",
         descripcion="El ACE 58 (MERCOSUR–Perú) ordenado y buscable: texto del Acuerdo, 10 anexos, 6 protocolos y un buscador "
                     "con el cronograma de desgravación de cada producto entre Paraguay y Perú.",
@@ -290,7 +296,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 37 archivos que publica la <b>ALADI</b> para el ACE 58. Casi todo está escaneado: 31 documentos (1.946 páginas) se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas Paraguay–Perú se leyeron dos veces: primero borrando las líneas de las tablas y separando las columnas por su posición en la página, y después con el texto corrido para completar lo que faltaba. Se descartaron los códigos que no existen en la NALADISA 96 (errores de lectura). Quedan sin cronograma cerca de 900 productos del lado de Perú y 600 del de Paraguay: lecturas fallidas o productos con dos o más cronogramas, que están como texto en los Apéndices VII y VIII.</p>"),
     dict(
-        carpeta="ace36", uso=uso.seccion("BO", "Bolivia", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
+        carpeta="ace36", despues_uso=bilaterales("ace36_bolivia", "Bolivia", "ace36", "No forman parte del ACE 36, pero lo complementan: depósitos francos en Villeta, energía, inversiones, aduanas y fronteras."), uso=uso.seccion("BO", "Bolivia", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
         titulo="ACE 36 MERCOSUR–Bolivia: texto completo, anexos y protocolos",
         descripcion="El ACE 36 (MERCOSUR–Bolivia) ordenado y buscable: texto del Acuerdo, 11 anexos, el Protocolo de "
                     "Integración Física y 34 protocolos adicionales, con fecha y síntesis de cada uno.",
@@ -316,7 +322,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 66 archivos que publica la <b>ALADI</b> para el ACE 36. 38 tienen texto y se leyeron con <code>pdftotext</code>; 28 eran imágenes escaneadas (1.594 páginas) y se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas de productos de 1996 (Anexos 1 a 8) quedan como texto: no se pasaron a tablas porque sus cronogramas terminaron (el último, en 2014).</p>"),
     dict(
-        carpeta="ace59", uso=uso.seccion("EC", "Ecuador", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011.") + "\n" +
+        carpeta="ace59", despues_uso=bilaterales("ace59_ecuador", "Ecuador", "ace59", "No forman parte del ACE 59, pero lo complementan. Incluye el acuerdo bilateral de complementación económica de 1994, antecedente del ACE 59."), uso=uso.seccion("EC", "Ecuador", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011.") + "\n" +
             uso.seccion("VE", "Venezuela", 2011, titulo="Y para venderle a Venezuela") + "\n" +
             uso.seccion("CO", "Colombia", 2011, hasta=2018, titulo="Colombia, mientras regía el ACE 59 (2011–2018)",
                         texto_extra="Desde 2019, el comercio con Colombia se rige por el ACE 72 (ver su página)."), sigla="ALADI/AAP.CE/59", nombre="MERCOSUR–Colombia, Ecuador y Venezuela", socio="Ecuador",
@@ -494,8 +500,20 @@ def contingentes_ace72():
     p.write_text(h[:i] + html_ + h[j:], encoding="utf-8")
 
 
+def bilaterales_ace72():
+    p = DOCS / "ace72" / "index.html"
+    h = p.read_text(encoding="utf-8")
+    ini, fin = "<!-- bilaterales -->", "<!-- /bilaterales -->"
+    if ini in h:
+        h = h[:h.index(ini)] + h[h.index(fin) + len(fin):]
+    sec = ini + "\n" + bilaterales("ace72_colombia", "Colombia", "ace72") + "\n" + fin + "\n\n"
+    i = h.index("<h2>Qué dice el Acuerdo")
+    p.write_text(h[:i] + sec + h[i:], encoding="utf-8")
+
+
 def main():
     uso_ace72()
+    bilaterales_ace72()
     contingentes_ace72()
     print("JSON de productos:", productos_json())
     for a in ACUERDOS:
