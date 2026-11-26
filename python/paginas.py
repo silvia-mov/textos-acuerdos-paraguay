@@ -165,7 +165,7 @@ ACUERDOS = [
         lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto, incluido el "
              "Acuerdo Comercial Chile–Paraguay de 2021. Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
         kpis=[("25/06/1996", "firmado en Potrero de los Funes (Argentina)"), ("1/10/1996", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("133", "documentos ordenados")],
+              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("134", "documentos ordenados")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
                ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100 % en 2006; un listado, en 2008).", True),
@@ -200,7 +200,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
                    ("Vigencia de los Protocolos 61 a 69 y normas de Paraguay", "tablas/vigencia_protocolos_61_69"),
                    ("Márgenes iniciales de Chile a Paraguay en 1996 (Anexo 10, leído con OCR)", "tablas/chile_a_paraguay_margenes_iniciales_1996")],
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
-             "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p><b>Lo que falta:</b> el Anexo 15 (acuerdos del Cono Sur), que la ALADI no publica. Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
+             "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p>El Anexo 15 no está en la ALADI; se tomó de una copia escaneada en portugués (con OCR). Lista las normas del MERCOSUR sobre transporte vigentes en 1996; la Comisión Administradora debía identificar cuáles aplicar también con Chile (Artículo 38 del Acuerdo). Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
         carpeta="ace58", uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",

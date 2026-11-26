@@ -3,7 +3,7 @@
 Textos y tablas del Acuerdo de Complementación Económica N° 35, armados con `python/ace35_armar.py` a partir de los
 archivos publicados por la ALADI (los PDF no se publican aquí).
 
-- `catalogo.csv/.xlsx`: 133 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
+- `catalogo.csv/.xlsx`: 134 documentos (Acuerdo, notas, 4 actas de rectificación, Anexos 1–14, Protocolo sobre Integración Física, Protocolos
   Adicionales 1 a 69 y 64.1, con sus anexos y apéndices). Cada protocolo tiene fecha y síntesis (su primer artículo).
 - `textos/`: texto de cada documento. 43 se leyeron con OCR (eran imágenes escaneadas): pueden tener errores de lectura.
 - `estructura.json`: los 26 títulos del Acuerdo (57 artículos).
@@ -14,7 +14,7 @@ archivos publicados por la ALADI (los PDF no se publican aquí).
   otorgó a Paraguay (160 productos). Leída con OCR: verificar códigos y descripciones contra el PDF. Hoy esos productos
   tienen 100 % de preferencia, como todo el universo del Programa de Liberación (el último cronograma terminó en 2014).
 
-El Anexo 9 y el Protocolo sobre Integración Física se sumaron del release `chile` (26/11/2026). Falta el Anexo 15 (acuerdos del Cono Sur), que la ALADI no publica.
+El Anexo 9 y el Protocolo sobre Integración Física se sumaron del release `chile` (26/11/2026). El Anexo 15 (acuerdos del MERCOSUR sobre transporte, Artículo 38) no está en la ALADI: se sumó de una copia escaneada en portugués, leída con OCR.
 El Protocolo 66 (15/02/2022) incorpora el Acuerdo Comercial Chile–Paraguay (19 capítulos, firmado el 1/12/2021).
 Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus versiones rectificadas, que son las vigentes.
 
