@@ -1,0 +1,288 @@
+APÉNDICE N° 9
+
+Instructivo de llenado del formulario del
+
+Certificado de Origen
+
+1. Identificación del Certificado.
+Señale el número asignado al certificado por la entidad certificadora,
+manteniendo la correspondiente correlatividad.
+
+2. Nombre de la Entidad Emisora del Certificado.
+Señale el nombre, domicilio, ciudad y país de la Entidad Emisora del
+Certificado de Origen.
+
+3. Productor final o exportador. Campo 1.
+Señale el nombre, domicilio, ciudad y país del productor final o del exportador.
+
+4. Importador. Campo 2.
+Señale el nombre, domicilio, ciudad y país del importador.
+
+5. Consignatario. Campo 3
+Señale el nombre, domicilio, ciudad y país del consignatario. Este campo
+puede tacharse si el consignatario es la misma persona que el importador.
+
+6. Puerto o lugar de embarque previsto. Campo 4.
+Señale el puerto o lugar de embarque previsto.
+
+7. País de destino de las mercancías. Campo 5.
+Señale el país de destino de las mercancías.
+
+8. Medio de transporte previsto. Campo 6.
+Señale el medio de transporte previsto.
+
+Tratándose de certificación de origen de productos exportados a través de
+ductos, deberá indicarse “A través de ductos”.
+
+Tratándose de certificación de origen de energía eléctrica, deberá indicarse
+“Líneas de transmisión o transporte”.
+
+9. Factura comercial. Campo 7.
+Señale el número y fecha de la factura comercial.
+
+Tratándose de certificación de origen de productos exportados a través de
+ductos o de energía eléctrica, deberá indicarse “Ver observaciones”.
+
+10. No. de orden (A). Campo 8.
+Señale el orden en que se individualizan las mercancías amparadas por el
+presente certificado, debiendo ser concordante con el número de orden que se
+indica para la norma de origen que se señala en el Campo 13 para cada
+mercancía.
+
+11. Códigos NALADISA. Campo 9.
+Señale código NALADISA vigente entre las Partes Signatarias de las
+mercancías que ampare el certificado.
+
+12. Denominación de las Mercancías (B). Campo 10.
+La descripción completa de cada bien deberá corresponderse, en términos
+generales, con la glosa de la NALADISA correspondiente, según el código
+indicado en el campo 9, y concordar con la descripción especificada de la
+factura comercial.
+
+13. Peso Líquido o Cantidad. Campo 11.
+Señale el peso líquido o la cantidad para cada mercancía individualizada en los
+Campos 9 y 10.
+
+Tratándose de certificación de origen de productos exportados a través de
+ductos o de energía eléctrica, deberá indicarse “Ver observaciones”.
+
+14. Valor FOB en dólares (U$S). Campo 12.
+Señale el valor FOB para cada mercancía individualizada en los Campos 9 y
+10, expresado en dólares de los Estados Unidos de América (U$S).
+
+Tratándose de certificación de origen de productos exportados a través de
+ductos o de energía eléctrica, deberá indicarse “Ver observaciones”.
+
+15. Normas de Origen. Campo 13.
+Señale las normas de origen en virtud de las cuales cada una de las
+mercancías amparadas por el Certificado cumplen con las establecidas en el
+Acuerdo. Dichos requisitos de origen serán identificados con estricta sujeción a
+lo indicado en los párrafos siguientes.
+
+En caso de establecerse nuevos requisitos específicos o modificaciones a los
+ya existentes, de conformidad al Artículo 5 del Anexo 13, su identificación se
+realizará citando el número del Protocolo, el Anexo y el numeral
+correspondiente.
+
+a) Mercancías elaboradas íntegramente en el territorio de una o más de las
+Partes Signatarias, cuando en su elaboración se hubieren utilizado, única y
+exclusivamente, materiales originarios de las Partes Signatarias.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 1.
+
+b) Mercancías de los reinos mineral, vegetal y animal, incluyendo los de caza
+y pesca, extraídos, cosechados o recolectados, nacidos y criados en los
+territorios de las Partes Signatarias o dentro o fuera de sus aguas
+territoriales patrimoniales y zonas económicas exclusivas, por barcos de
+sus banderas o arrendados por empresas establecidas en sus territorios y
+procesados en sus zonas económicas, aún cuando hayan sido sometidos a
+procesos primarios de embalaje y conservación, necesarios para su
+comercialización.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 2.
+
+c) Mercancías producidas a bordo de barcos de fábrica a partir de peces,
+crustáceos y otras especies marinas, obtenidos del mar por barcos
+registrados o matriculados por una de las Partes Signatarias y que lleven su
+bandera.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 3.
+
+d) Mercancías obtenidas por una de las Partes Signatarias o por una persona
+de las Partes Signatarias, del lecho o del subsuelo marino fuera de las
+aguas territoriales, siempre que esa Parte o persona tenga derecho a
+explotar dicho lecho o subsuelo marino.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 4.
+
+e) Mercancías obtenidas del espacio extraterrestre, siempre que sean
+obtenidas por una de las Partes Signatarias o por una persona de las
+Partes Signatarias y que sean procesadas en alguna de dichas Partes
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 5.
+
+f) Mercancías elaboradas con materiales no originarios, siempre que resulten
+de un proceso de transformación, realizado en los territorios de las Partes
+Signatarias que les confiera una nueva individualidad. Esta individualidad
+está presente en el hecho que la mercancía se clasifique en partida
+diferente a los materiales (cuatro primeros dígitos de la NALADISA).
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 6, párrafo 1.
+
+g) Mercancías elaboradas con materiales no originarios, para las cuales se
+haya considerado necesario, además del salto de partida referido en la letra
+f) anterior, un contenido regional, en que el valor CIF puerto destino o CIF
+puerto marítimo de los materiales no originarios no excede del 40% del
+valor FOB de exportación de la mercancía final.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 6, párrafo 1, Apéndice Nº 1 (B).
+
+h) Mercancías elaboradas con materiales no originarios que no cumplan con el
+requisito señalado en la letra f) porque el proceso de transformación no
+implica salto de partida pero el valor CIF puerto de destino o CIF puerto
+marítimo de los materiales no originarios no excede del 40% del valor FOB
+de exportación de la mercancía final.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 7.
+
+i) Mercancías resultantes de operaciones de montaje o ensamblaje realizadas
+dentro del territorio de una de las Partes Signatarias, no obstante cumplir
+salto de partida, utilizando materiales no originarios, el valor CIF puerto de
+destino o CIF puerto marítimo de esos materiales no excede el 40% del
+valor FOB de exportación de la mercancía final.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 8.
+
+j) Mercancías que cumplan con los requisitos específicos establecidos en el
+Apéndice Nº 3, según el numeral que proceda.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 5º, Apéndice Nº 3, Numeral correspondiente (1 al
+13).
+
+k) Mercancías pertenecientes al sector de telecomunicaciones e informática
+incluidas en el Apéndice Nº 4, que cumplan con los requisitos específicos
+establecidos.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Apéndice N° 4.
+
+l) Mercancías incluidas en el Apéndice N° 1 (C) cuando el contenido regional
+de las mismas no sea inferior al 60% de su valor FOB.
+
+Contenido regional es el valor agregado resultante de operaciones o procesos
+efectuados en alguno o algunos de los Países Signatarios.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 10, Apéndice Nº 1 (C).
+
+m) Mercancías incluidas en el Apéndice Nº 1 (A) relativo a los productos de los
+capítulos 28 y 29 y que cumplan con las exigencias establecidas en dicho
+Apéndice.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Apéndice Nº 1 (A).
+
+n) Mercancías incluidas en el Apéndice Nº 2 para las que la República de
+Chile otorga a la República del Paraguay un régimen de origen diferenciado
+hasta el 31/12/2018.
+
+Identificación del requisito en el Certificado de Origen:
+- Anexo 13, Artículo 3º, Numeral 12, Apéndice Nº 2.
+
+o) Instructivo de llenado del Campo 13 del Certificado de Origen para
+productos del Sector Automotor entre Argentina y Chile y entre Brasil y
+Chile
+
+1. Para el caso de las reglas de origen aplicables al intercambio de productos
+del sector automotor entre la República Federativa del Brasil y la República
+de Chile, a que se refieren los Trigésimo y Trigésimo Cuarto Protocolos
+Adicionales al ACE 35, el Certificado de Origen en su Campo 13 deberá
+decir:
+
+a) Exportaciones del Brasil de vehículos incluidos en el Anexo IV del
+Trigésimo Protocolo Adicional al ACE 35. Sector Automotor.
+Preferencias otorgadas por Chile.
+Identificación del requisito: ACE N° 35, Anexo 13, Artículo 3º,
+Numeral 10.
+
+b) Exportaciones de Chile de vehículos automóviles y comerciales
+livianos y de ómnibus, incluidos en el Anexo IV del Trigésimo
+Protocolo Adicional al ACE 35. Sector Automotor. Preferencias
+otorgadas por Brasil.
+Identificación del requisito: ACE N° 35, Apéndice N° 5 del Anexo 13,
+Anexo I, Numeral 1.
+
+c) Exportaciones de Brasil y Chile de autopartes incluidas en los
+Anexos III y IV del Trigésimo Protocolo Adicional al ACE 35. Sector
+Automotor. Preferencias otorgadas por Brasil y Chile.
+Identificación del requisito: ACE N° 35, Anexo 13, Artículo 3º,
+Numeral 10.
+
+2. Para el caso de las reglas de origen aplicables al intercambio de productos
+del sector automotor entre la República Argentina y la República de Chile, a
+que se refiere el Trigésimo Primer Protocolo Adicional al ACE 35, el
+Certificado de Origen en su campo 13 deberá decir:
+
+a) Exportaciones de la Argentina de vehículos incluidos en el Apéndice
+I (a). Preferencias otorgadas por Chile.
+
+Identificación del requisito: ACE N° 35, Apéndice N° 5 del Anexo 13,
+Anexo II, Numeral 1.
+
+b) Exportaciones de Chile de vehículos incluidos en el Apéndice I (a).
+Preferencias otorgadas por la Argentina.
+
+Identificación del requisito: ACE N° 35, Apéndice N° 5 del Anexo 13,
+Anexo II, Numeral 2.
+
+c) Exportaciones de Argentina y de Chile de autopartes incluidas en el
+Apéndice I (b). Preferencias otorgadas por la Argentina y Chile
+
+Identificación del requisito: ACE N° 35, Apéndice N° 5 del Anexo 13,
+Anexo II, Numeral 4.
+
+16. Observaciones. Campo 14.
+Indique las aclaraciones que pudieran corresponder.
+
+Tratándose de certificación de origen de productos exportados a través de
+ductos deberá indicarse “Certificación realizada de conformidad con el
+Apéndice 6 del Anexo 13 del ACE N° 35”.
+
+Tratándose de certificación de origen de energía eléctrica, deberá indicarse
+“Certificación realizada de conformidad con el Apéndice 7 del Anexo 13 del
+ACE N° 35”.
+
+17. Declaración del Productor Final o del Exportador. Campo 15.
+Firma del productor final o exportador de las mercancías que hace la
+declaración, señalando el país en que fueron producidas, la fecha y el Acuerdo
+(ACE Nº 35).
+
+18. Certificación de la Entidad Habilitada. Campo 16.
+Señale la fecha en que se emite el certificado, el sello de la entidad, el nombre
+y firma del funcionario acreditado que certifica el origen de las mercancías.
+
+19. En caso de Certificados de Origen que incluyan distintas mercancías, deberán
+identificarse para cada una de ellas el código NALADISA, la denominación, la
+cantidad, el valor FOB y el requisito de origen correspondiente.
+
+20. Se exigirá la presentación del Certificado de Origen sólo en original. El mismo
+no se aceptará en otras versiones, fotocopias o transmitidas por fax.
+
+21. No se aceptarán los Certificados de Origen cuando los campos no estén
+completos y solamente se permitirá que se tache el campo 3 cuando el
+importador y el consignatario sean los mismos, así como el campo 14 cuando
+corresponda.
+
+22. Serán aceptados los Certificados de Origen emitidos, indistintamente, en
+español o en portugués.
+__________

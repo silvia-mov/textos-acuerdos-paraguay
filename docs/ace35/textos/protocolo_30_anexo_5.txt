@@ -1,0 +1,48 @@
+ANEXO V
+
+SECTOR AUTOMOTOR
+
+REQUISITOS ESPECÍFICOS DE ORIGEN APLICABLES A LAS IMPORTACIONES
+REALIZADAS POR BRASIL DE PRODUCTOS DEL SECTOR AUTOMOTOR.
+
+REQUISITOS ESPECÍFICOS DE ORIGEN
+
+a) Automóviles y Comerciales livianos: ítem NALADISA 8703.21.00, 8703.22.00,
+8703.23.00, 8703.24.00, 8703.31.00, 8703.32.00, 8703.33.00, 8703.90.00,
+8704.21.00, 8704.31.00.
+
+AÑO ICR (x) ICP (Y) CANTIDADES
+2002 40 10 15.000
+2003 40 10 15.000
+2004 45 10 10.000
+40 10 5.000
+2005 50 10 10.000
+40 10 5.000
+2006 60 Mercado libre
+
+b) Ómnibus: ítem NALADISA 8702.10.00 y 8702.90.00
+
+AÑO ICR (x) ICP (Y) CANTIDADES
+2002 40 10 400
+60 10 1.500
+2003 40 10 400
+60 10 1.500
+2004 40 10 400
+60 10 2.000
+2005 45 10 500
+60 10 2.000
+2006 60 Mercado libre
+
+Regla Específica de Origen
+
+ICR = Índice de Contenido Regional
+
+ICR= { 1- Sumatoria de Importaciones CIF de piezas desde terceros países } x 100> Y
+Precio FOB de Exportación del vehículo
+
+ICP= Índice de Contenido de Piezas
+
+ICR= Sumatoria de Valor (MERCOSUR+Chile) de las piezas de un vehículo antes de impuestos x 100> Y
+Precio FOB de Exportación del vehículo
+
+__________

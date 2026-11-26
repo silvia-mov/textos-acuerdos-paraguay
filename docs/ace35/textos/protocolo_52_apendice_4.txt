@@ -1,0 +1,592 @@
+APÉNDICE N° 4 (Correspondiente al Artículo 5º)
+
+SECTOR DE TELECOMUNICACIONES E INFORMATICA
+
+SECTOR TELECOMUNICACIONES
+
+NALADISA DESCRIPCIÓN REQUISITO
+85.17 Aparatos eléctricos de telefonía o telegrafía con hilos, Deben cumplir con el requisito de origen
+incluidos los aparatos de telecomunicación por corriente previsto en el Artículo 3º, inciso “6” y el
+portadora. siguiente proceso productivo: montaje
+como mínimo del 80% de las placas de
+Excepto las siguientes mercaderías: circuito impreso, por producto; montaje
+y soldadura de todos los componentes
+Del ítem 8517.40.00: en la placa de circuito impreso; de las
+partes eléctricas y mecánicas
+- Aparatos de facsímil. totalmente desagregadas a nivel básico
+de componentes e integración de las
+- Equipamientos terminales o repetidores sobre líneas de placas de circuito impreso y en las
+fibras ópticas, con capacidad de trasmisión superior a partes eléctricas y mecánicas en la
+140 Mbits/s. formación del producto final.
+
+- Multiplexadores por división de tiempo, numéricos
+(“digitales”), síncronos con velocidad de trasmisión
+superior o igual a 155 Mbits/s.
+
+Del ítem 8517.81.00:
+
+- Aparatos de control y mando de redes (TMN
+
+- Telecommunication Management Network).
+
+85.25 Aparatos emisores de radiotelefonía, radiotelegrafía, de Idem.
+radiodifusión o de televisión, incluso con un aparato
+receptor o un aparato de grabación o de reproducción de
+sonido, incorporados; cámaras de televisión.
+
+Excepto las siguientes mercaderías:
+
+Del ítem 8525.20.00:
+
+- De telecomunicaciones por satélite:
+
+-- Para estación principal terrena fija, sin conjunto antena
+reflector.
+
+-- Para estaciones VSAT (“Very Small Aperture
+Terminal”), sin conjunto antena reflector.
+
+- De telefonía celular:
+
+-- Para estación base.
+
+-- Terminales fijas, sin fuente propia de energía.
+
+- Del tipo modulador-demodulador (“radio-modem”).
+
+8527.90.00 Exclusivamente receptores personales de radiomensajes Idem.
+de frecuencia inferior a 150 Mhz.
+
+8529.90.00 Exclusivamente de aparatos de las subpartidas 8525.10 Idem.
+u 8525.20, excepto gabinetes y bastidores.
+
+8543.80.00 Excepto las siguientes mercaderías: Idem.
+
+NALADISA DESCRIPCIÓN REQUISITO
+- Amplificadores de radiofrecuencia:
+
+-- Para emisión de señales de microondas de alta
+potencia (HPA) a válvula TWT de tipo “phase combines”
+con potencia de salida superior a 2,7 kW.
+
+-- Para distribución de señales de televisión.
+
+- Aparatos para electrocutar insectos.
+
+SECTOR DE INFORMÁTICA
+
+01 Básico
+
+NALADISA DESCRIPCIÓN
+
+8470.50.00 Exclusivamente electrónicas.
+
+8471.20.00 Exclusivamente las siguientes mercaderías:
+
+- De peso superior a 10 kg. o que funcionen solamente con fuente externa de energía.
+
+- De peso inferior a 2,5 kg. con teclado alfanumérico de por lo menos 70 teclas y con una pantalla
+(“display”) de área superior a 140 cm2 e inferior a 560 cm2, capaces de funcionar sin fuente externa
+de energía.
+
+8471.91.00 Excepto las siguientes unidades de procesamiento numéricas (digitales):
+
+- De pequeña capacidad, basadas en microprocesadores, con capacidad de instalación dentro del
+mismo gabinete de unidades de memoria de la subpartida 8471.93, pudiendo contener múltiples
+conectores de expansión (“slots”) y valor FOB inferior o igual U$S 12.500 por unidad.
+
+- De media capacidad, pudiendo contener como máximo una unidad de entrada y otra de salida de la
+subpartida 8471.92, con capacidad de instalación dentro del mismo gabinete de unidades de
+memoria de la subpartida 8471.93, pudiendo contener múltiples conectores de expansión (“slots”), y
+valor FOB superior a U$S 12.500 e inferior o igual a U$S 46.000, por unidad.
+
+- De gran capacidad, pudiendo contener como máximo una unidad de entrada y otra de salida de la
+subpartida 8471.92, con capacidad de instalación interna o en módulos separados del gabinete del
+procesador central de unidades de memoria de la subpartida 8471.93, y valor FOB superior a U$S
+46.000 e inferior o igual a U$S 100.000, por unidad.
+
+- De muy grande capacidad, pudiendo contener como máximo una unidad de entrada y otra de salida
+de la subpartida 8471.92, con capacidad de instalación interna o en módulos separados del gabinete
+del procesador central de unidades de memoria de la subpartida 8471.93, y valor FOB superior a
+U$S 100.000, por unidad.
+
+8471.92.00 Excepto las siguientes mercaderías:
+
+- Impresoras, que no sean de impacto:
+
+-- De transferencia térmica, policromáticas, con velocidad de impresión inferior o igual a 3 páginas por
+minuto, con anchura de impresión inferior o igual a 580 mm.
+
+-- Con anchura de impresión superior a 580 mm. y velocidad de impresión inferior o igual a 50
+páginas por minuto.
+
+-- A láser, con resolución igual o superior a 800 puntos/pulgada, ancho de impresión igual o superior
+a 297 mm. (A3) y velocidad de impresión de por lo menos 6 ppm (páginas por minuto) pero inferior o
+igual a 50 ppm.
+
+-- Policromáticas, con velocidad inferior o igual a 3 ppm (páginas por minuto) y capacidad de
+
+NALADISA DESCRIPCIÓN
+combinar, como mínimo, 16 millones de colores, que no sean a chorro de tinta.
+
+-- Con velocidad de impresión superior a 50 páginas por minuto.
+
+- Graficadores (“plotters”) con anchura de impresión superior a 580 mm., que no impriman por medio
+de puntas trazadoras.
+
+- Digitalizadores de imágenes.
+
+- Mesas digitalizadoras.
+
+- Impresora de código de barras postales, tipo 3 en 5, a chorro de tinta
+fluorescente, con velocidad de hasta 4,5 m/s y paso de 1,4 mm.
+
+8471.93.00 Excepto las siguientes mercaderías:
+
+- Unidades de disco magnéticos.
+
+- Unidades de discos para lectura o grabaciones de datos por medios ópticos.
+
+- Unidades de cintas magnéticas en cartuchos o casetes.
+
+8471.99.00 Excepto las siguientes mercaderías:
+
+- Controladoras de comunicaciones (“front end processor”).
+
+- Distribuidores de conexiones para redes (“hub”)
+
+8472.90.00 Exclusivamente las siguientes mercaderías:
+
+- Distribuidores (dispensadores) automáticos de billetes de banco, incluidos los que puedan efectuar
+otras operaciones bancarias.
+
+- Máquinas del tipo de las usadas en cajas de banco, con dispositivo para autenticar.
+
+- Clasificadoras automáticas de documentos, con lectores o grabadores de la subpartida 8471.99
+incorporados, con capacidad de clasificación inferior o igual a 400 documentos por minuto.
+
+8473.29.00 - Exclusivamente partes de cajas registradoras de la subpartida 8470.50 (excepto circuitos impresos
+con componentes eléctricos o electrónicos montados) y partes de máquinas de la subpartida
+8470.90.
+
+8473.30.00 Excepto las siguientes mercaderías:
+
+- Mecanismos completos de impresoras a “láser”, “LED” (diodos emisores de luz) o “LCS” (sistema de
+cristal líquido), montados.
+
+- Martillos de impresión y bancos de martillos.
+
+- Cabezales de impresión, térmicos.
+
+- Bandas (cintas de caracteres).
+
+- Brazos posicionadores de cabezas magnéticas y cabezales magnéticos de unidades de discos o
+cintas magnéticas.
+
+- Mecanismo bobinador para unidades de cintas magnéticas (“magnetic tape transporter”).
+
+- Circuitos impresos con componentes eléctricos o electrónicos montados.
+
+- Tarjetas de memoria (“memory card”).
+
+- Pantallas (“display”) para microcomoputadores portátiles.
+
+8473.40.00 Excepto las siguientes mercaderías:
+
+NALADISA DESCRIPCIÓN
+- Circuitos impresos con componentes eléctricos o electrónicos montados.
+
+- De distribuidores (dispensadores) automáticos de billetes de banco, incluidos los que puedan
+efectuar otras operaciones bancarias.
+
+- De máquinas del tipo de las usadas en cajas de banco, con dispositivo para autenticar.
+
+8511.80.00 Exclusivamente dispositivos electrónicos de encendido, numéricos (digitales).
+
+8517.40.00 Exclusivamente aparatos de facsímil.
+
+8531.20.00 Todas las mercaderías.
+
+8537.10.00 Exclusivamente controladores numéricos computarizados (CNC).
+
+8540.30.00 Exclusivamente tubos catódicos de unidades de salida por vídeo (“monitores”) de la subpartida
+8471.92, monocromáticos, con diagonal de pantalla superior o igual a 35,56 cm (14 pulgadas).
+
+9026.10.00 Exclusivamente medidores-transmisores electrónicos de caudal, que funcionen por el principio de
+inducción electromagnética.
+
+9028.30.00 Exclusivamente, monofásicos para corriente alterna, bifásicos o trifásicos, numéricos (digitales).
+
+9030.39.00 Exclusivamente voltímetros.
+
+9030.40.00 Todas las mercaderías.
+
+9030.81.00 Exclusivamente las siguientes mercaderías:
+
+- De prueba de circuitos integrados.
+
+- De prueba de continuidad de circuitos impresos.
+
+9030.89.00 Excepto las siguientes mercaderías:
+
+- Analizadores lógicos de circuitos numéricos (digitales).
+
+- Analizadores de espectro de frecuencia.
+
+9030.90.00 Excepto de instrumentos y aparatos de la subpartida 9030.10.
+
+9031.80.00 Exclusivamente aparatos digitales de uso en vehículos automóviles para medida e indicación de
+múltiples magnitudes, tales como: velocidad media, consumos instantáneo y medio y autonomía
+(computadores de a bordo).
+
+9032.89.00 Exclusivamente las siguientes mercaderías:
+
+- Reguladores de voltaje electrónicos.
+
+- Controladores electrónicos del tipo de los utilizados en vehículos automóviles.
+
+- Los demás instrumentos y aparatos para la regulación o el control de magnitudes no eléctricas.
+
+A. Montaje y soldadura de todos los componentes en las placas de circuito
+impreso.
+
+B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas a nivel
+básico de componentes.
+
+C. Integración de las placas de circuito impreso y de las partes eléctricas y
+mecánicas en la formación del producto final de acuerdo con los ítem “A” y “B”
+anteriores.
+
+Están exentos del montaje los siguientes módulos o subconjuntos:
+
+1) Mecanismos completos de impresión a láser, LED (Diodos emisores de luz) o
+LCS (Sistema de Cristal Líquido), montados (ítem 8473.30.00), para
+impresoras del ítem 8471.92.00, con ancho de impresión inferior o igual a 580
+mm;
+
+2) Mecanismos de impresión por sistema térmico o láser (ítem 8517.90.00) para
+aparatos de “facsímil” del ítem 8517.40.00;
+
+3) Banco de martillos (ítem 8473.30.00) para impresoras de impacto que operen
+línea a línea (ítem 8471.92.00).
+
+Se admitirá la utilización de subconjuntos montados en las Partes Signatarias
+por terceros fabricantes, siempre que la producción de los mismos atienda lo
+establecido en los ítem “A” y “B”.
+
+No desnaturaliza el cumplimiento del Régimen de Origen definido la inclusión
+en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuente de
+alimentación.
+
+02 - Microcomputadoras portátiles de peso inferior o igual a 10 kg., capaces de funcionar sin fuente de
+energía externa (ítem 8471.20.00), excepto las siguientes mercaderías:
+
+-- De peso inferior a 750 g, sin teclado incorporado, con reconocimiento de escritura, entrada de
+datos y de comandos a través de una pantalla (“display”) de área inferior a 280 cm2 (PDA
+“Personal Digital Assistant”).
+
+-- De peso inferior a 350 g, con teclado alfanumérico de por lo menos 70 teclas y con una pantalla
+(“display”), de área inferior a 140 cm2 (“Palmtop”).
+
+A. Montaje y soldadura de todos los componentes en las placas de circuito
+impreso que implementan las funciones de procesamiento y memoria, las
+controladoras de periféricos para teclado, vídeo y unidades de disco
+magnéticos duros y las interfases de comunicación en serie y paralela
+acumulativamente.
+
+Cuando las unidades centrales de procesamiento se incorporen en un mismo
+cuerpo o gabinete, placa de circuito impreso que implementen las funciones de
+red local o emulación de terminal, estas placas también deberán tener el
+montaje y soldadura de todos los componentes en las placas de circuito
+impreso.
+
+B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas a nivel
+básico de componentes.
+
+C. Integración de las placas de circuito impreso y de las partes eléctricas y
+mecánicas en la formación del producto final de acuerdo con los ítem “A” y “B”
+anteriores.
+
+Están exentos del montaje los siguientes módulos o subconjuntos:
+
+- Visor (“display”) (ítem 8473.30.00), para microcomputadoras portátiles.
+
+La inclusión en un mismo cuerpo o gabinete de unidades de disco magnéticos,
+ópticos y fuente de alimentación no desnaturaliza el cumplimiento del Régimen de
+Origen definido.
+
+03 - Unidades digitales de procesamiento de computadoras de pequeña capacidad (ítem 8471.91.00)
+basadas en microprocesadores, con capacidad de instalación dentro del mismo gabinete de
+unidades de memoria de la subpartida 8471.93 pudiendo contener múltiples conectores de
+expansión (“slots”), y valor FOB inferior o igual a U$S 12.500, por unidad.
+
+A. Montaje y soldadura de todos los componentes en las placas de circuito
+impreso que implementan las funciones de procesamiento y memoria y las
+siguientes interfases: en serie, paralela, de unidades de discos magnéticos, de
+teclado y de vídeo acumulativamente.
+
+Cuando las unidades centrales de procesamiento incorporen al mismo cuerpo o
+gabinete placas de circuito impreso que implementen las funciones de red local
+o emulación de terminal estas placas también deberán tener un montaje y
+soldadura de todos los componentes en las placas de circuito impreso.
+
+En las unidades digitales de procesamiento del tipo “discless” destinadas a
+interconexión en redes locales, el montaje de la placa que implementa la
+interfase de red local podrá sustituir el montaje de las placas que implementan
+las interfases en series, paralela y de unidades de discos magnéticos.
+
+B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas a nivel
+básico de componentes.
+
+C. Integración de las placas de circuito impreso y de las partes eléctricas y
+mecánicas en la formación del producto final de acuerdo con los ítem “A” y “B”
+anteriores.
+
+No desnaturaliza el cumplimiento del Régimen de Origen definido la inclusión
+en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuente de
+alimentación.
+
+04 - Unidades digitales de computadoras de capacidad mediana y grande (ítem 8471.91.00)
+exclusivamente las siguientes mercaderías:
+
+-- De computadoras de mediana capacidad, pudiendo contener como máximo una unidad de
+entrada y otra de salida de la subpartida 8471.92 con capacidad de instalación dentro del mismo
+gabinete de unidades de memoria de la subpartida 8471.93, pudiendo contener múltiples
+conectores de expansión (“slots”), y valor FOB inferior o igual a U$S 46.000, por unidad.
+
+-- De computadoras de gran capacidad, pudiendo contener como máximo una unidad de entrada y
+otra de salida de la subpartida 8471.92, con capacidad de instalación interna o en módulos
+separados del gabinete del procesador central de unidades de memoria de la subpartida 8471.93 y
+valor FOB superior a U$S 46.000 e inferior o igual a U$S 100.000, por unidad.
+
+A. Montaje y soldadura de todos los componentes en el conjunto de placas de
+circuito impreso que implementen como mínimo 3 (tres) de las 5 (cinco)
+siguientes funciones: a) procesamiento central, b) memoria; c) unidad de
+control integrada/interfase o controladoras de periféricos; d) soporte y
+diagnóstico del sistema; e) canal o interfase de comunicación con unidad de
+entrada y salida de datos y periféricos; o, alternativamente, el montaje de por lo
+menos 4 (cuatro) placas de circuito impreso que implemente cualquiera de
+estas funciones;
+
+B. Montaje e integración de las placas de circuito impreso y de los conjuntos
+eléctricos y mecánicos en la formación del producto final;
+
+C. Cuando el montaje del producto se realice con conjuntos en forma de cajón,
+estos conjuntos deberán ser montados a partir de sus subconjuntos, tales como
+fuentes de alimentación, placas de circuito impreso y cables.
+
+Cuando la empresa opte por el montaje del número de placas de circuito
+impreso establecido en el ítem “A”, en caso de que se utilice placas que sean
+padrones del mercado, como por ejemplo, placas de memoria con una superficie
+inferior o igual a 50 cm2, del tipo “SIMM”, del ítem 8473.30.00, se considerará una
+placa por función, independientemente de la cantidad de placas montadas para
+implementar la función.
+
+Para cumplir con lo dispuesto se admitirá la utilización de subconjuntos
+montados en las Partes Signatarias por terceros fabricantes, siempre que la
+producción de los mismos atienda lo establecido en los ítem “A”, “B” y “C”.
+
+Lo dispuesto en este Régimen también se aplica a las unidades de control de
+periféricos tales como controladoras de discos, cintas, impresoras y de lectoras ópticas
+y/o magnéticas y las expansiones de las funciones mencionadas en el ítem “A”, incluso
+cuando no se presenten en el mismo cuerpo o gabinete de las unidades digitales de
+procesamiento.
+
+05 - Unidades digitales de computadoras de capacidad muy grande (ítem 8471.91.00) pudiendo
+contener como máximo una unidad de entrada y otra de salida de la subpartida 8471.92, con
+capacidad de instalación interna o en módulos separados del gabinete del procesador central de
+unidades de memoria de la subpartida 8471.93, y valor FOB superior a U$S 100.000, por unidad.
+
+A. Montaje y soldadura de todos los componentes en el conjunto de placas de
+circuito impreso que implementen por lo menos dos de las cinco funciones
+siguientes: a) canal de comunicación; b) memoria; c) procesamiento central; d)
+unidad de control integrada/interfase; e) soporte y diagnóstico de sistema o
+alternativa el montaje de por lo menos 3 (tres) placas de circuitos impresos que
+implementen cualquiera de estas funciones.
+
+B. Montaje e integración de las placas de circuito impreso y de los conjuntos
+eléctricos y mecánicos en la formación del producto final.
+
+C. Cuando el montaje del producto se realice con conjuntos en forma de cajón,
+estos conjuntos deberán ser montados a partir de sus subconjuntos, tales
+como: fuentes de alimentación, placa de circuito impreso y cables.
+
+Cuando la empresa opte por el montaje del número de placas de circuito
+impreso establecido en el ítem “A”, en caso de que se utilice placas que sean
+padrones del mercado, como por ejemplo, placas de memoria con una superficie
+inferior o igual a 50 cm2, del tipo “SIMM”, del ítem 8473.30.00, se considerará una
+placa por función, independientemente de la cantidad de placas montadas para
+implementar la función.
+
+Para cumplir con lo dispuesto se admitirá la utilización de subconjuntos
+montados en las Partes Signatarias por terceros fabricantes, siempre que la
+producción de los mismos atienda lo establecido en los ítem “A”, “B” y “C”.
+
+Lo dispuesto en este Régimen también se aplica a las unidades de control de
+periféricos, tales como controladores de discos, cintas, impresoras y de lectoras
+ópticas y/o magnéticas y las expansiones de las funciones mencionadas en el ítem
+"A", cuando no se presenten en el mismo cuerpo o gabinete de las unidades digitales
+de procesamiento.
+
+06 - Discos duros (ítem 8471.93.00)
+
+A. Montaje y soldadura de todos los componentes en las placas de circuito
+impreso.
+
+B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas a nivel
+básico de componentes (HDA - Head Disk Assembly).
+
+C. Integración de las placas de circuito impreso y de las partes eléctricas y
+mecánicas en la formación del producto final de acuerdo con los ítem “A” y "B"
+anteriores.
+
+D. Se admitirá la utilización de subconjuntos montados en las Partes Signatarias
+por terceros fabricantes, siempre que la producción de los mismos atienda lo
+establecido en los ítem “A” y “B”.
+
+E. Para la producción de discos magnéticos con capacidad de almacenaje
+superior a 1 GBYTES por HDA (Head Disk Assembly) no formateado, podrá
+optarse entre cumplir lo dispuesto en los ítem "A" o "B" y en caso de cumplirse
+lo dispuesto en el ítem “A” deberán ser soldados y montados todos los
+componentes en las placas de circuito impreso que implementen por lo menos
+dos de las siguientes funciones:
+
+I – Comunicación con la unidad controladora de disco;
+
+II – Posicionamiento de los conjuntos de lectura y grabación;
+
+III – Lectura y grabación.
+
+07 - Circuitos impresos montados con componentes eléctricos o electrónicos de los aparatos del ítem:
+
+8473.29.00 Exclusivamente de cajas registradoras del ítem 8470.50.00.
+
+8473.30.00 Excepto las placas de memoria con una superficie inferior o igual a 50 cm2.
+
+8473.40.00 Todas las mercaderías.
+
+8517.90.00 Todas las mercaderías.
+
+8529.90.00 Exclusivamente de los aparatos de las subpartidas 8525.10 y 8525.20.
+
+9032.90.00 Todas las mercaderías.
+
+Montaje y soldadura en las placas de circuitos impresos de todos los componentes,
+siempre que éstos no partan del ítem 8473.30.00.
+
+08 - Placas (Módulo de Memoria) con una superficie inferior o igual a 50 cm2 (ítem 8473.30.00).
+
+A. Montaje de la pastilla semiconductora no encapsulada.
+
+B. Encapsulamiento de la pastilla.
+
+C. Test (ensayo eléctrico).
+
+D. Marcación (identificación) del componente (memoria).
+
+E. Montaje y soldadura de los componentes semiconductores (memoria) en el
+circuito impreso.
+
+09 - Componentes Semiconductores y Dispositivos Optoelectrónicos de los siguientes ítem:
+
+8541.10.00 Excepto Zener montados
+
+8541.29.00 Exclusivamente montados
+
+8541.30.00 Exclusivamente montados
+
+8541.40.10 Exclusivamente las células solares sin montar y los fotorresistores montados
+
+8541.40.20 Todas las mercaderías
+
+8541.50.00 Exclusivamente montados
+
+8542.11.00 Montados, excepto microprocesadores, microcontroladores, co-procesadores y
+circuitos del tipo “chipset”.
+
+8542.19.00 Exclusivamente montados
+
+A. Montaje de la pastilla semiconductora no encapsulada.
+
+B. Encapsulamiento de la pastilla montada.
+
+C. Test (ensayo) eléctrico u optoelectrónico.
+
+D. Marcación (identificación).
+
+E. Los circuitos integrados bipolares con tecnología superior a 5 micrones (micra)
+y los diodos de potencia deberán también realizar el procesamiento físico-
+químico de la pastilla semiconductora.
+
+F. Los circuitos integrados monolíticos proyectados en una de las Partes
+Signatarias están exentos de realizar las etapas “A” y “B” anteriores.
+
+10 - Componentes a película espesa o a película fina (ítem 8542.20.00).
+
+A. Procesamiento físico-químico sobre sustrato.
+
+B. Test (ensayo) eléctrico u optoelectrónico.
+
+C. Marcación (identificación).
+
+D. Para la producción de circuitos integrados híbridos están exentos de atender
+los ítem “A”, “B” y “C” los componentes semiconductores utilizados como
+insumos en la producción de los mismos.
+
+11 - Células fotovoltaicas (ítem 8541.40.10), en módulos o paneles, exclusivamente las siguientes
+mercaderías:
+
+-- Fotodiodos
+
+-- Células solares
+
+A. Procesamiento físico-químico referente a etapas de división, texturización y
+metalización.
+
+B. Encapsulamiento de la pastilla montada.
+
+C. Test (ensayo) eléctrico u optoelectrónico.
+
+D. Marcación (identificación).
+
+12 - Cables ópticos de los siguientes ítem:
+
+8544.70.00 Excepto los que poseen revestimiento externo de acero aptos para instalación
+submarina (cabo submarino).
+
+9001.10.00 Exclusivamente cables.
+
+A. Pintura de fibras.
+
+B. Reunión de fibras en grupos.
+
+C. Reunión para formación en grupos.
+
+D. Extrusión de la capa o aplicación de armazón metálica y marcación.
+
+E. Se admitirá la realización de las actividades descritas en los ítem “A” y “B” por
+terceros fabricantes, siempre que se efectúe en una de las Partes Signatarias.
+
+F. Las empresas deberán realizar actividades de ingeniería referentes al
+desarrollo y adaptación del producto a su fabricación y test (ensayos) de
+aceptación operativa.
+
+G. Los cables ópticos deberán utilizar fibras ópticas que atiendan el requisito
+específico de origen definido para las mismas.
+
+13 - Exclusivamente fibras ópticas (ítem 9001.10.00).
+
+A. Procesamiento físico-químico que resulte en la obtención de la preforma.
+
+B. Estiramiento de la fibra.
+
+C. Test.
+
+D. Embalaje.
+
+E. Se admitirá la realización de la actividad descrita en el ítem “A” por terceros
+fabricantes, siempre que se efectúe en una de las Partes Signatarias.
+
+F. Las empresas deberán realizar actividades de ingeniería referentes al
+desarrollo y adaptación del producto a su fabricación y test (ensayo).
+__________

@@ -1,0 +1,968 @@
+ANEXO III
+
+SECTOR AUTOMOTOR
+
+MODIFICACIONES EN EL ANEXO I
+-Preferencias otorgadas por Brasil
+-Preferencias otorgadas por Chile
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:4011 :Neumáticos (llantas neumáticas) nuevos de caucho. : :
+:4011.9 :Los demás: : :
+:4011.91.00:Con altos relieves en forma de taco, ángulo o : :
+:----------:similares : :
+: : : 100 :
+: : : Excepto: para máquinas de las partidas :
+: : : 8429 u 8430 o de la subpartida 8479.10 :
+: : : con ancho seccional superior o igual a :
+: : : 1143 mm (45") y diámetro de llanta su- :
+: : : perior o igual a 1143 mm (45"); radiales :
+: : : del tipo de los utilizados en volquetes :
+: : : automotores concebidos para utilizarlos :
+: : : fuera de la red de carreteras con ancho :
+: : : seccional superior o igual a 940 mm(37") :
+: : : y diámetro de llanta superior o igual a :
+: : : 1448 mm (57") :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4204 :Artículos para usos técnicos de cuero natural o : :
+: :cuero regenerado. : :
+:4204.00.40:Tubos o mangueras : :
+:----------: : 100 :
+: : : Únicamente cortados y conformados en :
+: : : las dimensiones finales para uso de :
+: : : vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4823 :Los demás papeles, cartones, guata de celulosa y : :
+: :napa de fibras de celulosa, cortados en formato; : :
+: :los demás artículos de pasta de papel, papel, : :
+: :cartón, guata de celulosa o napa de fibras de : :
+: :celulosa. : :
+:4823.90 :Los demás : :
+:4823.90.90:Los demás : :
+:----------: : 100 :
+: : : Excepto de rigidez dieléctrica superior :
+: : : o igual a 600V (Norma ASTM D 202 o equi- :
+: : : valente) y gramaje inferior o igual a :
+: : : 60 g/m2. :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304 :Tubos y perfiles huecos, sin soldadura (sin : :
+: :costura)*, de hierro o acero. : :
+:7304.3 :Los demás, de sección circular, de hierro o acero : :
+: :sin alear: : :
+:7304.39.00:Los demás : :
+:----------: : 100 :
+: : : Tubos de diámetro exterior inferior o :
+: : : igual a 229 mm, únicamente cortados y :
+: : : conformados en las dimensiones finales :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:7304.39.00:(Cont.) : :
+: : : para uso de vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7306 :Los demás tubos y perfiles huecos (por ejemplo: : :
+: :soldados, remachados, grapados o con los bordes : :
+: :simplemente aproximados), de hierro o acero. : :
+:7306.50.00:Los demás, soldados, de sección circular, de los : :
+:----------:demás aceros aleados : :
+: : : 100 :
+: : : Únicamente cortados y conformados en :
+: : : las dimensiones finales para uso de :
+: : : vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7307 :Accesorios de tubería (por ejemplo: empalmes : :
+: :(racores), codos, manguitos), de fundición, : :
+: :hierro o acero. : :
+:7307.1 :Moldeados: : :
+:7307.19.00:Los demás : :
+:----------: : 100 :
+: : : Excepto: de fundición de hierro maleable :
+: : : que no sea de fundición nodular (Dáctil :
+: : : iron) de diámetro interior superior a :
+: : : 50,8 mm :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7307.9 :Los demás: : :
+:7307.92.00:Codos, curvas y manguitos, roscados : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7307.99.00:Los demás : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7312 :Cables, trenzas, eslingas y artículos similares, : :
+: :de hierro o acero, sin aislar para electricidad. : :
+:7312.10.00:Cables : :
+:----------: : 100 :
+: : : Excepto: alambres de acero revestidos :
+: : : con bronce o latón :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7411 :Tubos de cobre. : :
+:7411.10.00:De cobre refinado : :
+:----------: : 100 :
+: : : Únicamente cortados y conformados en :
+: : : las dimensiones finales para uso de :
+: : : vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:7411.2 :De aleaciones de cobre: : :
+:7411.21.00:A base de cobre-cinc (latón) : :
+:----------: : 100 :
+: : : Únicamente cortados y conformados en :
+: : : las dimensiones finales para uso de :
+: : : vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7616 :Las demás manufacturas de aluminio. : :
+:7616.9 :Las demás: : :
+:7616.99.00:Las demás : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8407 :Motores de émbolo (pistón) alternativo y motores : :
+: :rotativos, de encendido por chispa (motores de : :
+: :explosión). : :
+:8407.3 :Motores de émbolo (pistón) alternativo del tipo : :
+: :de los utilizados para la propulsión de vehículos : :
+: :del Capítulo 87: : :
+:8407.33.00:De cilindrada superior a 250 cm3 pero inferior o : :
+:----------:igual a 1000 cm3 : :
+: : : 100 :
+: : : Excepto: Monocilíndricos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8409 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los motores de las partidas : :
+: :Ns. 84.07 u 84.08. : :
+:8409.9 :Las demás: : :
+:8409.91.00:Identificables como destinadas, exclusiva o : :
+:----------:principalmente, a los motores de émbolo (pistón) : :
+: :de encendido por chispa : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414 :Bombas de aire o de vacío, compresores de aire u : :
+: :otros gases y ventiladores; campanas aspirantes : :
+: :para extracción o reciclado, con ventilador : :
+: :incorporado, incluso con filtro. : :
+:8414.10.00:Bombas de vacío : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414.30.00:Compresores del tipo de los utilizados en los : :
+:----------:equipos frigoríficos : :
+: : : 100 :
+: : : Excepto: motocompresores herméticos :
+: : : con capacidad superior o igual a 4.700 :
+: : : frigorías/h :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414.80.00:Los demás : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8414.80.00:(Cont.) : :
+:----------: : 100 :
+: : : Compresores de aire, excepto: estaciona- :
+: : : rios de émbolo (pistón), de tornillo o :
+: : : de lóbulos paralelos (tipo"Roots");tur- :
+: : : boalimentadores de aire para motores de :
+: : : las partidas 8407 u 8408 accionados por :
+: : : los gases de escape de los mismos; com- :
+: : : presores centrífugos de gases (excepto :
+: : : aire), excepto de émbolo (pistón) o de :
+: : : tornillo; los demás compresores de gases :
+: : : (excepto aire) y turbo compresores de :
+: : : aire :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414.90.00:Partes : :
+:----------: : 100 :
+: : : Excepto: aros de émbolo (pistón) para :
+: : : compresores :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8419 :Aparatos y dispositivos, aunque se calienten : :
+: :eléctricamente, para el tratamiento de materias : :
+: :mediante operaciones que impliquen un cambio de : :
+: :temperatura, tales como calentamiento, cocción, : :
+: :torrefacción, destilación, rectificación, : :
+: :esterilización, pasteurización, baño de vapor de : :
+: :agua, secado, evaporación, vaporización, : :
+: :condensación o enfriamiento, excepto los aparatos : :
+: :domésticos; calentadores de agua de : :
+: :calentamiento instantáneo o de acumulación, : :
+: :excepto los eléctricos. : :
+:8419.8 :Los demás aparatos y dispositivos: : :
+:8419.89 :Los demás : :
+:8419.89.90:Los demás : :
+:----------: : 100 :
+: : : Evaporadores :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8425 :Polipastos; tornos y cabrestantes; gatos. : :
+:8425.4 :Gatos: : :
+:8425.42.00:Los demás gatos hidráulicos : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8433 :Máquinas, aparatos y artefactos de cosechar o : :
+: :trillar, incluida las prensas para paja o : :
+: :forraje; cortadoras de césped y guadañadoras; : :
+: :máquinas para limpieza o clasificación de huevos, : :
+: :frutos o demás productos agrícolas, excepto las : :
+: :de la partida N. 84.37. : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8433.90.00:Partes : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481 :Artículos de grifería y órganos similares para : :
+: :tuberías, calderas, depósitos, cubas o : :
+: :continentes similares, incluidas las válvulas : :
+: :reductoras de presión y las válvulas : :
+: :termostáticas. : :
+:8481.10.00:Válvulas reductoras de presión : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481.30.00:Válvulas de retención : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481.40.00:Válvulas de alivio o seguridad : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481.80 :Los demás artículos de grifería y órganos : :
+: :similares : :
+:8481.80.90:Los demás : :
+:----------: : 100 :
+: : : Válvulas de expansión termostática o :
+: : : presostática; válvulas solenoide; vál- :
+: : : vulas esféricas; válvulas tipo mariposa; :
+: : : las demás excepto del tipo de las utili- :
+: : : zadas en refrigeración o en artefactos a :
+: : : gas y válvulas tipo aerosol, válvulas :
+: : : esclusas, válvulas de globo y válvulas :
+: : : tipo macho :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481.90.00:Partes : :
+:----------: : 100 :
+: : : Excepto: de válvulas tipo aerosol o de :
+: : : los artículos de grifería u órganos :
+: : : similares de los tipos utilizados en :
+: : : baños y cocinas :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8483 :Arboles de transmisión (incluidos los de levas y : :
+: :los cigüeñales) y manivelas; cajas de cojinetes y : :
+: :cojinetes; engranajes y ruedas de fricción; : :
+: :husillos fileteados de bolas o rodillos; : :
+: :reductores, multiplicadores y variadores de : :
+: :velocidad, incluidos los convertidores de par; : :
+: :volantes y poleas, incluidos los motones; : :
+: :embragues y órganos de acoplamiento, incluidas : :
+: :las juntas de articulación. : :
+:8483.10.00:Arboles de transmisión (incluidos los de levas y : :
+:----------:los cigüeñales) y manivelas : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8483.10.00:(Cont.) : :
+: : : 100 :
+: : : Excepto: árboles de transmisión provis- :
+: : : tos de acoplamientos dentados con enta- :
+: : : lles de protección a sobrecargas de lon- :
+: : : gitud superior o igual a 1.500 mm y diá- :
+: : : metro del eje superior o igual a 400 mm :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8483.40.00:Engranajes y ruedas de fricción, excepto las : :
+:----------:simples ruedas dentadas y demás órganos : :
+: :elementales de transmisión; husillos fileteados : :
+: :de bolas o rodillos; reductores, multiplicadores : :
+: :y variadores de velocidad, incluidos los : :
+: :convertidores de par : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8501 :Motores y generadores, eléctricos, excepto los : :
+: :grupos electrógenos. : :
+:8501.40.00:Los demás motores de corriente alterna, : :
+:----------:monofásicos : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8504 :Transformadores eléctricos, convertidores : :
+: :eléctricos estáticos (por ejemplo: : :
+: :rectificadores) y bobinas de reactancia : :
+: :(autoinducción). : :
+:8504.40.00:Convertidores estáticos : :
+:----------: : 100 :
+: : : Excepto: cargadores de acumuladores; :
+: : : rectificadores excepto los cargadores de :
+: : : acumuladores; convertidores de corriente :
+: : : continua; equipo de alimentación ininte- :
+: : : rrumpida de energía (UPS o no break); :
+: : : conversores electrónicos de frecuencia :
+: : : para variación de velocidad de motores :
+: : : eléctricos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8529 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los aparatos de las partidas : :
+: :Ns. 85.25 a 85.28. : :
+:8529.90.00:Las demás : :
+:----------: : 100 :
+: : : Excepto: de los aparatos de las subpar- :
+: : : tidas 8525.10 u 8525.20; de las partidas :
+: : : 8527 u 8528 o de las subpartidas 8526.10 :
+: : : u 8526.91 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8532 :Condensadores eléctricos fijos, variables o : :
+: :ajustables. : :
+:8532.2 :Los demás condensadores fijos: : :
+:8532.21.00:De tantalio : :
+:----------: : 100 :
+: : : Aptos para montaje en superficie (SMD- :
+: : : Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.22.00:Electrolíticos de aluminio : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.23.00:Con dieléctrico de cerámica de una sola capa : :
+:----------: : 100 :
+: : : Excepto: Aptos para montaje en super- :
+: : : ficie (SMD - Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.29.00:Los demás : :
+:----------: : 100 :
+: : : Excepto: Aptos para montaje en super- :
+: : : ficie (SMD - Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.30.00:Condensadores variables o ajustables : :
+:----------: : 100 :
+: : : Excepto: Aptos para montaje en super- :
+: : : ficie (SMD - Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8533 :Resistencias eléctricas, excepto las de : :
+: :calentamiento (incluidos reóstatos y : :
+: :potenciómetros). : :
+:8533.10.00:Resistencias fijas de carbono, aglomeradas o de : :
+:----------:capa : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8533.2 :Las demás resistencias fijas: : :
+:8533.21.00:De potencia inferior o igual a 20 W : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+:8533.40.00:Las demás resistencias variables (incluidos : :
+:----------:reóstatos y potenciómetros) : :
+: : : 100 :
+: : : Potenciómetros de carbón. :
+: : : Resistencias no lineales, semiconducto- :
+: : : ras, excepto termistores y varistores :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8536 :Aparatos para corte, seccionamiento, protección, : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8536 :(Cont.) : :
+: :derivación, empalme o conexión de circuitos : :
+: :eléctricos (por ejemplo: interruptores, : :
+: :conmutadores, relés, cortacircuitos, supresores : :
+: :de sobretensión transitoria, clavijas y tomas de : :
+: :corriente (enchufes), portalámparas, cajas de : :
+: :empalme), para una tensión inferior o igual a : :
+: :1.000 voltios. : :
+:8536.4 :Relés: : :
+:8536.41.00:Para una tensión inferior o igual a 60 V : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8536.50.00:Los demás interruptores, seccionadores y : :
+:----------:conmutadores : :
+: : : 100 :
+: : : Excepto: Unidad conmutadora de conversor :
+: : : de subida y descenso para sistema de :
+: : : telecomunicaciones vía satélite; unidad :
+: : : conmutadora de amplificador de alta po- :
+: : : tencia (HPA) para sistema de telecomu- :
+: : : nicaciones vía satélite; conmutadores :
+: : : codificadores digitales aptos para mon- :
+: : : taje en circuitos impresos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8536.90.00:Los demás aparatos : :
+:----------: : 100 :
+: : : Excepto: tomas de contacto deslizante en :
+: : : conductores aéreos; conectores para :
+: : : circuitos impresos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8538 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los aparatos de las partidas : :
+: :Ns. 85.35, 85.36 u 85.37. : :
+:8538.90.00:Las demás : :
+:----------: : 100 :
+: : : Excepto: Circuitos impresos con compo- :
+: : : nentes eléctricos o electrónicos monta- :
+: : : dos; de disyuntores para tensión supe- :
+: : : rior o igual a 72.5 kV :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8539 :Lámparas y tubos eléctricos de incandescencia o : :
+: :de descarga, incluidos los faros o unidades : :
+: :"sellados" y las lámparas y tubos de rayos : :
+: :ultravioletas o infrarrojos; lámparas de arco. : :
+:8539.2 :Las demás lámparas y tubos de incandescencia, : :
+: :excepto las de rayos ultravioletas o infrarrojos: : :
+:8539.29.00:Los demás : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8539.29.00:(Cont.) : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8539.90.00:Partes : :
+:----------: : 100 :
+: : : Excepto: electrodos; casquillos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8708 :Partes y accesorios de vehículos automóviles de : :
+: :las partidas Ns. 87.01 a 87.05. : :
+:8708.40.00:Cajas de cambio : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9026 :Instrumentos y aparatos para la medida o control : :
+: :del caudal, nivel, presión u otras : :
+: :características variables de líquidos o gases : :
+: :(por ejemplo: caudalímetros, indicadores de : :
+: :nivel, manómetros, contadores de calor), excepto : :
+: :los instrumentos y aparatos de las partidas Ns. : :
+: :90.14, 90.15, 90.28 ó 90.32. : :
+:9026.10.00:Para medida o control del caudal o nivel de : :
+:----------:líquidos : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9026.20.00:Para medida o control de presión : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9029 :Los demás contadores (por ejemplo: : :
+: :cuentarrevoluciones, contadores de producción, : :
+: :taxímetros, cuentakilómetros, podómetros); : :
+: :velocímetros y tacómetros, excepto los de las : :
+: :partidas Ns. 90.14 ó 90.15; estroboscopios. : :
+:9029.10.00:Cuentarrevoluciones, contadores de producción, : :
+:----------:taxímetros, cuentakilómetros, podómetros y : :
+: :contadores similares : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9029.20.00:Velocímetros y tacómetros; estroboscopios : :
+:----------: : 100 :
+: : : Velocímetros y tacómetros :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9030 :Osciloscopios, analizadores de espectro y demás : :
+: :instrumentos y aparatos para medida o control de : :
+: :magnitudes eléctricas; instrumentos y aparatos : :
+: :para medida o detección de radiaciones alfa, : :
+: :beta, gamma, X, cósmicas o demás radiaciones : :
+: :ionizantes. : :
+:9030.8 :Los demás instrumentos y aparatos: : :
+:9030.89.00:Los demás : :
+
+PREFERENCIAS OTORGADAS POR BRASIL
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:9030.89.00:(Cont.) : :
+:----------: : 100 :
+: : : Excepto: Analizadores lógicos de circui- :
+: : : tos numéricos (digitales); analizadores :
+: : : de espectro de frecuencia; frecuencíme- :
+: : : tros; fasímetros :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9032 :Instrumentos y aparatos para regulación o control : :
+: :automáticos. : :
+:9032.10 :Termostatos : :
+:9032.10.90:Los demás : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9032.8 :Los demás instrumentos y aparatos: : :
+:9032.89.00:Los demás : :
+:----------: : 100 :
+: : : Excepto: Equipamiento digital para con- :
+: : : trol de vehículos ferroviarios; :
+: : : instrumentos y aparatos para regulación :
+: : : o el control automático de velocidad de :
+: : : motores eléctricos por variación de :
+: : : frecuencia :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9032.90.00:Partes y accesorios : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9613 :Encendedores y mecheros, incluso mecánicos o : :
+: :eléctricos, y sus partes, excepto las piedras y : :
+: :mechas. : :
+:9613.80.00:Los demás encendedores y mecheros : :
+:----------: : 100 :
+:__________:__________________________________________________:____________________________________________________________________:
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:3919 :Placas, láminas, hojas, cintas, tiras y demás : :
+: :formas planas, autoadhesivas, de plástico, : :
+: :incluso en rollos. : :
+:3919.90.00:Las demás : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304 :Tubos y perfiles huecos, sin soldadura (sin : :
+: :costura)*, de hierro o acero. : :
+:7304.3 :Los demás, de sección circular, de hierro o acero : :
+: :sin alear: : :
+:7304.31.00:Estirados o laminados en frío : :
+:----------: : 100 :
+: : : Tubos sin revestir únicamente cortados :
+: : : y conformados en las dimensiones finales :
+: : : para uso de vehículos o autopartes. :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304.39.00:Los demás : :
+:----------: : 100 :
+: : : Tubos de diámetro exterior inferior o :
+: : : igual a 229 mm. únicamente cortados y :
+: : : conformados en las dimensiones finales :
+: : : para uso de vehículos o autopartes. :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304.5 :Los demás, de sección circular, de los demás : :
+: :aceros aleados: : :
+:7304.51.00:Estirados o laminados en frío : :
+:----------: : 100 :
+: : : Tubos de diámetro exterior inferior o :
+: : : igual a 229 mm., únicamente cortados y :
+: : : conformados en las dimensiones finales :
+: : : para uso de vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304.59.00:Los demás : :
+:----------: : 100 :
+: : : Tubos de diámetro exterior inferior o :
+: : : igual a 229 mm., únicamente cortados y :
+: : : conformados en las dimensiones finales :
+: : : para uso de vehículos o autopartes :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7304.90.00:Los demás : :
+:----------: : 100 :
+: : : Únicamente cortados y conformados en :
+: : : las dimensiones finales para uso de :
+: : : vehículos o autopartes, excepto de :
+: : : acero inoxidable de diámetro exterior :
+: : : inferior o igual a 229 mm. :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8408 :Motores de émbolo (pistón) de encendido por : :
+: :compresión (motores Diesel o semi-Diesel). : :
+:8408.90.00:Los demás motores : :
+:----------: : 100 :
+: : : Excepto: estacionarios de potencia :
+: : : continua máxima superior o igual a :
+: : : 337,5 kW (450 HP) a más de 1.000 rpm :
+: : : según norma DIN 6271 A :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8409 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los motores de las partidas : :
+: :Ns. 84.07 u 84.08. : :
+:8409.9 :Las demás: : :
+:8409.91.00:Identificables como destinadas, exclusiva o : :
+:----------:principalmente, a los motores de émbolo (pistón) : :
+: :de encendido por chispa : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414 :Bombas de aire o de vacío, compresores de aire u : :
+: :otros gases y ventiladores; campanas aspirantes : :
+: :para extracción o reciclado, con ventilador : :
+: :incorporado, incluso con filtro. : :
+:8414.30.00:Compresores del tipo de los utilizados en los : :
+:----------:equipos frigoríficos : :
+: : : 100 :
+: : : Excepto: motocompresores herméticos con :
+: : : capacidad superior o igual a 4.700 :
+: : : frigorías/h. :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8414.80.00:Los demás : :
+:----------: : 100 :
+: : : Compresores de aire excepto estaciona- :
+: : : rios de émbolo (pistón), de tornillo o :
+: : : de lóbulos paralelos (tipo "Roots"); :
+: : : turboalimentadores de aire para motores :
+: : : de las partidas 8407 u 8408 accionados :
+: : : por los gases de escape de los mismos; :
+: : : compresores centrífugos de gases (excep- :
+: : : to aire) excepto de émbolo (pistón) o :
+: : : de tornillo; los demás compresores de :
+: : : gases (excepto aire) y turbo compre- :
+: : : sores de aire :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8415 :Máquinas y aparatos para acondicionamiento de : :
+: :aire que comprendan un ventilador con motor y : :
+: :los dispositivos adecuados para modificar la : :
+: :temperatura y la humedad, aunque no regulen : :
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8415 :(Cont.) : :
+: :separadamente el grado higrométrico. : :
+:8415.20.00:Del tipo de los utilizados en vehículos : :
+:----------:automóviles para sus ocupantes : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8415.8 :Los demás: : :
+:8415.82.00:Los demás, con equipo de enfriamiento : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8419 :Aparatos y dispositivos, aunque se calienten : :
+: :eléctricamente, para el tratamiento de materias : :
+: :mediante operaciones que impliquen un cambio de : :
+: :temperatura, tales como calentamiento, cocción, : :
+: :torrefacción, destilación, rectificación, : :
+: :esterilización, pasteurización, baño de vapor de : :
+: :agua, secado, evaporación, vaporización, : :
+: :condensación o enfriamiento, excepto los aparatos : :
+: :domésticos; calentadores de agua de : :
+: :calentamiento instantáneo o de acumulación, : :
+: :excepto los eléctricos. : :
+:8419.8 :Los demás aparatos y dispositivos: : :
+:8419.89 :Los demás : :
+:8419.89.90:Los demás : :
+:----------: : 100 :
+: : : Evaporadores :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8433 :Máquinas, aparatos y artefactos de cosechar o : :
+: :trillar, incluida las prensas para paja o : :
+: :forraje; cortadoras de césped y guadañadoras; : :
+: :máquinas para limpieza o clasificación de huevos, : :
+: :frutos o demás productos agrícolas, excepto las : :
+: :de la partida N. 84.37. : :
+:8433.90.00:Partes : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481 :Artículos de grifería y órganos similares para : :
+: :tuberías, calderas, depósitos, cubas o : :
+: :continentes similares, incluidas las válvulas : :
+: :reductoras de presión y las válvulas : :
+: :termostáticas. : :
+:8481.40.00:Válvulas de alivio o seguridad : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8481.80 :Los demás artículos de grifería y órganos : :
+: :similares : :
+:8481.80.90:Los demás : :
+:----------: : 100 :
+: : : Válvulas de expansión termostática o :
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8481.80.90:(Cont.) : :
+: : : presostática; válvulas solenoides; :
+: : : válvulas esféricas; válvulas tipo :
+: : : mariposa; las demás excepto del tipo :
+: : : de las utilizadas en refrigeración o :
+: : : en artefactos a gas y válvulas tipo :
+: : : aerosol, válvulas esclusas, válvulas :
+: : : de globo y válvulas tipo macho :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8483 :Arboles de transmisión (incluidos los de levas y : :
+: :los cigüeñales) y manivelas; cajas de cojinetes y : :
+: :cojinetes; engranajes y ruedas de fricción; : :
+: :husillos fileteados de bolas o rodillos; : :
+: :reductores, multiplicadores y variadores de : :
+: :velocidad, incluidos los convertidores de par; : :
+: :volantes y poleas, incluidos los motones; : :
+: :embragues y órganos de acoplamiento, incluidas : :
+: :las juntas de articulación. : :
+:8483.30.00:Cajas de cojinetes sin rodamientos incorporados; : :
+:----------:cojinetes : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8501 :Motores y generadores, eléctricos, excepto los : :
+: :grupos electrógenos. : :
+:8501.3 :Los demás motores de corriente continua; : :
+: :generadores de corriente continua: : :
+:8501.31.00:De potencia inferior o igual a 750 W : :
+:----------: : 100 :
+: : : Motores :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8501.32.00:De potencia superior a 750 W pero inferior o : :
+:----------:igual a 75 kW : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8507 :Acumuladores eléctricos, incluidos sus : :
+: :separadores, aunque sean cuadrados o : :
+: :rectangulares. : :
+:8507.90.00:Partes : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8529 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los aparatos de las partidas : :
+: :Ns. 85.25 a 85.28. : :
+:8529.90.00:Las demás : :
+:----------: : 100 :
+: : : Excepto: de los aparatos de las :
+: : : subpartidas 8525.10 u 8525.20; de :
+: : : las partidas 8527 u 8528 o de las :
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8529.90.00:(Cont.) : :
+: : : subpartidas 8526.10 u 8526.91 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532 :Condensadores eléctricos fijos, variables o : :
+: :ajustables. : :
+:8532.2 :Los demás condensadores fijos: : :
+:8532.23.00:Con dieléctrico de cerámica de una sola capa : :
+:----------: : 100 :
+: : : Excepto: Aptos para montaje en :
+: : : superficie (SMD-Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.24.00:Con dieléctrico de cerámica, multicapas : :
+:----------: : 100 :
+: : : Aptos para montaje en superficie (SMD- :
+: : : Surface Mounted Device) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8532.25.00:Con dieléctrico de papel o plástico : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8536 :Aparatos para corte, seccionamiento, protección, : :
+: :derivación, empalme o conexión de circuitos : :
+: :eléctricos (por ejemplo: interruptores, : :
+: :conmutadores, relés, cortacircuitos, supresores : :
+: :de sobretensión transitoria, clavijas y tomas de : :
+: :corriente (enchufes), portalámparas, cajas de : :
+: :empalme), para una tensión inferior o igual a : :
+: :1.000 voltios. : :
+:8536.50.00:Los demás interruptores, seccionadores y : :
+:----------:conmutadores : :
+: : : 100 :
+: : : Excepto: Unidad conmutadora de conversor :
+: : : de subida y descenso para sistema de :
+: : : telecomunicaciones vía satélite; unidad :
+: : : conmutadora de amplificador de alta po- :
+: : : tencia (HPA) para sistema de telecomu- :
+: : : nicaciones vía satélite; conmutadores :
+: : : codificadores digitales aptos para mon- :
+: : : taje en circuitos impresos :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8537 :Cuadros, paneles, consolas, armarios y demás : :
+: :soportes equipados con varios aparatos de las : :
+: :partidas Ns. 85.35 u 85.36, para control o : :
+: :distribución de electricidad, incluidos los que : :
+: :incorporen instrumentos o aparatos del Capítulo : :
+: :90, así como los aparatos de control numérico, : :
+: :excepto los aparatos de conmutación de la partida : :
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8537 :(Cont.) : :
+: :N. 85.17. : :
+:8537.10.00:Para una tensión inferior o igual a 1.000 V : :
+:----------: : 100 :
+: : : Excepto: Controladores numéricos :
+: : : computarizados (CNC); controladores :
+: : : programables; controladores de deman- :
+: : : da de energía eléctrica :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8538 :Partes identificables como destinadas, exclusiva : :
+: :o principalmente, a los aparatos de las partidas : :
+: :Ns. 85.35, 85.36 u 85.37. : :
+:8538.10.00:Cuadros, paneles, consolas, armarios y demás : :
+:----------:soportes de la partida N. 85.37, sin sus aparatos : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8538.90.00:Las demás : :
+:----------: : 100 :
+: : : Excepto: Circuitos impresos con compo- :
+: : : nentes eléctricos o electrónicos monta- :
+: : : dos; de disyuntores para tensión supe- :
+: : : rior o igual a 72,5 kV :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8539 :Lámparas y tubos eléctricos de incandescencia o : :
+: :de descarga, incluidos los faros o unidades : :
+: :"sellados" y las lámparas y tubos de rayos : :
+: :ultravioletas o infrarrojos; lámparas de arco. : :
+:8539.10.00:Faros o unidades "sellados" : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8542 :Circuitos integrados y microestructuras : :
+: :electrónicas. : :
+:8542.40.00:Circuitos integrados híbridos : :
+:----------: : 100 :
+: : : Excepto: de espesor de capa inferior o :
+: : : igual a 1 micrómetro :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8543 :Máquinas y aparatos eléctricos con función : :
+: :propia, no expresados ni comprendidos en otra : :
+: :parte de este Capítulo. : :
+:8543.8 :Las demás máquinas y aparatos: : :
+:8543.81.00:Tarjetas y etiquetas de activación por proximidad : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8708 :Partes y accesorios de vehículos automóviles de : :
+: :las partidas Ns. 87.01 a 87.05. : :
+:8708.50.00:Ejes con diferencial, incluso provistos con otros : :
+
+PREFERENCIAS OTORGADAS POR CHILE
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. :
+: NALADI/ : Arancel ---------- Regimen General ----------: Porc. :
+: /SA : Nacional Ad-val. Especifico Mon. Unid. R.Legal: --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:8708.50.00:(Cont.) : :
+:----------:órganos de trasmisión : :
+: : : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8708.80.00:Amortiguadores de suspensión : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:8708.9 :Las demás partes y accesorios: : :
+:8708.99.00:Los demás : :
+:----------: : 100 :
+: : : Excepto: Dispositivos para comando de :
+: : : acelerador, freno, embrague, dirección o :
+: : : caja de cambios :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9025 :Densímetros, areómetros, pesalíquidos e : :
+: :instrumentos flotantes similares, termómetros, : :
+: :pirómetros, barómetros, higrómetros y : :
+: :sicrómetros, aunque sean registradores, incluso : :
+: :combinados entre sí. : :
+:9025.1 :Termómetros y pirómetros, sin combinar con otros : :
+: :instrumentos: : :
+:9025.11.00:De líquido, con lectura directa : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9025.19.00:Los demás : :
+:----------: : 100 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9026 :Instrumentos y aparatos para la medida o control : :
+: :del caudal, nivel, presión u otras : :
+: :características variables de líquidos o gases : :
+: :(por ejemplo: caudalímetros, indicadores de : :
+: :nivel, manómetros, contadores de calor), excepto : :
+: :los instrumentos y aparatos de las partidas Ns. : :
+: :90.14, 90.15, 90.28 ó 90.32. : :
+:9026.20.00:Para medida o control de presión : :
+:----------: : 100 :
+:__________:__________________________________________________:____________________________________________________________________:
