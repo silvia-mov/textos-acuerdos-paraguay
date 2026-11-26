@@ -66,6 +66,24 @@ summary { cursor:pointer; font-weight:600; }
 .titulos { columns:2 260px; column-gap:22px; font-size:14.5px; padding-left:0; list-style:none; }
 .titulos li { break-inside:avoid; padding:3px 0; }
 .chica { font-size:14px; color:var(--text2); }
+.grupos { display:grid; gap:10px; }
+.gr { display:grid; grid-template-columns: minmax(150px,260px) 1fr; gap:10px; align-items:center; font-size:14.5px; }
+.gr .bar { height:22px; border-radius:0 4px 4px 0; background:var(--s1); }
+.gr .num { font-size:13.5px; color:var(--text2); white-space:nowrap; margin-left:8px; }
+.gr .fila { display:flex; align-items:center; }
+@media (max-width:600px) { .gr { grid-template-columns:1fr; gap:2px; } }
+.tl { list-style:none; margin:10px 0 0; padding:0 0 0 22px; border-left:2px solid var(--line); }
+.tl li { position:relative; padding:0 0 14px 6px; }
+.tl li::before { content:""; position:absolute; left:-30px; top:6px; width:12px; height:12px; border-radius:50%; background:var(--s4); border:2px solid var(--bg); }
+.tl li.py::before { background:var(--s3); }
+.tl .f { font-weight:700; font-size:14.5px; }
+.tl .py .f { color:var(--pink); }
+.disp { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:12px; margin-top:12px; }
+.disp .card { margin:0; }
+.disp .v { font-size:26px; font-weight:800; line-height:1.1; color:var(--pink); }
+.disp h3 { margin:6px 0 4px; font-size:16px; }
+.disp p { margin:0; font-size:14.5px; }
+.disp .src { font-size:12.5px; color:var(--text2); margin-top:6px; }
 footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line); font-size:14px; color:var(--text2); }
 @media print { .noprint { display:none !important; } }
 </style>
@@ -93,6 +111,45 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
   <div class="barras" id="barras"></div>
   <div class="ley" id="ley"></div>
   <p class="note">Cantidad de códigos NALADISA 96 de cada lista. Fuente: Anexo II, Apéndices 1 (Colombia) y 2 (Paraguay), ALADI/AAP.CE/72. Datos: <a href="ace72/tablas/preferencias_paraguay_colombia.csv" download>CSV</a> · <a href="ace72/tablas/preferencias_paraguay_colombia.xlsx" download>Excel</a>.</p>
+</div>
+
+<h2>Qué tipo de productos tienen rebaja</h2>
+<p>De los 6.524 productos de las listas, <b>6.492</b> tienen preferencia en los dos sentidos; los otros 32 están excluidos (29 por la nota (1), 1 por la nota (8) y 2 bienes usados). Las dos listas cubren los mismos productos.</p>
+<div class="card">
+  <div class="grupos" id="grupos"></div>
+  <p class="note">Cantidad de códigos NALADISA 96 con preferencia, por grupo de capítulos. Grupo 1: capítulos 1 a 24; grupo 2: 25 a 40 y 44 a 49; grupo 3: 41 a 43 y 50 a 67; grupo 4: 68 a 83; grupo 5: 84, 85 y 90 a 97; grupo 6: 86 a 89. Conteo propio a partir de las listas del Anexo II.</p>
+</div>
+
+<h2>De la firma al libre comercio</h2>
+<p>Cuando el acuerdo entró en vigor para Paraguay, en enero de 2019, todas las categorías ya habían llegado al 100 % para los demás socios: Paraguay empezó directamente con la desgravación terminada.</p>
+<ul class="tl">
+  <li><div class="f">18/10/2004</div>El MERCOSUR firma con Colombia, Ecuador y Venezuela el ACE 59, antecedente del ACE 72.</li>
+  <li><div class="f">21/07/2017</div>Firma del ACE 72 en Mendoza.</li>
+  <li><div class="f">20/12/2017</div>Entra en vigor entre Colombia y Argentina, y entre Colombia y Brasil. Las categorías B, C, D y E dan 92 %, 93 %, 94 % y 95 % de preferencia.</li>
+  <li><div class="f">01/01/2018</div>Todas las categorías llegan al 100 %.</li>
+  <li><div class="f">11/06/2018</div>Entra en vigor entre Colombia y Uruguay.</li>
+  <li><div class="f">23/07/2018</div>Se firma el Primer Protocolo Adicional, sobre servicios (para Paraguay, aún sin vigor según la ALADI).</li>
+  <li class="py"><div class="f">14/01/2019</div>Decreto N° 1113: Paraguay incorpora el Acuerdo a su ordenamiento jurídico.</li>
+  <li class="py"><div class="f">29/01/2019</div>Entra en vigor entre Colombia y Paraguay, con todas las preferencias ya al 100 %.</li>
+  <li><div class="f">07/07/2021</div>Acta de Rectificación (fórmula del contenido regional en los acuerdos automotores).</li>
+  <li><div class="f">2022</div>Protocolos Segundo y Tercero (certificado de origen, 29/04) y Cuarto (zonas francas Brasil–Colombia, 28/07). Paraguay no participa.</li>
+  <li><div class="f">30/09/2024</div>Colombia denuncia el Apéndice 5.1 (automotor Brasil–Colombia).</li>
+  <li><div class="f">07/11/2025</div>Nuevo entendimiento automotor Brasil–Colombia.</li>
+  <li><div class="f">11/06/2026</div>Colombia revoca la denuncia del Apéndice 5.1.</li>
+</ul>
+<p class="note">Fuentes: texto del Acuerdo y fichas de la ALADI; SICE de la OEA (fechas de vigencia); Gaceta Oficial (Decreto N° 1113/2019).</p>
+
+<h2>Disposiciones especiales para Paraguay</h2>
+<div class="disp">
+  <div class="card"><div class="v">50 %</div><h3>Regla de origen más flexible</h3><p>Sin cambio de partida, el producto es originario si los materiales de afuera no pasan del 50 % del valor FOB. Para Argentina y Brasil el tope es 40 %; para Colombia y Uruguay, 45 %.</p><div class="src">Anexo IV, art. 4</div></div>
+  <div class="card"><div class="v">Puerto</div><h3>País sin litoral</h3><p>Para calcular el valor CIF de los materiales de afuera, Paraguay puede tomar como destino cualquier puerto marítimo o fluvial de los países del acuerdo.</p><div class="src">Anexo IV, art. 4</div></div>
+  <div class="card"><div class="v">50 %</div><h3>Contenido regional en vehículos</h3><p>Paraguay y Uruguay piden 50 % de contenido regional (Argentina y Brasil, 60 %). Para modelos nuevos: 30 %, 35 %, 40 % y 45 % en los primeros cuatro años.</p><div class="src">Anexo IV, Apéndice 2</div></div>
+  <div class="card"><div class="v">0,50 %</div><h3>Cobros que Paraguay puede mantener</h3><p>Las tasas consulares y el Servicio de Valoración Aduanera del 0,50 % sobre el valor en aduana.</p><div class="src">Anexo III</div></div>
+  <div class="card"><div class="v">303 t</div><h3>Contingentes propios</h3><p>Colombia da a Paraguay, solo a Paraguay, 303 t de leche en polvo y 4.538 kg de preparaciones de carne por año, con 100 % de rebaja. Además, comparte con el MERCOSUR los de carne bovina.</p><div class="src">Anexo II, Apéndice 3.3</div></div>
+  <div class="card"><div class="v">86 % · 54 %</div><h3>Preferencias fijas en el sector automotor</h3><p>Colombia da a Paraguay 86 % en 94 productos (autopartes, motores) y 54 % en 74 (vehículos, neumáticos). Paraguay da a Colombia 69 % en 142, 46 % en 68, 94 % en 8 y 77 % en 3. No suben con el tiempo.</p><div class="src">Anexo II, Apéndices 3.3 y 4.3</div></div>
+  <div class="card"><div class="v">29</div><h3>Productos excluidos en los dos sentidos</h3><p>Azúcar, confitería, chocolates, algunas preparaciones y alcohol etílico: la rebaja empieza cuando Paraguay y Colombia lo acuerden.</p><div class="src">Anexo II, nota (1)</div></div>
+  <div class="card"><div class="v">Sin trato</div><h3>Zonas francas</h3><p>Lo producido en zonas francas no tiene preferencia entre Paraguay y Colombia. Solo Brasil y Colombia lo acordaron, en el Cuarto Protocolo.</p><div class="src">Acuerdo, art. 36; Cuarto Protocolo</div></div>
+  <div class="card"><div class="v">No aplica</div><h3>Medidas especiales agrícolas</h3><p>El régimen del Anexo IX (protección ante subas de importaciones agrícolas) es solo entre Argentina, Brasil y Colombia: Paraguay no lo aplica ni se le aplica.</p><div class="src">Acuerdo, art. 24</div></div>
 </div>
 
 <h2>Buscá un producto</h2>
@@ -187,6 +244,13 @@ fetch("ace72/preferencias.json").then(r => r.json()).then(d => {
       ["A","B","V","X","N"].map(g => `<span style="width:${100*n[g]/tot}%;background:${COL[g]}" title="${NOMG[g]}: ${fmt(n[g])}"></span>`).join("") + "</div></div>");
   });
   document.getElementById("ley").innerHTML = ["A","B","V","X"].map(g => `<span><i style="background:${COL[g]}"></i>${NOMG[g]}</span>`).join("");
+  const GR = [["Agropecuarios, alimentos y tabaco", c => c <= 24], ["Minerales, químicos, plásticos, caucho, madera y papel", c => c <= 40 || (c >= 44 && c <= 49)],
+    ["Textiles, calzado, pieles y cueros", c => (c >= 41 && c <= 43) || (c >= 50 && c <= 67)], ["Piedra, cerámica, vidrio y metales", c => c >= 68 && c <= 83],
+    ["Máquinas, material eléctrico, instrumentos y diversos", c => c === 84 || c === 85 || c >= 90], ["Vehículos y material de transporte", c => c >= 86 && c <= 89]];
+  const cnt = GR.map(() => 0);
+  d.forEach(r => { if (grupo(r[2], r[3]) === "X") return; const c = +r[0].slice(0, 2); cnt[GR.findIndex(([, f]) => f(c))]++; });
+  const tot = cnt.reduce((a, b) => a + b, 0), mx = Math.max(...cnt);
+  document.getElementById("grupos").innerHTML = GR.map(([n], i) => `<div class="gr"><div>${i + 1}. ${n}</div><div class="fila"><div class="bar" style="width:${80 * cnt[i] / mx}%" title="${n}: ${fmt(cnt[i])} productos"></div><span class="num">${fmt(cnt[i])} · ${(100 * cnt[i] / tot).toLocaleString("es-PY", {maximumFractionDigits: 1})} %</span></div></div>`).join("");
 });
 function cat(c, n) { if (!c) return '<span class="chica">sin dato</span>'; const g = grupo(c, n); const t = g === "X" ? "Excluido" : c.replace("Ver Apéndice","Ap.").replace(/^Bienes.*/, "Usado");
   return `<span class="cat" style="background:${COL[g]};color:${g==="V"?"#fff":"#1d1a1c"}">${esc(t)}</span>`; }
