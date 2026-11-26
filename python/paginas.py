@@ -326,7 +326,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
             ("8/8/2028", "fin de la preferencia con drawback", "Desde esa fecha, los productos con insumos importados temporalmente o con drawback no tienen preferencia.", "Protocolo 34 (2024)"),
             ("Hidrovía", "objetivo del Acuerdo", "Entre sus objetivos está facilitar la navegación por la Hidrovía Paraná–Paraguay (Puerto Cáceres–Puerto Nueva Palmira); el Protocolo de Integración Física lo desarrolla.", "Acuerdo, Artículo 1")],
         ejemplo="Por ejemplo: drawback, hidrovía, certificado de origen, salvaguardia",
-        grupos=["Acuerdo", "Anexos del Programa de Liberación", "Otros anexos", "Protocolos adicionales"],
+        grupos=["Acuerdo", "Anexos del Programa de Liberación", "Otros anexos", "Protocolos adicionales", "Guías de otros países"],
         descargas=[],
         como="<p>Se tomaron los 66 archivos que publica la <b>ALADI</b> para el ACE 36. 38 tienen texto y se leyeron con <code>pdftotext</code>; 28 eran imágenes escaneadas (1.594 páginas) y se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas de productos de 1996 (Anexos 1 a 8) quedan como texto: no se pasaron a tablas porque sus cronogramas terminaron (el último, en 2014).</p>"),
