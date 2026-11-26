@@ -105,6 +105,7 @@ def pagina(a):
 <div class="disp">{disp}</div>
 {a.get("uso", "")}
 <p class="note">{uso.NOTA}</p>
+{a.get("despues_uso", "")}
 {a.get("productos", "")}
 {titulos}
 <h2>Buscá en el texto</h2>
@@ -140,6 +141,19 @@ BUSCA = """<h2>Buscá un producto</h2>
 <input type="search" id="q-prod" placeholder="Escribí un código o un nombre, por ejemplo: {ej}" aria-label="Buscar un producto">
 <div class="tw"><table id="t-prod"></table></div>"""
 
+def vigencia_ace35():
+    d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_vigencia_61_69.csv", dtype=str).fillna("")
+    filas = "".join(f'<tr><td>{r.PROTOCOLO}</td><td>{e(r.SINTESIS)}</td><td>{e(r.VIGENCIA_PARAGUAY_CHILE)}</td><td class="chica">{e(r.NORMA_PARAGUAY)}</td><td class="chica">{e(r.OTRAS_VIGENCIAS)}</td></tr>'
+                    for r in d.itertuples())
+    return ('<h2>Los protocolos recientes: qué rige para Paraguay y desde cuándo</h2>\n'
+            '<p class="chica">Fichas de la ALADI de los Protocolos 61 a 69: fecha de entrada en vigor entre Paraguay y Chile y norma con la que Paraguay lo incorporó. '
+            '«No corresponde»: el protocolo rige solo entre Chile y otro país.</p>\n'
+            '<div class="tw"><table><thead><tr><th>Protocolo</th><th>Qué dispone</th><th>Vigente entre Paraguay y Chile</th><th>Norma de Paraguay</th><th>Otros países</th></tr></thead><tbody>'
+            + filas + "</tbody></table></div>")
+
+
+VIG35 = vigencia_ace35()
+
 ACUERDOS = [
     dict(
         carpeta="ace35", uso=uso.seccion("CL", "Chile", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011. La caída de 2012 también aparece en el BCP "
@@ -154,24 +168,26 @@ ACUERDOS = [
               ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("133", "documentos ordenados")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
-               ("2004", "100 % para el cronograma general y el Anexo 1.", False),
                ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100 % en 2006; un listado, en 2008).", True),
+               ("2004", "100 % para el cronograma general y el Anexo 1.", False),
                ("2006", "100 % para los Anexos 2 y 3.", False),
                ("2011 y 2012", "100 % para los productos sensibles (Anexos 6 y 8).", False),
                ("2014", "100 % para el Anexo 9: termina el Programa de Liberación.", False),
-               ("2023", "Protocolo 68: el origen diferenciado para Paraguay se extiende hasta el 31/12/2038.", True),
+                              ("05/11/2019", "Protocolo 63: entra en vigor un nuevo Régimen de Origen (Paraguay: Decreto N° 1.274/2019).", True),
                ("1/12/2021", "Paraguay y Chile firman en Santiago un Acuerdo Comercial bilateral de 19 capítulos.", True),
                ("15/02/2022", "Protocolo 66: ese Acuerdo Comercial Chile–Paraguay se incorpora al ACE 35 (rige solo entre los dos países).", True),
-               ("2025", "Protocolo 69: nuevo Régimen de Origen (reemplaza el Anexo 13).", False),
-               ("Marzo de 2026", "Chile publica el decreto que fija la entrada en vigor del Protocolo 69 para Paraguay y Uruguay.", True)],
+               ("24/01/2024", "Entran en vigor entre Paraguay y Chile los Protocolos 67 (drawback) y 68 (origen diferenciado hasta 2038).", True),
+               ("14/02/2024", "Entra en vigor el Acuerdo Comercial Chile–Paraguay (Protocolo 66; Paraguay: Decreto N° 9.560/2023).", True),
+               ("24/11/2025", "Entra en vigor entre Paraguay y Chile el Protocolo 69, con el Régimen de Origen actual (Paraguay: Decreto N° 4.638/2025).", True)],
         disposiciones=[
-            ("19", "capítulos del Acuerdo Comercial Chile–Paraguay", "Facilitación del comercio, buenas prácticas regulatorias, medidas sanitarias, obstáculos técnicos, servicios, comercio electrónico, competencia, mipymes, cadenas de valor, asuntos laborales, medio ambiente, género, cooperación, transparencia y anticorrupción, administración y solución de controversias.", "Protocolo 66 (2022)"),
+            ("19", "capítulos del Acuerdo Comercial Chile–Paraguay", "Facilitación del comercio, buenas prácticas regulatorias, medidas sanitarias, obstáculos técnicos, servicios, comercio electrónico, competencia, mipymes, cadenas de valor, asuntos laborales, medio ambiente, género, cooperación, transparencia y anticorrupción, administración y solución de controversias.", "Protocolo 66, vigente desde el 14/02/2024"),
             ("194", "productos con origen diferenciado", "Para lo que Paraguay exporta a Chile hay requisitos de origen propios (Apéndice 2 del Régimen de Origen), en general salto de partida o 50 % de contenido regional.", "Protocolos 68 y 69"),
             ("2038", "plazo del origen diferenciado", "Vence el 31/12/2038 y se extiende de a cinco años, salvo que Paraguay o Chile avisen con nueve meses de anticipación.", "Protocolo 69, Anexo, art. 4.7"),
             ("Puertos", "valor de los materiales para Paraguay", "Para calcular el valor de los materiales no originarios, Paraguay puede tomar como destino cualquier puerto marítimo o fluvial de las Partes, incluidos depósitos y zonas francas.", "Protocolo 69, Anexo, definiciones"),
             ("Autopartes", "trato Chile–Paraguay del Anexo 4", "Cronograma propio: 100 % en 2006 y, para un listado de autopartes, en 2008.", "Protocolo 37 (2003)"),
             ("Carne", "cupos de Chile a Paraguay", "Cupos de carne bovina en el Anexo 7, ajustados por los Protocolos 2 (1997) y 29 (2002, 3.500 toneladas de carne congelada).", "Protocolos 2 y 29"),
             ("50 %", "márgenes iniciales de 1996", "En el Anexo 10, Chile dio a Paraguay márgenes iniciales (muchos de 50 %) para aves, huevos, tomates, avena y otros. Hoy esos productos tienen 100 %.", "Anexo 10")],
+        despues_uso=VIG35,
         productos=BUSCA.format(texto="Requisitos específicos de origen del régimen vigente (Protocolo 69): los que valen para todas las Partes y los especiales para lo que Paraguay exporta a Chile.", ej="soja, 3923, prendas"),
         script="""<script>
 window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "Lista", "Requisito de origen"],
@@ -181,6 +197,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
         grupos=["Acuerdo", "Anexos del Programa de Liberación", "Origen y controversias", "Protocolos adicionales"],
         descargas=[("Requisitos específicos de origen (805)", "tablas/requisitos_especificos_origen"),
                    ("Origen diferenciado Paraguay a Chile (194 productos)", "tablas/origen_diferenciado_paraguay_a_chile"),
+                   ("Vigencia de los Protocolos 61 a 69 y normas de Paraguay", "tablas/vigencia_protocolos_61_69"),
                    ("Márgenes iniciales de Chile a Paraguay en 1996 (Anexo 10, leído con OCR)", "tablas/chile_a_paraguay_margenes_iniciales_1996")],
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
              "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p><b>Lo que falta:</b> el Anexo 15 (acuerdos del Cono Sur), que la ALADI no publica. Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),

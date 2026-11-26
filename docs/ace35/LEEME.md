@@ -17,3 +17,5 @@ archivos publicados por la ALADI (los PDF no se publican aquí).
 El Anexo 9 y el Protocolo sobre Integración Física se sumaron del release `chile` (26/11/2026). Falta el Anexo 15 (acuerdos del Cono Sur), que la ALADI no publica.
 El Protocolo 66 (15/02/2022) incorpora el Acuerdo Comercial Chile–Paraguay (19 capítulos, firmado el 1/12/2021).
 Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus versiones rectificadas, que son las vigentes.
+
+- `tablas/vigencia_protocolos_61_69`: fecha de entrada en vigor entre Paraguay y Chile y norma paraguaya de los Protocolos 61 a 69 (fichas de la ALADI, copiadas el 26/11/2026). El Protocolo 69 rige entre Paraguay y Chile desde el 24/11/2025 (Decreto N° 4.638/2025); el 66 (Acuerdo Comercial Chile–Paraguay), desde el 14/02/2024 (Decreto N° 9.560/2023).
