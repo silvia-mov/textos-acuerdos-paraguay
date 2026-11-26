@@ -39,6 +39,7 @@ def seccion(pais, socio, carpeta, docs, contexto=""):
     a = pd.read_csv(DATOS / f"{pais}_nmf_aplicado_2026.csv", dtype={"product_code": str})
     b = pd.read_csv(DATOS / f"{pais}_consolidado.csv", dtype={"product_code": str})
     v = a.value.dropna()
+    anio = int(a.year.max())
     libres, n = int((v == 0).sum()), len(v)
     altos = int((v >= 20).sum())
     techo = b.value.median()
@@ -48,21 +49,21 @@ def seccion(pais, socio, carpeta, docs, contexto=""):
     barras = "".join(f'<div class="gb"><div class="gt"><span><span class="chica">Cap. {c} ·</span> {e(CAP.get(c, c))}</span>'
                      f'<b>{num(r["mean"])} %</b></div><div class="gk"><div style="width:{100 * r["mean"] / mx:.0f}%"></div></div></div>'
                      for c, r in g.iterrows())
-    out = a[["product_code", "value"]].rename(columns={"product_code": "SA_6_DIGITOS", "value": "NMF_APLICADO_2026"}).merge(
+    out = a[["product_code", "value"]].rename(columns={"product_code": "SA_6_DIGITOS", "value": "NMF_APLICADO"}).merge(
         b[["product_code", "value"]].rename(columns={"product_code": "SA_6_DIGITOS", "value": "CONSOLIDADO_OMC"}), on="SA_6_DIGITOS", how="outer")
     out["CONSOLIDADO_OMC"] = out.CONSOLIDADO_OMC.round(2)
-    out["NMF_APLICADO_2026"] = out.NMF_APLICADO_2026.round(2)
+    out["NMF_APLICADO"] = out.NMF_APLICADO.round(2)
     (docs / carpeta / "tablas").mkdir(exist_ok=True)
     out.sort_values("SA_6_DIGITOS").to_csv(docs / carpeta / "tablas" / f"aranceles_{pais}_omc.csv", index=False, encoding="utf-8-sig")
     tarjetas = [
-        (f"{num(v.mean())} %", "Arancel general (NMF) promedio en 2026", f"Promedio simple de {num(n, 0)} subpartidas. Con el acuerdo, Paraguay entra con 0 %."),
+        (f"{num(v.mean())} %", f"Arancel general (NMF) promedio en {anio}", f"Promedio simple de {num(n, 0)} subpartidas. Con el acuerdo, Paraguay entra con 0 % en casi todo."),
         (f"{num(100 * libres / n, 0)} %", "Productos que entran libres para todos", f"{num(libres, 0)} subpartidas con arancel 0. En el resto, el acuerdo le da a Paraguay una ventaja frente a terceros."),
         (f"{num(100 * altos / n, 0)} %", "Productos con arancel de 20 % o más", f"{num(altos, 0)} subpartidas: ahí la preferencia del acuerdo vale más."),
         (f"{num(techo, 0)} %", "Techo consolidado en la OMC", "Lo máximo que puede cobrar a quienes no tienen acuerdo (valor más frecuente)."),
     ]
     cards = "".join(f'<div class="card"><div class="v">{v_}</div><h3>{h}</h3><p>{p}</p><div class="src">OMC, Tariff &amp; Trade Data</div></div>'
                     for v_, h, p in tarjetas)
-    return (f'<h2>Qué tan protegido está el mercado de {socio}</h2>\n<p>{contexto}</p>\n<div class="disp">{cards}</div>\n'
+    return (f'<h2>Qué tan protegido está el mercado de {socio}</h2>\n<p>{contexto}</p>\n<div class="disp dos">{cards}</div>\n'
             f'<h3>Dónde se concentran los aranceles altos</h3>\n<div class="card"><div class="grupos">{barras}</div>'
             '<p class="note">Arancel NMF aplicado promedio por capítulo del Sistema Armonizado (capítulos con 5 subpartidas o más). '
             f'Aranceles por subpartida: <a href="tablas/aranceles_{pais}_omc.csv" download>CSV</a> · <a href="tablas/aranceles_{pais}_omc.xlsx" download>Excel</a>. '
