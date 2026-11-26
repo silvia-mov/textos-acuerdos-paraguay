@@ -152,6 +152,12 @@ def normas_ace35():
             '</tbody></table></div><p class="note">Descargar: <a href="tablas/normas_paraguay.csv" download>CSV</a> · <a href="tablas/normas_paraguay.xlsx" download>Excel</a>.</p>')
 
 
+def kpi_uso(codigo, socio):
+    """Dato del encabezado: qué parte de lo exportado al socio usó una preferencia (último año completo, DNIT)."""
+    a, exp, pct = uso.resumen(codigo, 2011)
+    return f"{uso.num(pct, 0)} %", f"de lo que Paraguay exportó a {socio} en {a} usó una preferencia (USD {uso.num(exp)} millones exportados)"
+
+
 def vigencia_ace35():
     d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_vigencia_61_69.csv", dtype=str).fillna("")
     filas = "".join(f'<tr><td>{r.PROTOCOLO}</td><td>{e(r.SINTESIS)}</td><td>{e(r.VIGENCIA_PARAGUAY_CHILE)}</td><td class="chica">{e(r.NORMA_PARAGUAY)}</td><td class="chica">{e(r.OTRAS_VIGENCIAS)}</td></tr>'
@@ -203,7 +209,7 @@ ACUERDOS = [
         lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto, incluido el "
              "Acuerdo Comercial Chile–Paraguay de 2021. Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
         kpis=[("25/06/1996", "firmado en Potrero de los Funes (Argentina)"), ("1/10/1996", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("140", "documentos ordenados")],
+              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), kpi_uso("CL", "Chile")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
                ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100 % en 2006; un listado, en 2008).", True),
@@ -252,7 +258,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
         lead="El texto del Acuerdo de 2005, sus 10 anexos y los 6 protocolos adicionales, tomados de la ALADI y pasados a texto. "
              "Y un buscador para ver, producto por producto, cuándo llegó al 100 % la preferencia entre Paraguay y Perú.",
         kpis=[("30/11/2005", "firmado en Montevideo"), ("6.522", "productos en las listas Paraguay–Perú"),
-              ("2012 y 2017", "años en que casi todo llegó al 100 %"), ("37", "documentos ordenados")],
+              ("2012 y 2017", "años en que casi todo llegó al 100 %"), kpi_uso("PE", "Perú")],
         linea=[("30/11/2005", "Firma del Acuerdo; se protocoliza en la ALADI el 7/12/2005. Reemplaza al AAP.R N° 20.", False),
                ("Inicio", "Desgravación inmediata para los productos de categoría A.", False),
                ("2007", "Protocolo 4: Perú confirma a Paraguay 95 % de preferencia para el maíz amarillo duro, con cupo anual de 60.000 toneladas.", True),
@@ -303,7 +309,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         h1="ACE 36: el acuerdo del MERCOSUR con <em>Bolivia</em>, completo y en un solo lugar",
         lead="El texto del Acuerdo de 1996, sus 11 anexos, el Protocolo de Integración Física y los 34 protocolos adicionales, tomados de la ALADI y pasados a texto.",
         kpis=[("17/12/1996", "firmado en Fortaleza (Brasil)"), ("28/02/1997", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), ("66", "documentos ordenados")],
+              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), kpi_uso("BO", "Bolivia")],
         linea=[("17/12/1996", "Firma del Acuerdo.", False),
                ("28/02/1997", "Empiezan las preferencias; el Anexo 7 tiene 100 % desde el inicio.", False),
                ("2004", "Protocolo 19: Argentina, Brasil y Paraguay suman productos con 100 % para Bolivia (Anexo 7).", True),
@@ -332,7 +338,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         h1="ACE 59: el acuerdo del MERCOSUR con <em>Colombia, Ecuador y Venezuela</em>",
         lead="El texto del Acuerdo de 2004, sus 9 anexos, los 9 protocolos adicionales y todas las listas en las que participa Paraguay, tomados de la ALADI y pasados a texto.",
         kpis=[("18/10/2004", "firmado en Montevideo"), ("9", "protocolos adicionales"),
-              ("35", "documentos pasados a texto (de 65)"), ("ACE 72", "rige hoy la relación de Paraguay con Colombia")],
+              kpi_uso("EC", "Ecuador"), ("ACE 72", "rige hoy la relación de Paraguay con Colombia")],
         linea=[("18/10/2004", "Firma del Acuerdo.", False),
                ("2005", "Protocolo 1: Régimen de Solución de Controversias.", False),
                ("2006", "Protocolo 4: cambia las notas de los capítulos 61 a 63 en las listas entre Ecuador y Paraguay.", True),
@@ -402,6 +408,16 @@ def portada():
 </body>
 </html>
 """
+
+
+def kpi_ace72():
+    p = DOCS / "ace72" / "index.html"
+    h = p.read_text(encoding="utf-8")
+    import re
+    v, l = kpi_uso("CO", "Colombia")
+    h = re.sub(r'<div class="kpi"><div class="v">[^<]*</div><div class="l">(documentos, elegidos entre[^<]*|de lo que Paraguay exportó a Colombia[^<]*)</div></div>',
+               f'<div class="kpi"><div class="v">{v}</div><div class="l">{l}</div></div>', h)
+    p.write_text(h, encoding="utf-8")
 
 
 def uso_ace72():
@@ -512,6 +528,7 @@ def bilaterales_ace72():
 
 
 def main():
+    kpi_ace72()
     uso_ace72()
     bilaterales_ace72()
     contingentes_ace72()
