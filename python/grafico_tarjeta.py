@@ -3,6 +3,7 @@ Uso: python python/grafico_tarjeta.py  -> docs/img/tarjeta_light.png y tarjeta_d
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import tipografia  # noqa: E402,F401  (Fraunces + Source Sans 3)
 
 # (acuerdo, firma, año en que el último cronograma llegó a 100%) — fechas de los textos de la ALADI
 A = [("ACE 35 Chile", 1996.48, 2014), ("ACE 36 Bolivia", 1996.96, 2014), ("ACE 58 Perú", 2005.91, 2017),
