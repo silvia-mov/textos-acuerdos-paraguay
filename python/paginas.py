@@ -10,6 +10,8 @@ from pathlib import Path
 
 import pandas as pd
 
+import uso
+
 RAIZ = Path(__file__).resolve().parent.parent
 DOCS = RAIZ / "docs"
 URL = "https://silvia-mov.github.io/textos-acuerdos-paraguay/"
@@ -101,6 +103,8 @@ def pagina(a):
 
 <h2>Disposiciones especiales para Paraguay</h2>
 <div class="disp">{disp}</div>
+{a.get("uso", "")}
+<p class="note">{uso.NOTA}</p>
 {a.get("productos", "")}
 {titulos}
 <h2>Buscá en el texto</h2>
@@ -138,7 +142,8 @@ BUSCA = """<h2>Buscá un producto</h2>
 
 ACUERDOS = [
     dict(
-        carpeta="ace35", sigla="ALADI/AAP.CE/35", nombre="MERCOSUR–Chile", socio="Chile",
+        carpeta="ace35", uso=uso.seccion("CL", "Chile", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011. La caída de 2012 también aparece en el BCP "
+                    "(USD 192 millones): ese año la carne paraguaya tuvo mercados cerrados por la fiebre aftosa."), sigla="ALADI/AAP.CE/35", nombre="MERCOSUR–Chile", socio="Chile",
         titulo="ACE 35 MERCOSUR–Chile: texto completo, protocolos y régimen de origen para Paraguay",
         descripcion="El ACE 35 (MERCOSUR–Chile) ordenado y buscable: texto del Acuerdo, 14 anexos, 69 protocolos adicionales, "
                     "el régimen de origen de 2025 y la lista especial de origen para las exportaciones de Paraguay a Chile.",
@@ -176,7 +181,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
              "<p><b>Lo que falta:</b> el Anexo 9 y el Anexo 15 no estaban entre los archivos reunidos. Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
-        carpeta="ace58", sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
+        carpeta="ace58", uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",
         descripcion="El ACE 58 (MERCOSUR–Perú) ordenado y buscable: texto del Acuerdo, 10 anexos, 6 protocolos y un buscador "
                     "con el cronograma de desgravación de cada producto entre Paraguay y Perú.",
@@ -228,7 +233,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 37 archivos que publica la <b>ALADI</b> para el ACE 58. Casi todo está escaneado: 31 documentos (1.946 páginas) se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas Paraguay–Perú se leyeron dos veces: primero borrando las líneas de las tablas y separando las columnas por su posición en la página, y después con el texto corrido para completar lo que faltaba. Se descartaron los códigos que no existen en la NALADISA 96 (errores de lectura). Quedan sin cronograma cerca de 900 productos del lado de Perú y 600 del de Paraguay: lecturas fallidas o productos con dos o más cronogramas, que están como texto en los Apéndices VII y VIII.</p>"),
     dict(
-        carpeta="ace36", sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
+        carpeta="ace36", uso=uso.seccion("BO", "Bolivia", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
         titulo="ACE 36 MERCOSUR–Bolivia: texto completo, anexos y protocolos",
         descripcion="El ACE 36 (MERCOSUR–Bolivia) ordenado y buscable: texto del Acuerdo, 11 anexos, el Protocolo de "
                     "Integración Física y 34 protocolos adicionales, con fecha y síntesis de cada uno.",
@@ -254,7 +259,10 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 66 archivos que publica la <b>ALADI</b> para el ACE 36. 38 tienen texto y se leyeron con <code>pdftotext</code>; 28 eran imágenes escaneadas (1.594 páginas) y se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas de productos de 1996 (Anexos 1 a 8) quedan como texto: no se pasaron a tablas porque sus cronogramas terminaron (el último, en 2014).</p>"),
     dict(
-        carpeta="ace59", sigla="ALADI/AAP.CE/59", nombre="MERCOSUR–Colombia, Ecuador y Venezuela", socio="Ecuador",
+        carpeta="ace59", uso=uso.seccion("EC", "Ecuador", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011.") + "\n" +
+            uso.seccion("VE", "Venezuela", 2011, titulo="Y para venderle a Venezuela") + "\n" +
+            uso.seccion("CO", "Colombia", 2011, hasta=2018, titulo="Colombia, mientras regía el ACE 59 (2011–2018)",
+                        texto_extra="Desde 2019, el comercio con Colombia se rige por el ACE 72 (ver su página)."), sigla="ALADI/AAP.CE/59", nombre="MERCOSUR–Colombia, Ecuador y Venezuela", socio="Ecuador",
         titulo="ACE 59 MERCOSUR–Colombia, Ecuador y Venezuela: texto completo y listas de Paraguay",
         descripcion="El ACE 59 (MERCOSUR–Comunidad Andina) ordenado y buscable: texto del Acuerdo, 9 anexos, 9 protocolos y "
                     "todas las listas de preferencias y de origen en las que participa Paraguay.",
@@ -333,7 +341,20 @@ def portada():
 """
 
 
+def uso_ace72():
+    p = DOCS / "ace72" / "index.html"
+    h = p.read_text(encoding="utf-8")
+    i = h.index("<h2>Paraguay usa poco el acuerdo")
+    j = h.index("</p>", h.index('<p class="note">', i)) + 4
+    nuevo = (uso.seccion("CO", "Colombia", 2019, titulo="Paraguay usa poco el acuerdo para venderle a Colombia",
+                         texto_extra=" El acuerdo rige entre Paraguay y Colombia desde el 29/01/2019; el cambio de 2019 se compara con 2018, "
+                                     "cuando regía el ACE 59.")
+             + '\n<p class="note">' + uso.NOTA + " Las importaciones desde Colombia con el ACE 72 fueron USD 30,2 millones en 2025.</p>")
+    p.write_text(h[:i] + nuevo + h[j:], encoding="utf-8")
+
+
 def main():
+    uso_ace72()
     print("JSON de productos:", productos_json())
     for a in ACUERDOS:
         (DOCS / a["carpeta"] / "index.html").write_text(pagina(a), encoding="utf-8")
