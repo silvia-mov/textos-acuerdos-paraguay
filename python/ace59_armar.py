@@ -58,6 +58,9 @@ def identificar(b):
         k, a, c = m.groups()
         return (f"anexo_iv_ap_3_{int(k)}", f"Anexo IV, Apéndice 3.{int(k)}: requisitos específicos de origen {PAIS[a]}–{PAIS[c]}",
                 "Anexos", True)
+    if b == "ACE_059_Guia_BR_Siscomex":
+        return ("guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 59 con Ecuador, resumen del Acuerdo y de sus protocolos "
+                "(en portugués)", "Guías de otros países", False)
     return None
 
 
@@ -65,7 +68,8 @@ def main(carpeta_pdf, ocr, excluir):
     pdfs = [p.stem for p in Path(carpeta_pdf).glob("ACE_059_*.pdf")]
     sin = {b: "no transcripta: lista entre otros países (Paraguay no participa)" for b in pdfs if re.search(excluir, b)}
     armar("ace59", "ACE_059_", identificar, carpeta_pdf, ocr, sin, {"protocolo_1": "Establece el Régimen de Solución de "
-          "Controversias del Acuerdo (negociaciones directas, Comisión Administradora y arbitraje)."})
+          "Controversias del Acuerdo (negociaciones directas, Comisión Administradora y arbitraje)."},
+          extras=["ACE_059_Guia_BR_Siscomex"])
 
 
 if __name__ == "__main__":

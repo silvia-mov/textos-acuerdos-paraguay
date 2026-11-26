@@ -298,7 +298,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
   }};
 </script>""",
         ejemplo="Por ejemplo: zona franca, medidas especiales, certificado de origen",
-        grupos=["Acuerdo", "Programa de Liberación", "Anexos", "Protocolos adicionales"],
+        grupos=["Acuerdo", "Programa de Liberación", "Anexos", "Protocolos adicionales", "Guías de otros países"],
         descargas=[("Preferencias Paraguay–Perú, una fila por producto", "tablas/preferencias_paraguay_peru"),
                    ("Lista de Paraguay a Perú (Apéndice I-B)", "tablas/paraguay_a_peru"),
                    ("Lista de Perú a Paraguay (Apéndice II-B)", "tablas/peru_a_paraguay")],
@@ -354,7 +354,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
             ("Origen", "requisitos bilaterales", "Requisitos específicos de origen de Paraguay con Colombia, Ecuador y Venezuela (Apéndices 3.7, 3.8 y 3.9).", "Anexo IV"),
             ("Textiles", "Ecuador–Paraguay", "El Protocolo 4 cambia las notas de los capítulos 61, 62 y 63 en las listas entre Ecuador y Paraguay.", "Protocolo 4 (2006)")],
         ejemplo="Por ejemplo: medidas especiales, certificado de origen, salvaguardia",
-        grupos=["Acuerdo", "Anexos", "Programa de Liberación", "Protocolos adicionales"],
+        grupos=["Acuerdo", "Anexos", "Programa de Liberación", "Protocolos adicionales", "Guías de otros países"],
         descargas=[],
         como="<p>Se tomaron los 65 archivos que publica la <b>ALADI</b> para el ACE 59. Se pasaron a texto el Acuerdo, sus anexos, los protocolos y todas las listas en las que participa Paraguay (24 con OCR, 1.695 páginas). Las 30 listas entre otros países (por ejemplo, Colombia–Argentina) figuran en el catálogo como «no transcriptas».</p>"
              "<p>Las listas quedan como texto: todavía no se pasaron a tablas.</p>"),
@@ -524,7 +524,7 @@ def bilaterales_ace72():
     h = p.read_text(encoding="utf-8")
     ini, fin = "<!-- bilaterales -->", "<!-- /bilaterales -->"
     if ini in h:
-        h = h[:h.index(ini)] + h[h.index(fin) + len(fin):]
+        h = h[:h.index(ini)] + h[h.index(fin) + len(fin):].lstrip("\n")
     sec = ini + "\n" + bilaterales("ace72_colombia", "Colombia", "ace72") + "\n" + fin + "\n\n"
     i = h.index("<h2>Qué dice el Acuerdo")
     p.write_text(h[:i] + sec + h[i:], encoding="utf-8")
@@ -535,7 +535,7 @@ def aranceles_ace72():
     h = p.read_text(encoding="utf-8")
     ini, fin = "<!-- aranceles -->", "<!-- /aranceles -->"
     if ini in h:
-        h = h[:h.index(ini)] + h[h.index(fin) + len(fin):]
+        h = h[:h.index(ini)] + h[h.index(fin) + len(fin):].lstrip("\n")
     sec = ini + "\n" + aranceles.seccion("colombia", "Colombia", "ace72", DOCS,
         "Colombia cobra 6,7 % de promedio y la mitad de los productos entra libre para todos, pero tiene picos altos justo en lo que Paraguay "
         "vende o podría vender: 33 % para la carne, 38 % para los lácteos y 40 % para las prendas. Ahí la preferencia del ACE 72 "

@@ -76,6 +76,9 @@ def identificar(b):
     m = re.fullmatch(r"ACE_058_Anexo_005_Apen_00(\d)", b)
     if m:
         return f"anexo_v_apendice_{m.group(1)}", "Anexo V, " + APENDICES_V[int(m.group(1))], "Anexos"
+    if b == "ACE_058_Guia_BR_Siscomex":
+        return ("guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 58, resumen del Acuerdo y de sus protocolos (en portugués)",
+                "Guías de otros países")
     raise ValueError(b)
 
 
@@ -84,7 +87,7 @@ def main(carpeta_pdf, ocr, tsv=None):
     (SALIDA / "textos").mkdir(parents=True, exist_ok=True)
     (SALIDA / "tablas").mkdir(exist_ok=True)
     filas, textos = [], []
-    for pdf in sorted(carpeta_pdf.glob("ACE_058_*.pdf")):
+    for pdf in sorted(carpeta_pdf.glob("ACE_058_*.pdf")) + [carpeta_pdf / "ACE_058_Guia_BR_Siscomex.pdf"]:
         id_, titulo, grupo = identificar(pdf.stem)
         bruto, lectura = leer(pdf.stem, ocr)
         tabla = "apendice" in id_ or id_ == "anexo_iv"
@@ -94,7 +97,7 @@ def main(carpeta_pdf, ocr, tsv=None):
             sin = "Establece el Régimen de Solución de Controversias del Acuerdo (consultas, Comisión Administradora y arbitraje)."
         paginas = bruto.count("\f") + 1
         filas.append({"ID": id_, "TITULO": titulo, "SINTESIS": sin, "GRUPO": grupo, "FECHA": fecha(bruto),
-                      "ARCHIVO_ALADI": pdf.name, "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
+                      "ARCHIVO_ALADI": pdf.name if pdf.exists() else "(Siscomex, Brasil)", "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if tabla else ""})
         (SALIDA / "textos" / f"{id_}.txt").write_text(t, encoding="utf-8")
         textos.append({"id": id_, "titulo": titulo, "sintesis": sin, "grupo": grupo, "fecha": fecha(bruto),
                        "paginas": paginas, "lectura": lectura, "tabla": tabla, "texto": t})

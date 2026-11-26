@@ -52,6 +52,9 @@ def identificar(b):
         if resto.startswith("ACR"):
             return f"{base}_acta_rectificacion_{k}", f"{tit}: Acta de Rectificación N° {k}", "Protocolos adicionales", False
         return f"{base}_anexo_{k}", f"{tit}: Anexo {k}", "Protocolos adicionales", False
+    if b == "ACE_036_Guia_BR_Ficha_Tecnica":
+        return ("guia_brasil_ficha_tecnica", "Brasil (MDIC): Ficha técnica del régimen de origen del ACE 36, 2025 (en portugués)",
+                "Guías de otros países", False)
     if b == "ACE_036_Guia_BR_Siscomex":
         return ("guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 36, resumen del Acuerdo y de sus protocolos (en portugués)",
                 "Guías de otros países", False)
@@ -59,4 +62,4 @@ def identificar(b):
 
 
 if __name__ == "__main__":
-    armar("ace36", "ACE_036_", identificar, sys.argv[1], sys.argv[2], extras=["ACE_036_Guia_BR_Siscomex"])
+    armar("ace36", "ACE_036_", identificar, sys.argv[1], sys.argv[2], extras=["ACE_036_Guia_BR_Ficha_Tecnica", "ACE_036_Guia_BR_Siscomex"])
