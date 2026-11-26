@@ -52,8 +52,11 @@ def identificar(b):
         if resto.startswith("ACR"):
             return f"{base}_acta_rectificacion_{k}", f"{tit}: Acta de Rectificación N° {k}", "Protocolos adicionales", False
         return f"{base}_anexo_{k}", f"{tit}: Anexo {k}", "Protocolos adicionales", False
+    if b == "ACE_036_Guia_BR_Siscomex":
+        return ("guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 36, resumen del Acuerdo y de sus protocolos (en portugués)",
+                "Guías de otros países", False)
     return None   # ficha de la ALADI y otros
 
 
 if __name__ == "__main__":
-    armar("ace36", "ACE_036_", identificar, sys.argv[1], sys.argv[2])
+    armar("ace36", "ACE_036_", identificar, sys.argv[1], sys.argv[2], extras=["ACE_036_Guia_BR_Siscomex"])

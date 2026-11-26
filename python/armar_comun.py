@@ -13,7 +13,8 @@ from ace35_armar import leer, limpiar, fecha, sintesis
 RAIZ = Path(__file__).resolve().parent.parent
 
 
-def armar(carpeta, prefijo, identificar, carpeta_pdf, ocr, sin_transcribir=None, sintesis_fija=None):
+def armar(carpeta, prefijo, identificar, carpeta_pdf, ocr, sin_transcribir=None, sintesis_fija=None, extras=()):
+    """extras: nombres de documentos sin PDF de la ALADI (texto en python/datos/otros)."""
     """sin_transcribir: {nombre_de_archivo: motivo} para los archivos que están en la carpeta pero no se pasaron a
     texto (por ejemplo, listas entre otros países). Quedan en el catálogo con su motivo."""
     salida = RAIZ / "docs" / carpeta
@@ -22,7 +23,7 @@ def armar(carpeta, prefijo, identificar, carpeta_pdf, ocr, sin_transcribir=None,
     carpeta_pdf, ocr = Path(carpeta_pdf), Path(ocr)
     sin_transcribir = sin_transcribir or {}
     filas, textos = [], []
-    for pdf in sorted(carpeta_pdf.glob(f"{prefijo}*.pdf")):
+    for pdf in sorted(carpeta_pdf.glob(f"{prefijo}*.pdf")) + [carpeta_pdf / f"{x}.pdf" for x in extras]:
         r = identificar(pdf.stem)
         if r is None:
             continue
@@ -41,7 +42,7 @@ def armar(carpeta, prefijo, identificar, carpeta_pdf, ocr, sin_transcribir=None,
         f = fecha(bruto)
         paginas = bruto.count("\f") + 1
         filas.append({"ID": id_, "TITULO": titulo, "SINTESIS": sin, "GRUPO": grupo, "FECHA": f,
-                      "ARCHIVO_ALADI": pdf.name, "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if lista else ""})
+                      "ARCHIVO_ALADI": pdf.name if pdf.exists() else "(Siscomex, Brasil)", "PAGINAS": paginas, "LECTURA": lectura, "LISTA": "sí" if lista else ""})
         (salida / "textos" / f"{id_}.txt").write_text(t, encoding="utf-8")
         textos.append({"id": id_, "titulo": titulo, "sintesis": sin, "grupo": grupo, "fecha": f, "paginas": paginas,
                        "lectura": lectura, "tabla": lista, "texto": t})

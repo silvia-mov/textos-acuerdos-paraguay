@@ -60,6 +60,8 @@ def identificar(b):
         return "ley_py_1038_1997", "Paraguay, Ley N° 1.038/1997: aprueba el Acuerdo y el Protocolo sobre Integración Física", "Normas de Paraguay"
     if b == "ACE_035_Guia_BR_Ficha_Tecnica":
         return "guia_brasil_ficha_tecnica", "Brasil (MDIC): Ficha técnica del régimen de origen del ACE 35, 2025 (en portugués)", "Guías de otros países"
+    if b == "ACE_035_Guia_BR_Siscomex":
+        return "guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 35, resumen del Acuerdo y de sus protocolos (en portugués)", "Guías de otros países"
     if b == "ACE_035_Guia_BR_Manual_Origen":
         return "guia_brasil_manual_origen", "Brasil (MDIC): Manual del Régimen de Origen del ACE 35 (en portugués)", "Guías de otros países"
     if b == "ACE_035_Notas_PY":
