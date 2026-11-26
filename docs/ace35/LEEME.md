@@ -25,3 +25,4 @@ Los textos base de los Protocolos 21, 31, 39, 52 y 53 no están, pero sí sus ve
 - `tablas/chile_a_paraguay_margenes_iniciales_1996` (243) y `paraguay_a_chile_margenes_iniciales_1996` (95): Anexo 10 completo desde el SICE (a_10ch_1 a 7 y a_10ms_1 a 4).
 - Siscomex (Brasil): ficha técnica y manual del régimen de origen (portugués), Decisión 02/2024 de la Comisión Administradora Brasil–Chile (OCR) y planilla NALADISA 2012 con 100 % en los 6.811 códigos (`tablas/naladisa_2012_preferencias_chile`). Fuentes en `python/datos/otros/`.
 - `tablas/normas_paraguay`: ley y decretos con los que Paraguay incorporó el ACE 35 y sus protocolos (buscador de decretos de la Presidencia, Gaceta Oficial, ficha del MIC). Texto de la Ley N° 1.038/1997 en `textos/ley_py_1038_1997.txt`.
+- `tablas/acuerdos_bilaterales_paraguay_chile`: 11 acuerdos bilaterales Paraguay–Chile ligados al comercio, de la consulta de tratados del MRE (títulos).

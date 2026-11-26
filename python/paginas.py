@@ -163,7 +163,18 @@ def vigencia_ace35():
             + filas + "</tbody></table></div>")
 
 
-VIG35 = vigencia_ace35() + normas_ace35()
+def bilaterales_ace35():
+    d = pd.read_csv(Path(__file__).resolve().parent / "datos" / "ace35_bilaterales_mre.csv", dtype=str).fillna("")
+    filas = "".join(f'<tr><td>{e(r.FECHA)}</td><td>{e(r.ACUERDO)}</td><td class="chica">{e(r.TEMA)}</td></tr>' for r in d.itertuples())
+    return ('<h2>Otros acuerdos bilaterales de Paraguay con Chile ligados al comercio</h2>\n'
+            '<p class="chica">No forman parte del ACE 35, pero lo complementan: depósitos francos en puertos, inversiones, doble imposición y promoción de exportaciones. '
+            'Fuente: consulta de tratados del Ministerio de Relaciones Exteriores del Paraguay (solo los títulos; los textos no están aquí).</p>\n'
+            '<div class="tw"><table><thead><tr><th>Fecha</th><th>Acuerdo</th><th>Tema</th></tr></thead><tbody>' + filas +
+            '</tbody></table></div><p class="note">Descargar: <a href="tablas/acuerdos_bilaterales_paraguay_chile.csv" download>CSV</a> · '
+            '<a href="tablas/acuerdos_bilaterales_paraguay_chile.xlsx" download>Excel</a>.</p>')
+
+
+VIG35 = vigencia_ace35() + normas_ace35() + bilaterales_ace35()
 ARANCELES_CHILE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 <p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
 <div class="disp">
