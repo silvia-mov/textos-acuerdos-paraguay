@@ -84,6 +84,7 @@ def pagina(a):
 <meta property="og:image" content="{URL}img/tarjeta_light.png">
 <meta name="twitter:card" content="summary_large_image">
 <script>(function(){{try{{var x=localStorage.getItem("tema");if(x==="light"||x==="dark")document.documentElement.setAttribute("data-theme",x);}}catch(e){{}}}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Source+Sans+3:ital,wght@0,400..700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../comun.css">
 </head>
 <body>
@@ -156,7 +157,7 @@ def normas_ace35():
 def kpi_uso(codigo, socio):
     """Dato del encabezado: qué parte de lo exportado al socio usó una preferencia (último año completo, DNIT)."""
     a, exp, pct = uso.resumen(codigo, 2011)
-    return f"{uso.num(pct, 0)} %", f"de lo que Paraguay exportó a {socio} en {a} usó una preferencia (USD {uso.num(exp)} millones exportados)"
+    return f"{uso.num(pct, 0)}%", f"de lo que Paraguay exportó a {socio} en {a} usó una preferencia (USD {uso.num(exp)} millones exportados)"
 
 
 def vigencia_ace35():
@@ -189,12 +190,12 @@ def bilaterales(clave, socio, carpeta, nota="No forman parte del acuerdo, pero l
 
 VIG35 = vigencia_ace35() + normas_ace35() + bilaterales("ace35_chile", "Chile", "ace35", "No forman parte del ACE 35, pero lo complementan: depósitos francos en puertos, inversiones, doble imposición y promoción de exportaciones.")
 ARANCELES_CHILE_BASE = """<h2>Qué tan protegido está el mercado de Chile</h2>
-<p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0 % donde otros países pagan 6 %.</p>
+<p>Chile tiene uno de los aranceles más bajos y parejos de la región: casi todo paga lo mismo, así que no hay sectores con picos. Con el ACE 35, Paraguay entra con 0% donde otros países pagan 6%.</p>
 <div class="disp">
-<div class="card"><div class="v">6 %</div><h3>Arancel general (NMF) en 2026</h3><p>Lo paga el 99,4 % de los productos (5.572 de 5.604 subpartidas). Promedio simple: 5,98 %.</p><div class="src">OMC, base de datos integrada, SA 2022</div></div>
-<div class="card"><div class="v">0 %</div><h3>Las pocas excepciones</h3><p>Solo 32 subpartidas pagan menos de 6 %: sobre todo aeronaves, drones y barcos, y algunos libros e impresos.</p><div class="src">OMC, base de datos integrada</div></div>
-<div class="card"><div class="v">31,5 %</div><h3>Techo consolidado en la OMC</h3><p>Chile puede subir hasta 25 % casi todo y hasta 31,5 % lácteos, trigo, harina y semillas oleaginosas, entre otros. Hoy aplica mucho menos.</p><div class="src">OMC, lista de concesiones de Chile</div></div>
-<div class="card"><div class="v">98 %</div><h3>Azúcar: el techo más alto</h3><p>Para el azúcar (partida 1701) el techo es 98 %, por el sistema de bandas de precios, que el Artículo 24 del ACE 35 congeló para el MERCOSUR.</p><div class="src">OMC; ACE 35, Artículo 24</div></div>
+<div class="card"><div class="v">6%</div><h3>Arancel general (NMF) en 2026</h3><p>Lo paga el 99,4% de los productos (5.572 de 5.604 subpartidas). Promedio simple: 5,98%.</p><div class="src">OMC, base de datos integrada, SA 2022</div></div>
+<div class="card"><div class="v">0%</div><h3>Las pocas excepciones</h3><p>Solo 32 subpartidas pagan menos de 6%: sobre todo aeronaves, drones y barcos, y algunos libros e impresos.</p><div class="src">OMC, base de datos integrada</div></div>
+<div class="card"><div class="v">31,5%</div><h3>Techo consolidado en la OMC</h3><p>Chile puede subir hasta 25% casi todo y hasta 31,5% lácteos, trigo, harina y semillas oleaginosas, entre otros. Hoy aplica mucho menos.</p><div class="src">OMC, lista de concesiones de Chile</div></div>
+<div class="card"><div class="v">98%</div><h3>Azúcar: el techo más alto</h3><p>Para el azúcar (partida 1701) el techo es 98%, por el sistema de bandas de precios, que el Artículo 24 del ACE 35 congeló para el MERCOSUR.</p><div class="src">OMC; ACE 35, Artículo 24</div></div>
 </div>
 <!--comp-->
 <p class="note">Aranceles por subpartida de 6 dígitos (aplicado 2026 y consolidado): <a href="tablas/aranceles_chile_omc.csv" download>CSV</a> · <a href="tablas/aranceles_chile_omc.xlsx" download>Excel</a>. Fuente: OMC, Tariff &amp; Trade Data (descargado el 26/11/2026). El arancel aplicado de la OMC no incluye las preferencias del ACE 35.</p>"""
@@ -212,14 +213,14 @@ ACUERDOS = [
         lead="El texto del Acuerdo de 1996, sus anexos y los 69 protocolos adicionales, tomados de la ALADI y pasados a texto, incluido el "
              "Acuerdo Comercial Chile–Paraguay de 2021. Y un buscador con el régimen de origen vigente, que tiene una lista propia para lo que Paraguay le vende a Chile.",
         kpis=[("25/06/1996", "firmado en Potrero de los Funes (Argentina)"), ("1/10/1996", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), kpi_uso("CL", "Chile")],
+              ("2014", "último cronograma: desde entonces todo tiene 100% de preferencia"), kpi_uso("CL", "Chile")],
         linea=[("25/06/1996", "Firma del Acuerdo.", False),
                ("1/10/1996", "Empiezan las preferencias para todo el universo de productos.", False),
-               ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100 % en 2006; un listado, en 2008).", True),
-               ("2004", "100 % para el cronograma general y el Anexo 1.", False),
-               ("2006", "100 % para los Anexos 2 y 3.", False),
-               ("2011 y 2012", "100 % para los productos sensibles (Anexos 6 y 8).", False),
-               ("2014", "100 % para el Anexo 9: termina el Programa de Liberación.", False),
+               ("2003", "Protocolo 37: trato Chile–Paraguay de las autopartes del Anexo 4 (100% en 2006; un listado, en 2008).", True),
+               ("2004", "100% para el cronograma general y el Anexo 1.", False),
+               ("2006", "100% para los Anexos 2 y 3.", False),
+               ("2011 y 2012", "100% para los productos sensibles (Anexos 6 y 8).", False),
+               ("2014", "100% para el Anexo 9: termina el Programa de Liberación.", False),
                               ("05/11/2019", "Protocolo 63: entra en vigor un nuevo Régimen de Origen (Paraguay: Decreto N° 1.274/2019).", True),
                ("1/12/2021", "Paraguay y Chile firman en Santiago un Acuerdo Comercial bilateral de 19 capítulos.", True),
                ("15/02/2022", "Protocolo 66: ese Acuerdo Comercial Chile–Paraguay se incorpora al ACE 35 (rige solo entre los dos países).", True),
@@ -228,13 +229,13 @@ ACUERDOS = [
                ("24/11/2025", "Entra en vigor entre Paraguay y Chile el Protocolo 69, con el Régimen de Origen actual (Paraguay: Decreto N° 4.638/2025).", True)],
         disposiciones=[
             ("19", "capítulos del Acuerdo Comercial Chile–Paraguay", "Facilitación del comercio, buenas prácticas regulatorias, medidas sanitarias, obstáculos técnicos, servicios, comercio electrónico, competencia, mipymes, cadenas de valor, asuntos laborales, medio ambiente, género, cooperación, transparencia y anticorrupción, administración y solución de controversias.", "Protocolo 66, vigente desde el 14/02/2024"),
-            ("194", "productos con origen diferenciado", "Para lo que Paraguay exporta a Chile hay requisitos de origen propios (Apéndice 2 del Régimen de Origen), en general salto de partida o 50 % de contenido regional.", "Protocolos 68 y 69"),
+            ("194", "productos con origen diferenciado", "Para lo que Paraguay exporta a Chile hay requisitos de origen propios (Apéndice 2 del Régimen de Origen), en general salto de partida o 50% de contenido regional.", "Protocolos 68 y 69"),
             ("2038", "plazo del origen diferenciado", "Vence el 31/12/2038 y se extiende de a cinco años, salvo que Paraguay o Chile avisen con nueve meses de anticipación.", "Protocolo 69, Anexo, art. 4.7"),
             ("Puertos", "valor de los materiales para Paraguay", "Para calcular el valor de los materiales no originarios, Paraguay puede tomar como destino cualquier puerto marítimo o fluvial de las Partes, incluidos depósitos y zonas francas.", "Protocolo 69, Anexo, definiciones"),
-            ("Autopartes", "trato Chile–Paraguay del Anexo 4", "Cronograma propio: 100 % en 2006 y, para un listado de autopartes, en 2008.", "Protocolo 37 (2003)"),
+            ("Autopartes", "trato Chile–Paraguay del Anexo 4", "Cronograma propio: 100% en 2006 y, para un listado de autopartes, en 2008.", "Protocolo 37 (2003)"),
             ("Carne", "cupos de Chile a Paraguay", "Cupos de carne bovina en el Anexo 7, ajustados por los Protocolos 2 (1997) y 29 (2002, 3.500 toneladas de carne congelada).", "Protocolos 2 y 29"),
-            ("298", "productos con arancel residual de Paraguay", "Paraguay cobraba a Chile un arancel propio (Lista de Adecuación) para 298 productos, por ejemplo 27 % para la carne en 1996; bajó año a año hasta 0 % en 2006.", "Anexo 12, Paraguay"),
-            ("50 %", "márgenes iniciales de 1996", "En el Anexo 10, Chile dio a Paraguay márgenes iniciales de 50 % o 34 % para 243 productos (aves, huevos, tomates, avena y otros); Paraguay dio a Chile 30 % o 12 % para 95. Hoy todos tienen 100 %.", "Anexo 10")],
+            ("298", "productos con arancel residual de Paraguay", "Paraguay cobraba a Chile un arancel propio (Lista de Adecuación) para 298 productos, por ejemplo 27% para la carne en 1996; bajó año a año hasta 0% en 2006.", "Anexo 12, Paraguay"),
+            ("50%", "márgenes iniciales de 1996", "En el Anexo 10, Chile dio a Paraguay márgenes iniciales de 50% o 34% para 243 productos (aves, huevos, tomates, avena y otros); Paraguay dio a Chile 30% o 12% para 95. Hoy todos tienen 100%.", "Anexo 10")],
         despues_uso=VIG35, aranceles=ARANCELES_CHILE,
         productos=BUSCA.format(texto="Requisitos específicos de origen del régimen vigente (Protocolo 69): los que valen para todas las Partes y los especiales para lo que Paraguay exporta a Chile.", ej="soja, 3923, prendas"),
         script="""<script>
@@ -249,49 +250,49 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
                    ("Márgenes iniciales de Chile a Paraguay en 1996 (Anexo 10, 243 productos)", "tablas/chile_a_paraguay_margenes_iniciales_1996"),
                    ("Márgenes iniciales de Paraguay a Chile en 1996 (Anexo 10, 95 productos)", "tablas/paraguay_a_chile_margenes_iniciales_1996"),
                    ("Lista de Adecuación de Paraguay: arancel para Chile año por año, 1996–2006 (Anexo 12, 298 productos)", "tablas/paraguay_lista_adecuacion_anexo12"),
-                   ("Nomenclatura NALADISA 2012 del Protocolo 60 con la preferencia de Chile: 6.811 códigos, todos con 100 % (planilla de Brasil, descripciones en portugués)", "tablas/naladisa_2012_preferencias_chile")],
+                   ("Nomenclatura NALADISA 2012 del Protocolo 60 con la preferencia de Chile: 6.811 códigos, todos con 100% (planilla de Brasil, descripciones en portugués)", "tablas/naladisa_2012_preferencias_chile")],
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
-             "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p>Siete documentos se tomaron del <b>SICE de la OEA</b>, que los publica como texto y no como imagen: el Anexo 4 (autopartes de Paraguay), las listas de Adecuación del Anexo 12 de los cuatro países, las notas complementarias de Paraguay y el Anexo 15, que no está en la ALADI (hay además una copia escaneada en portugués). Las listas del Anexo 10 se tomaron completas del SICE: lo que Chile dio a Paraguay (243 productos) y lo que Paraguay dio a Chile (95). La lectura anterior con OCR tenía productos de menos y márgenes equivocados.</p><p>De la página del ACE 35 en Siscomex (Brasil) se sumaron la ficha técnica y el manual del régimen de origen (en portugués), la Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio Brasil–Chile (escaneada, con OCR) y la planilla de preferencias en NALADISA 2012, que confirma que los 6.811 códigos tienen 100 %.</p><p>El Anexo 15 Lista las normas del MERCOSUR sobre transporte vigentes en 1996; la Comisión Administradora debía identificar cuáles aplicar también con Chile (Artículo 38 del Acuerdo). Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
+             "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p>Siete documentos se tomaron del <b>SICE de la OEA</b>, que los publica como texto y no como imagen: el Anexo 4 (autopartes de Paraguay), las listas de Adecuación del Anexo 12 de los cuatro países, las notas complementarias de Paraguay y el Anexo 15, que no está en la ALADI (hay además una copia escaneada en portugués). Las listas del Anexo 10 se tomaron completas del SICE: lo que Chile dio a Paraguay (243 productos) y lo que Paraguay dio a Chile (95). La lectura anterior con OCR tenía productos de menos y márgenes equivocados.</p><p>De la página del ACE 35 en Siscomex (Brasil) se sumaron la ficha técnica y el manual del régimen de origen (en portugués), la Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio Brasil–Chile (escaneada, con OCR) y la planilla de preferencias en NALADISA 2012, que confirma que los 6.811 códigos tienen 100%.</p><p>El Anexo 15 Lista las normas del MERCOSUR sobre transporte vigentes en 1996; la Comisión Administradora debía identificar cuáles aplicar también con Chile (Artículo 38 del Acuerdo). Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
-        carpeta="ace58", aranceles=aranceles.seccion("peru", "Perú", "ace58", DOCS, "Perú tiene uno de los aranceles más bajos de la región: 2,3 % de promedio, dos de cada tres productos entran libres para todos y ninguno paga más de 11 %. Por eso la preferencia del ACE 58 le da a Paraguay poca ventaja frente a otros proveedores, salvo en prendas, calzado y textiles, donde Perú cobra 11 %."), despues_uso=bilaterales("ace58_peru", "Perú", "ace58"), uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
+        carpeta="ace58", aranceles=aranceles.seccion("peru", "Perú", "ace58", DOCS, "Perú tiene uno de los aranceles más bajos de la región: 2,3% de promedio, dos de cada tres productos entran libres para todos y ninguno paga más de 11%. Por eso la preferencia del ACE 58 le da a Paraguay poca ventaja frente a otros proveedores, salvo en prendas, calzado y textiles, donde Perú cobra 11%."), despues_uso=bilaterales("ace58_peru", "Perú", "ace58"), uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",
         descripcion="El ACE 58 (MERCOSUR–Perú) ordenado y buscable: texto del Acuerdo, 10 anexos, 6 protocolos y un buscador "
                     "con el cronograma de desgravación de cada producto entre Paraguay y Perú.",
         h1="ACE 58: el acuerdo del MERCOSUR con <em>Perú</em>, completo y en un solo lugar",
         lead="El texto del Acuerdo de 2005, sus 10 anexos y los 6 protocolos adicionales, tomados de la ALADI y pasados a texto. "
-             "Y un buscador para ver, producto por producto, cuándo llegó al 100 % la preferencia entre Paraguay y Perú.",
+             "Y un buscador para ver, producto por producto, cuándo llegó al 100% la preferencia entre Paraguay y Perú.",
         kpis=[("30/11/2005", "firmado en Montevideo"), ("6.522", "productos en las listas Paraguay–Perú"),
-              ("2012 y 2017", "años en que casi todo llegó al 100 %"), kpi_uso("PE", "Perú")],
+              ("2012 y 2017", "años en que casi todo llegó al 100%"), kpi_uso("PE", "Perú")],
         linea=[("30/11/2005", "Firma del Acuerdo; se protocoliza en la ALADI el 7/12/2005. Reemplaza al AAP.R N° 20.", False),
                ("Inicio", "Desgravación inmediata para los productos de categoría A.", False),
-               ("2007", "Protocolo 4: Perú confirma a Paraguay 95 % de preferencia para el maíz amarillo duro, con cupo anual de 60.000 toneladas.", True),
-               ("1/1/2012", "100 % para el cronograma general (B3 de Paraguay, B4 de Perú) y el patrimonio histórico (C3).", True),
-               ("1/1/2017", "100 % para los cronogramas más largos (D5 y D6).", True),
+               ("2007", "Protocolo 4: Perú confirma a Paraguay 95% de preferencia para el maíz amarillo duro, con cupo anual de 60.000 toneladas.", True),
+               ("1/1/2012", "100% para el cronograma general (B3 de Paraguay, B4 de Perú) y el patrimonio histórico (C3).", True),
+               ("1/1/2017", "100% para los cronogramas más largos (D5 y D6).", True),
                ("2018", "Protocolo 6: cambios en el cronograma entre Perú y Brasil.", False)],
         disposiciones=[
-            ("95 %", "maíz amarillo duro", "Perú da a Paraguay 95 % de preferencia con un cupo anual de 60.000 toneladas (ítem 1005.90.20).", "Protocolo 4 (2007)"),
+            ("95%", "maíz amarillo duro", "Perú da a Paraguay 95% de preferencia con un cupo anual de 60.000 toneladas (ítem 1005.90.20).", "Protocolo 4 (2007)"),
             ("Textiles", "programa en suspenso", "Entre Perú y Paraguay, el programa no se aplica a los textiles (capítulos 50 a 63) que no tienen requisito específico de origen en el Apéndice 2 del Anexo V.", "Anexo II-B"),
-            ("D5 y D6", "márgenes fijos", "Los productos de estas categorías mantienen su margen inicial hasta que el cronograma lo alcanza; llegan a 100 % en 2017.", "Anexo II-B"),
+            ("D5 y D6", "márgenes fijos", "Los productos de estas categorías mantienen su margen inicial hasta que el cronograma lo alcanza; llegan a 100% en 2017.", "Anexo II-B"),
             ("Zonas francas", "fuera del programa", "El Programa de Liberación no comprende las mercaderías elaboradas en zonas francas o áreas aduaneras especiales.", "Anexo II-B"),
             ("Origen", "requisitos Paraguay–Perú", "El Anexo V tiene un apéndice propio con los requisitos específicos de origen entre Paraguay y Perú.", "Anexo V, Apéndice 2"),
             ("Medidas", "especiales", "Las Partes pueden suspender o reducir la preferencia si las importaciones de ciertos productos crecen mucho o llegan a precios muy bajos.", "Anexo X")],
-        antes="""<h2>Qué tan rápido llegó cada lado al 100 %</h2>
+        antes="""<h2>Qué tan rápido llegó cada lado al 100%</h2>
 <div class="card"><div class="barras" id="barras"></div><div class="ley" id="ley"></div>
-<p class="note">Categorías del Anexo II-B: A = inmediata; B = cronograma general (100 % en 2012); C3 = patrimonio histórico (2012); D5 y D6 = 100 % en 2017. «Sin dato»: no se pudo leer o el producto tiene dos o más cronogramas (Apéndices VII y VIII).</p></div>""",
+<p class="note">Categorías del Anexo II-B: A = inmediata; B = cronograma general (100% en 2012); C3 = patrimonio histórico (2012); D5 y D6 = 100% en 2017. «Sin dato»: no se pudo leer o el producto tiene dos o más cronogramas (Apéndices VII y VIII).</p></div>""",
         productos=BUSCA.format(texto="Cronograma de cada producto en las listas del Anexo II-B (NALADISA 96). Leídas con OCR: ante cualquier duda, vale el original.", ej="maíz, 1005, carne"),
         script="""<script>
 const GC = {A:"var(--s1)", B:"var(--s4)", C:"var(--s3)", D:"var(--s2)", N:"var(--line)"};
-const NG = {A:"A: inmediata", B:"B: 100 % en 2012", C:"C3: patrimonio histórico", D:"D5 y D6: 100 % en 2017", N:"Sin dato"};
+const NG = {A:"A: inmediata", B:"B: 100% en 2012", C:"C3: patrimonio histórico", D:"D5 y D6: 100% en 2017", N:"Sin dato"};
 const gr = c => c ? c[0] : "N";
-const cat = (c, y) => c ? `<span class="cat" style="background:${GC[gr(c)]};color:#1d1a1c">${esc(c)}</span> <span class="chica">${y ? "100 % desde " + y : ""}</span>` : '<span class="chica">sin dato</span>';
+const cat = (c, y) => c ? `<span class="cat" style="background:${GC[gr(c)]};color:#1d1a1c">${esc(c)}</span> <span class="chica">${y ? "100% desde " + y : ""}</span>` : '<span class="chica">sin dato</span>';
 window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Producto", "Perú da a Paraguay", "Paraguay da a Perú"],
-  fila: r => [r[0], esc(r[1]) + (r[7] ? `<div class="det">${esc(r[7])}</div>` : ""), cat(r[2], r[4]) + (r[3] ? `<div class="det">margen inicial ${esc(r[3])} %</div>` : ""), cat(r[5], r[6])],
+  fila: r => [r[0], esc(r[1]) + (r[7] ? `<div class="det">${esc(r[7])}</div>` : ""), cat(r[2], r[4]) + (r[3] ? `<div class="det">margen inicial ${esc(r[3])}%</div>` : ""), cat(r[5], r[6])],
   listo: d => {
     const host = document.getElementById("barras");
     [["Perú a Paraguay", 2], ["Paraguay a Perú", 5]].forEach(([nom, k]) => {
       const n = {A:0, B:0, C:0, D:0, N:0}; d.forEach(r => n[gr(r[k])]++);
       const tot = d.length;
-      host.insertAdjacentHTML("beforeend", `<div class="barra"><div class="t"><b>${nom}</b><span>${Math.round(100 * n.A / tot)} % inmediata · ${fmt(tot)} productos</span></div><div class="pila">` +
+      host.insertAdjacentHTML("beforeend", `<div class="barra"><div class="t"><b>${nom}</b><span>${Math.round(100 * n.A / tot)}% inmediata · ${fmt(tot)} productos</span></div><div class="pila">` +
         ["A","B","C","D","N"].map(g => `<span style="width:${100 * n[g] / tot}%;background:${GC[g]}" title="${NG[g]}: ${fmt(n[g])}"></span>`).join("") + "</div></div>");
     });
     document.getElementById("ley").innerHTML = ["A","B","C","D","N"].map(g => `<span><i style="background:${GC[g]}"></i>${NG[g]}</span>`).join("");
@@ -305,24 +306,24 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 37 archivos que publica la <b>ALADI</b> para el ACE 58. Casi todo está escaneado: 31 documentos (1.946 páginas) se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas Paraguay–Perú se leyeron dos veces: primero borrando las líneas de las tablas y separando las columnas por su posición en la página, y después con el texto corrido para completar lo que faltaba. Se descartaron los códigos que no existen en la NALADISA 96 (errores de lectura). Quedan sin cronograma cerca de 900 productos del lado de Perú y 600 del de Paraguay: lecturas fallidas o productos con dos o más cronogramas, que están como texto en los Apéndices VII y VIII.</p>"),
     dict(
-        carpeta="ace36", aranceles=aranceles.seccion("bolivia", "Bolivia", "ace36", DOCS, "Bolivia protege mucho más que Chile: el 61 % de sus productos paga 10 % o más, y la confección, el calzado y los muebles llegan a 40 %. Con el ACE 36 todo lo de Paraguay entra con 0 %, así que la ventaja frente a terceros es grande justo en esos sectores. Desde 2024 Bolivia es Estado Parte del MERCOSUR y tiene hasta 2028 para adoptar el Arancel Externo Común."), despues_uso=bilaterales("ace36_bolivia", "Bolivia", "ace36", "No forman parte del ACE 36, pero lo complementan: depósitos francos en Villeta, energía, inversiones, aduanas y fronteras."), uso=uso.seccion("BO", "Bolivia", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
+        carpeta="ace36", aranceles=aranceles.seccion("bolivia", "Bolivia", "ace36", DOCS, "Bolivia protege mucho más que Chile: el 61% de sus productos paga 10% o más, y la confección, el calzado y los muebles llegan a 40%. Con el ACE 36 todo lo de Paraguay entra con 0%, así que la ventaja frente a terceros es grande justo en esos sectores. Desde 2024 Bolivia es Estado Parte del MERCOSUR y tiene hasta 2028 para adoptar el Arancel Externo Común."), despues_uso=bilaterales("ace36_bolivia", "Bolivia", "ace36", "No forman parte del ACE 36, pero lo complementan: depósitos francos en Villeta, energía, inversiones, aduanas y fronteras."), uso=uso.seccion("BO", "Bolivia", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/36", nombre="MERCOSUR–Bolivia", socio="Bolivia",
         titulo="ACE 36 MERCOSUR–Bolivia: texto completo, anexos y protocolos",
         descripcion="El ACE 36 (MERCOSUR–Bolivia) ordenado y buscable: texto del Acuerdo, 11 anexos, el Protocolo de "
                     "Integración Física y 34 protocolos adicionales, con fecha y síntesis de cada uno.",
         h1="ACE 36: el acuerdo del MERCOSUR con <em>Bolivia</em>, completo y en un solo lugar",
         lead="El texto del Acuerdo de 1996, sus 11 anexos, el Protocolo de Integración Física y los 34 protocolos adicionales, tomados de la ALADI y pasados a texto.",
         kpis=[("17/12/1996", "firmado en Fortaleza (Brasil)"), ("28/02/1997", "empezó la desgravación"),
-              ("2014", "último cronograma: desde entonces todo tiene 100 % de preferencia"), kpi_uso("BO", "Bolivia")],
+              ("2014", "último cronograma: desde entonces todo tiene 100% de preferencia"), kpi_uso("BO", "Bolivia")],
         linea=[("17/12/1996", "Firma del Acuerdo.", False),
-               ("28/02/1997", "Empiezan las preferencias; el Anexo 7 tiene 100 % desde el inicio.", False),
-               ("2004", "Protocolo 19: Argentina, Brasil y Paraguay suman productos con 100 % para Bolivia (Anexo 7).", True),
-               ("2006", "100 % para el cronograma general y los Anexos 1, 3 y 4.", False),
-               ("2011", "100 % para los productos sensibles del Anexo 5.", False),
-               ("2014", "100 % para el Anexo 6: termina el Programa de Liberación.", False),
+               ("28/02/1997", "Empiezan las preferencias; el Anexo 7 tiene 100% desde el inicio.", False),
+               ("2004", "Protocolo 19: Argentina, Brasil y Paraguay suman productos con 100% para Bolivia (Anexo 7).", True),
+               ("2006", "100% para el cronograma general y los Anexos 1, 3 y 4.", False),
+               ("2011", "100% para los productos sensibles del Anexo 5.", False),
+               ("2014", "100% para el Anexo 6: termina el Programa de Liberación.", False),
                ("2024", "Protocolo 34: los productos con insumos en admisión temporal o drawback pierden la preferencia desde el 8/8/2028.", False)],
         disposiciones=[
             ("Anexo 8", "Régimen de Adecuación de Paraguay", "Lista de aranceles residuales que Paraguay aplicaba a Bolivia mientras avanzaba la desgravación.", "Anexo 8, Paraguay"),
-            ("100 %", "productos de Paraguay para Bolivia", "Paraguay, junto con Argentina y Brasil, sumó productos al Anexo 7 (100 % de preferencia).", "Protocolo 19 (2004)"),
+            ("100%", "productos de Paraguay para Bolivia", "Paraguay, junto con Argentina y Brasil, sumó productos al Anexo 7 (100% de preferencia).", "Protocolo 19 (2004)"),
             ("8/8/2028", "fin de la preferencia con drawback", "Desde esa fecha, los productos con insumos importados temporalmente o con drawback no tienen preferencia.", "Protocolo 34 (2024)"),
             ("Hidrovía", "objetivo del Acuerdo", "Entre sus objetivos está facilitar la navegación por la Hidrovía Paraná–Paraguay (Puerto Cáceres–Puerto Nueva Palmira); el Protocolo de Integración Física lo desarrolla.", "Acuerdo, Artículo 1")],
         ejemplo="Por ejemplo: drawback, hidrovía, certificado de origen, salvaguardia",
@@ -331,7 +332,7 @@ window.PRODUCTOS = {archivo: "preferencias.json", columnas: ["Código", "Product
         como="<p>Se tomaron los 66 archivos que publica la <b>ALADI</b> para el ACE 36. 38 tienen texto y se leyeron con <code>pdftotext</code>; 28 eran imágenes escaneadas (1.594 páginas) y se leyeron con OCR (<code>tesseract</code>).</p>"
              "<p>Las listas de productos de 1996 (Anexos 1 a 8) quedan como texto: no se pasaron a tablas porque sus cronogramas terminaron (el último, en 2014).</p>"),
     dict(
-        carpeta="ace59", aranceles=aranceles.seccion("ecuador", "Ecuador", "ace59", DOCS, "Ecuador protege bastante: 13,3 % de promedio y un tercio de los productos paga 20 % o más. Los promedios más altos están en textiles, calzado y prendas, donde muchos aranceles son específicos (por kilo o por par) y la OMC los convierte a porcentaje, por eso pasan de 100 %. También la carne paga 36 %. Ahí la preferencia del ACE 59 le da a Paraguay una ventaja grande."), despues_uso=bilaterales("ace59_ecuador", "Ecuador", "ace59", "No forman parte del ACE 59, pero lo complementan. Incluye el acuerdo bilateral de complementación económica de 1994, antecedente del ACE 59.") + bilaterales("ace59_venezuela", "Venezuela", "ace59", "No forman parte del ACE 59, pero lo complementan: sobre todo energía (petróleo venezolano) e inversiones. El Acuerdo de Alcance Parcial de 2008 es el AAP.CE N° 64 de la ALADI."), uso=uso.seccion("EC", "Ecuador", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011.") + "\n" +
+        carpeta="ace59", aranceles=aranceles.seccion("ecuador", "Ecuador", "ace59", DOCS, "Ecuador protege bastante: 13,3% de promedio y un tercio de los productos paga 20% o más. Los promedios más altos están en textiles, calzado y prendas, donde muchos aranceles son específicos (por kilo o por par) y la OMC los convierte a porcentaje, por eso pasan de 100%. También la carne paga 36%. Ahí la preferencia del ACE 59 le da a Paraguay una ventaja grande."), despues_uso=bilaterales("ace59_ecuador", "Ecuador", "ace59", "No forman parte del ACE 59, pero lo complementan. Incluye el acuerdo bilateral de complementación económica de 1994, antecedente del ACE 59.") + bilaterales("ace59_venezuela", "Venezuela", "ace59", "No forman parte del ACE 59, pero lo complementan: sobre todo energía (petróleo venezolano) e inversiones. El Acuerdo de Alcance Parcial de 2008 es el AAP.CE N° 64 de la ALADI."), uso=uso.seccion("EC", "Ecuador", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011.") + "\n" +
             uso.seccion("VE", "Venezuela", 2011, titulo="Y para venderle a Venezuela") + "\n" +
             uso.seccion("CO", "Colombia", 2011, hasta=2018, titulo="Colombia, mientras regía el ACE 59 (2011–2018)",
                         texto_extra="Desde 2019, el comercio con Colombia se rige por el ACE 72 (ver su página)."), sigla="ALADI/AAP.CE/59", nombre="MERCOSUR–Colombia, Ecuador y Venezuela", socio="Ecuador",
@@ -386,6 +387,7 @@ def portada():
 <meta property="og:image" content="{URL}img/tarjeta_light.png">
 <meta name="twitter:card" content="summary_large_image">
 <script>(function(){{try{{var x=localStorage.getItem("tema");if(x==="light"||x==="dark")document.documentElement.setAttribute("data-theme",x);}}catch(e){{}}}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Source+Sans+3:ital,wght@0,400..700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="comun.css">
 </head>
 <body>
@@ -481,15 +483,15 @@ def contingentes_ace72():
         return float(x.CON_ACE72_T.sum()), float((x.SIN_ACUERDO_T + x.OTRO_O_SIN_DATO_T).sum())
     cc, cs = tot(G[0]); pc, ps = tot(G[2])
     tarjetas = [
-        (f"{uso.num(100 * cc / (cc + cs), 0)} %", "Carne bovina deshuesada, despojos, carne salada y tripas",
+        (f"{uso.num(100 * cc / (cc + cs), 0)}%", "Carne bovina deshuesada, despojos, carne salada y tripas",
          f"Vendió {t(cc + cs)} t a Colombia entre 2019 y 2026 y solo {t(cc)} t con el acuerdo.",
-         "Cupo de 3.299 t, con 2 % más por año (unas 3.789 t en 2026), compartido con todo el MERCOSUR. Fuera del cupo: 25 % de preferencia fija."),
-        ("100 %", "Preparaciones y conservas de carne",
+         "Cupo de 3.299 t, con 2% más por año (unas 3.789 t en 2026), compartido con todo el MERCOSUR. Fuera del cupo: 25% de preferencia fija."),
+        ("100%", "Preparaciones y conservas de carne",
          f"Vendió {t(pc + ps)} t entre 2023 y 2025, todas con el acuerdo: mucho más que el cupo.",
-         "Cupo de 4.538 kg por año, solo para Paraguay. Lo que pasa del cupo entra con 70 % de preferencia fija."),
+         "Cupo de 4.538 kg por año, solo para Paraguay. Lo que pasa del cupo entra con 70% de preferencia fija."),
         ("—", "Cortes finos de carne bovina",
          "No tienen código propio en la NCM: se cuentan con la carne deshuesada.",
-         "Cupo de 5.294 t para todo el MERCOSUR, pero son categoría C: 100 % desde 2018, así que el cupo ya no limita."),
+         "Cupo de 5.294 t para todo el MERCOSUR, pero son categoría C: 100% desde 2018, así que el cupo ya no limita."),
         ("0 t", "Leche en polvo y leche maternizada",
          "Paraguay no le vendió estos productos a Colombia entre 2019 y 2026.",
          "Leche en polvo: 303 t por año, solo Paraguay, sin rebaja fuera del cupo. Leche maternizada: 300 t, todo el MERCOSUR, categoría C.")]
@@ -510,7 +512,7 @@ def contingentes_ace72():
              'según el acuerdo que declaró el exportador (en 2025, 28 t de despojos figuran sin el dato). Solo datos de Paraguay: la DNIT no muestra cuánto del cupo asignó Colombia '
              'a cada despacho ni lo que usaron los otros países del MERCOSUR. Carne: NCM 0201.30, 0202.30, 0206.10, 0206.21, 0206.22, 0206.29, 0210.20 '
              'y 0504.00 (la partida 0504 incluye tripas de otras especies). Conservas: 1602.10, 1602.49, 1602.50 y 1602.90. Leche en polvo: 0402. '
-             'Leche maternizada: 1901.10. Cupos: Anexo II, Apéndice 3.3 (el de carne, calculado con el 2 % anual). Datos: '
+             'Leche maternizada: 1901.10. Cupos: Anexo II, Apéndice 3.3 (el de carne, calculado con el 2% anual). Datos: '
              '<a href="tablas/contingentes_ventas_paraguay.csv" download>CSV</a> · <a href="tablas/contingentes_ventas_paraguay.xlsx" download>Excel</a>.</p></div>\n\n')
     p = DOCS / "ace72" / "index.html"
     h = p.read_text(encoding="utf-8")
@@ -537,8 +539,8 @@ def aranceles_ace72():
     if ini in h:
         h = h[:h.index(ini)] + h[h.index(fin) + len(fin):].lstrip("\n")
     sec = ini + "\n" + aranceles.seccion("colombia", "Colombia", "ace72", DOCS,
-        "Colombia cobra 6,7 % de promedio y la mitad de los productos entra libre para todos, pero tiene picos altos justo en lo que Paraguay "
-        "vende o podría vender: 33 % para la carne, 38 % para los lácteos y 40 % para las prendas. Ahí la preferencia del ACE 72 "
+        "Colombia cobra 6,7% de promedio y la mitad de los productos entra libre para todos, pero tiene picos altos justo en lo que Paraguay "
+        "vende o podría vender: 33% para la carne, 38% para los lácteos y 40% para las prendas. Ahí la preferencia del ACE 72 "
         "(y los contingentes de carne) valen mucho.") + "\n" + fin + "\n\n"
     i = h.index("<!-- bilaterales -->")
     p.write_text(h[:i] + sec + h[i:], encoding="utf-8")

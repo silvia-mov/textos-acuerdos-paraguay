@@ -47,7 +47,7 @@ def seccion(pais, socio, carpeta, docs, contexto=""):
     g = a.groupby("cap").value.agg(["mean", "count"]).query("count >= 5").sort_values("mean", ascending=False).head(8)
     mx = g["mean"].max()
     barras = "".join(f'<div class="gb"><div class="gt"><span><span class="chica">Cap. {c} ·</span> {e(CAP.get(c, c))}</span>'
-                     f'<b>{num(r["mean"])} %</b></div><div class="gk"><div style="width:{100 * r["mean"] / mx:.0f}%"></div></div></div>'
+                     f'<b>{num(r["mean"])}%</b></div><div class="gk"><div style="width:{100 * r["mean"] / mx:.0f}%"></div></div></div>'
                      for c, r in g.iterrows())
     out = a[["product_code", "value"]].rename(columns={"product_code": "SA_6_DIGITOS", "value": "NMF_APLICADO"}).merge(
         b[["product_code", "value"]].rename(columns={"product_code": "SA_6_DIGITOS", "value": "CONSOLIDADO_OMC"}), on="SA_6_DIGITOS", how="outer")
@@ -56,10 +56,10 @@ def seccion(pais, socio, carpeta, docs, contexto=""):
     (docs / carpeta / "tablas").mkdir(exist_ok=True)
     out.sort_values("SA_6_DIGITOS").to_csv(docs / carpeta / "tablas" / f"aranceles_{pais}_omc.csv", index=False, encoding="utf-8-sig")
     tarjetas = [
-        (f"{num(v.mean())} %", f"Arancel general (NMF) promedio en {anio}", f"Promedio simple de {num(n, 0)} subpartidas. Con el acuerdo, Paraguay entra con 0 % en casi todo."),
-        (f"{num(100 * libres / n, 0)} %", "Productos que entran libres para todos", f"{num(libres, 0)} subpartidas con arancel 0. En el resto, el acuerdo le da a Paraguay una ventaja frente a terceros."),
-        (f"{num(100 * altos / n, 0)} %", "Productos con arancel de 20 % o más", f"{num(altos, 0)} subpartidas: ahí la preferencia del acuerdo vale más."),
-        (f"{num(techo, 0)} %", "Techo consolidado en la OMC", "Lo máximo que puede cobrar a quienes no tienen acuerdo (valor más frecuente)."),
+        (f"{num(v.mean())}%", f"Arancel general (NMF) promedio en {anio}", f"Promedio simple de {num(n, 0)} subpartidas. Con el acuerdo, Paraguay entra con 0% en casi todo."),
+        (f"{num(100 * libres / n, 0)}%", "Productos que entran libres para todos", f"{num(libres, 0)} subpartidas con arancel 0. En el resto, el acuerdo le da a Paraguay una ventaja frente a terceros."),
+        (f"{num(100 * altos / n, 0)}%", "Productos con arancel de 20% o más", f"{num(altos, 0)} subpartidas: ahí la preferencia del acuerdo vale más."),
+        (f"{num(techo, 0)}%", "Techo consolidado en la OMC", "Lo máximo que puede cobrar a quienes no tienen acuerdo (valor más frecuente)."),
     ]
     cards = "".join(f'<div class="card"><div class="v">{v_}</div><h3>{h}</h3><p>{p}</p><div class="src">OMC, Tariff &amp; Trade Data</div></div>'
                     for v_, h, p in tarjetas)
@@ -100,8 +100,8 @@ def competidores(pais, socio):
     d = pd.read_csv(p).drop_duplicates("duty_scheme_name")
     d["N"] = [nombre_es(t, socio) for t in d.duty_scheme_name]
     d = d.sort_values("simple_average")
-    filas = "".join(f'<tr><td>{e(r.N)}</td><td>{num(r.simple_average, 2)} %</td></tr>' for r in d.itertuples())
+    filas = "".join(f'<tr><td>{e(r.N)}</td><td>{num(r.simple_average, 2)}%</td></tr>' for r in d.itertuples())
     return (f'<h3>Quién más entra a {socio} con preferencia</h3>\n<p class="chica">Acuerdos de {socio} notificados a la OMC y el arancel '
-            'promedio que pagan esos socios. Paraguay no es el único que entra con 0 % o casi: compite con ellos. La OMC no incluye los '
+            'promedio que pagan esos socios. Paraguay no es el único que entra con 0% o casi: compite con ellos. La OMC no incluye los '
             f'acuerdos del MERCOSUR en esta lista.</p>\n<div class="tw"><table class="num"><thead><tr><th>Socio</th><th>Arancel promedio que paga</th></tr></thead><tbody>'
             + filas + '</tbody></table></div><p class="note">Fuente: OMC, Tariff &amp; Trade Data, indicadores de aranceles preferenciales (2026).</p>')

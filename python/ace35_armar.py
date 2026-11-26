@@ -20,15 +20,15 @@ RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "docs" / "ace35"
 
 ANEXOS = {
-    "1": "Anexo 1 – Preferencias del patrimonio histórico (márgenes que suben hasta 100 % en 2004)",
-    "2": "Anexo 2 – Productos con desgravación especial a 10 años (desde 30 %)",
-    "3": "Anexo 3 – Productos con desgravación especial a 10 años (desde 0 %)",
+    "1": "Anexo 1 – Preferencias del patrimonio histórico (márgenes que suben hasta 100% en 2004)",
+    "2": "Anexo 2 – Productos con desgravación especial a 10 años (desde 30%)",
+    "3": "Anexo 3 – Productos con desgravación especial a 10 años (desde 0%)",
     "4": "Anexo 4 – Lista de autopartes de Paraguay (comercio Chile–Paraguay)",
     "5": "Anexo 5 – Productos con tratamiento especial a 10 años (cupos)",
-    "6": "Anexo 6 – Productos sensibles: desgravación del año 10 al 15 (100 % en 2011)",
+    "6": "Anexo 6 – Productos sensibles: desgravación del año 10 al 15 (100% en 2011)",
     "7": "Anexo 7 – Productos con tratamiento especial a 15 años (cupos)",
-    "8": "Anexo 8 – Productos sensibles: desgravación del año 11 al 16 (100 % en 2012)",
-    "9": "Anexo 9 – Productos de incorporación diferida: trigo y harina de trigo (100 % desde el 1/1/2014)",
+    "8": "Anexo 8 – Productos sensibles: desgravación del año 11 al 16 (100% en 2012)",
+    "9": "Anexo 9 – Productos de incorporación diferida: trigo y harina de trigo (100% desde el 1/1/2014)",
     "P": "Protocolo sobre Integración Física",
     "15_pt": "Anexo 15 – Acuerdos del MERCOSUR sobre transporte (Artículo 38; versión en portugués)",
     "15": "Anexo 15 – Acuerdos del MERCOSUR sobre transporte (Artículo 38)",

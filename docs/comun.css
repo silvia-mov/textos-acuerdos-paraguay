@@ -7,7 +7,7 @@
 :root[data-theme="dark"] { --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#8db2ac; --link:#8db2ac;
   --s1:#5e8f88; --s2:#6a546d; --s3:#af8eb1; --s4:#b7d0cc; --hero1:#24403c; --hero2:#3a2a3b; --code:#2a2225; --pink:#af8eb1; }
 * { box-sizing: border-box; }
-body { margin:0; background:var(--bg); color:var(--text); font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.6 "Source Sans 3", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
 a { color:var(--link); }
 .wrap { max-width:900px; margin:0 auto; padding:0 16px; }
 .aviso-top { background:var(--panel); border-bottom:1px solid var(--line); color:var(--text2); font-size:13.5px; text-align:center; padding:7px 16px; }
@@ -92,3 +92,7 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 .disp.dos { grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr)); }
 table.num td, table.num th { white-space:nowrap; }
 table.num td:not(:first-child), table.num th:not(:first-child) { text-align:right; }
+
+/* Tipografía: Fraunces (títulos y cifras grandes) + Source Sans 3 (texto) */
+body, button, input, select, textarea { font-family: "Source Sans 3", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+h1, h2, h3, .kpi .v, .disp .v, .muestra .v { font-family: "Fraunces", Georgia, "Times New Roman", serif; font-optical-sizing: auto; font-weight: 600; letter-spacing: 0; }

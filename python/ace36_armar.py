@@ -8,14 +8,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from armar_comun import armar  # noqa: E402
 
 ANEXOS = {
-    "1": "Anexo 1 – Productos con desgravación desde 50 % (100 % en 2006)",
+    "1": "Anexo 1 – Productos con desgravación desde 50% (100% en 2006)",
     "2_BO": "Anexo 2 – Patrimonio histórico (ACE 34): preferencias otorgadas por Bolivia",
     "2_MCS": "Anexo 2 – Patrimonio histórico (ACE 34): preferencias otorgadas por el MERCOSUR",
-    "3": "Anexo 3 – Desgravación especial desde 15 % (100 % en 2006)",
-    "4": "Anexo 4 – Desgravación especial desde 10 % (100 % en 2006)",
-    "5": "Anexo 5 – Productos sensibles: desgravación desde 2005 (100 % en 2011)",
-    "6": "Anexo 6 – Productos sensibles: desgravación desde 2005 (100 % en 2014)",
-    "7": "Anexo 7 – Productos con 100 % de preferencia desde el inicio (1997)",
+    "3": "Anexo 3 – Desgravación especial desde 15% (100% en 2006)",
+    "4": "Anexo 4 – Desgravación especial desde 10% (100% en 2006)",
+    "5": "Anexo 5 – Productos sensibles: desgravación desde 2005 (100% en 2011)",
+    "6": "Anexo 6 – Productos sensibles: desgravación desde 2005 (100% en 2014)",
+    "7": "Anexo 7 – Productos con 100% de preferencia desde el inicio (1997)",
     "8_AR": "Anexo 8 – Régimen de Adecuación (aranceles residuales para Bolivia): Argentina",
     "8_BR": "Anexo 8 – Régimen de Adecuación (aranceles residuales para Bolivia): Brasil",
     "8_PY": "Anexo 8 – Régimen de Adecuación (aranceles residuales para Bolivia): Paraguay",

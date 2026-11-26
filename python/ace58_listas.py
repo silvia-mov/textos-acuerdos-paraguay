@@ -109,7 +109,7 @@ def main(carpeta, salida, carpeta_txt=None):
     unir(salida)
 
 
-# Año en que el margen llega a 100 % según el Anexo II-B (A = inmediata, al entrar en vigor el Acuerdo)
+# Año en que el margen llega a 100% según el Anexo II-B (A = inmediata, al entrar en vigor el Acuerdo)
 CIEN = {"A": "2006", "B3": "2012", "B4": "2012", "D5": "2017", "D6": "2017"}
 CIEN.update({f"C3{x}": "2012" for x in "abcdefgh"})
 

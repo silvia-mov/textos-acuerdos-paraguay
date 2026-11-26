@@ -17,9 +17,9 @@ def flecha(v, unidad):
     if v is None:
         return '<span class="chica">—</span>'
     if abs(v) < 0.5:
-        return f'<span class="chica">= {num(abs(v), 0)} {unidad}</span>'
+        return f'<span class="chica">= {num(abs(v), 0)}{'' if unidad == '%' else ' '}{unidad}</span>'
     s, c = ("▲", "var(--s1)") if v > 0 else ("▼", "var(--s3)")
-    return f'<span style="color:{c};font-weight:700">{s}</span> {num(abs(v), 0)} {unidad}'
+    return f'<span style="color:{c};font-weight:700">{s}</span> {num(abs(v), 0)}{'' if unidad == '%' else ' '}{unidad}'
 
 
 def serie(codigo, desde, hasta=9999):
@@ -43,7 +43,7 @@ def tabla(codigo, socio, desde, hasta=9999):
             ve = 100 * (exp - pe) / pe if pe else None
             vp = pct - 100 * p.DNIT_CON_ACUERDO_USD / p.DNIT_EXPORTADO_USD if p.DNIT_EXPORTADO_USD else None
         filas.append(f"<tr><td>{a}{'*' if a == PARCIAL else ''}</td><td>{num(exp)}</td><td>{flecha(ve, '%')}</td>"
-                     f"<td>{num(con)}</td><td>{num(pct, 0)} %</td><td>{flecha(vp, 'pts.')}</td></tr>")
+                     f"<td>{num(con)}</td><td>{num(pct, 0)}%</td><td>{flecha(vp, 'pts.')}</td></tr>")
     return (f'<div class="tw"><table class="num"><thead><tr><th>Año</th><th>Exportado a {socio}<br>(mill. USD)</th><th>Cambio</th>'
             f'<th>Con preferencia<br>(mill. USD)</th><th>% con preferencia</th><th>Cambio</th></tr></thead><tbody>'
             + "".join(filas) + "</tbody></table></div>")
@@ -67,5 +67,5 @@ def seccion(codigo, socio, desde, titulo=None, hasta=9999, texto_extra=""):
     ult, exp, pct = resumen(codigo, desde) if hasta == 9999 else (None, None, None)
     t = titulo or f"Cuánto usa Paraguay el acuerdo para venderle a {socio}"
     intro = (f"<p>En {ult}, Paraguay exportó a {socio} USD {num(exp)} millones según los despachos de la DNIT, y el "
-             f"<b>{num(pct, 0)} %</b> usó una preferencia.{texto_extra}</p>") if ult else f"<p>{texto_extra}</p>"
+             f"<b>{num(pct, 0)}%</b> usó una preferencia.{texto_extra}</p>") if ult else f"<p>{texto_extra}</p>"
     return f"<h2>{t}</h2>\n{intro}\n{tabla(codigo, socio, desde, hasta)}"
