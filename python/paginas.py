@@ -78,6 +78,8 @@ def pagina(a):
 <meta property="og:title" content="{e(a["titulo"])}">
 <meta property="og:description" content="{e(a["descripcion"])}">
 <meta property="og:url" content="{URL}{carpeta}/">
+<meta property="og:image" content="{URL}img/tarjeta_light.png">
+<meta name="twitter:card" content="summary_large_image">
 <script>(function(){{try{{var x=localStorage.getItem("tema");if(x==="light"||x==="dark")document.documentElement.setAttribute("data-theme",x);}}catch(e){{}}}})();</script>
 <link rel="stylesheet" href="../comun.css">
 </head>
@@ -301,6 +303,8 @@ def portada():
 <meta property="og:title" content="Textos de los acuerdos comerciales de Paraguay">
 <meta property="og:description" content="Texto completo, protocolos, preferencias y régimen de origen de los acuerdos de Paraguay, ordenados y buscables.">
 <meta property="og:url" content="{URL}">
+<meta property="og:image" content="{URL}img/tarjeta_light.png">
+<meta name="twitter:card" content="summary_large_image">
 <script>(function(){{try{{var x=localStorage.getItem("tema");if(x==="light"||x==="dark")document.documentElement.setAttribute("data-theme",x);}}catch(e){{}}}})();</script>
 <link rel="stylesheet" href="comun.css">
 </head>
