@@ -1,0 +1,2342 @@
+ANEXO II
+
+Ajuste de Preferencias
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 1
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:4205 :Las demás manufacturas de cuero natural o cuero : :
+: :regenerado. : :
+:4205.00.00:Las demás manufacturas de cuero natural o cuero : :
+:----------:regenerado. : :
+: : : 70 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6506 :Los demás sombreros y tocados, incluso : :
+: :guarnecidos. : :
+:6506.9 :Los demás: : :
+:6506.99.00:De las demás materias : :
+:----------: : 80 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:__________:__________________________________________________:____________________________________________________________________:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0206 :Despojos comestibles de animales de las especies : :
+: :bovina, porcina, ovina, caprina, caballar, asnal : :
+: :o mular, frescos, refrigerados o congelados. : :
+:0206.10.00:De la especie bovina, frescos o refrigerados : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : - Hígados :
+: : : - Lenguas :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Los demás :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0206.2 :De la especie bovina, congelados: : :
+:0206.21.00:Lenguas : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0206.22.00:Hígados : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0206.22.00:(Cont.) : :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0206.29 :Los demás : :
+:0206.29.10:Colas (rabos) : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0206.29.90:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0405 :Mantequilla (manteca)* y demás materias grasas de : :
+: :la leche; pastas lácteas para untar. : :
+:0405.10.00:Mantequilla (manteca)* : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto fresca, salada o fundida :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0405.10.00:(Cont.) : :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0703 :Cebollas, chalotes, ajos, puerros y demás : :
+: :hortalizas (incluso silvestres) aliáceas, frescos : :
+: :o refrigerados. : :
+:0703.10 :Cebollas y chalotes : :
+:0703.10.10:Cebollas : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0703.10.20:Chalotes : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0804 :Dátiles, higos, piñas (ananás), paltas : :
+: :(aguacates)*, guayabas, mangos y mangostanes, : :
+: :frescos o secos. : :
+:0804.30.00:Piñas (ananás) : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto frescos :
+: : : :
+: : : **************************************** :
+: : : Para este producto Paraguay no aplica lo :
+: : : dispuesto en el primer párrafo del :
+: : : Artículo 4 del Acuerdo :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0804.30.00:(Cont.) : :
+: : : **************************************** :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1001 :Trigo y morcajo (tranquillón). : :
+:1001.10.00:Trigo duro : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1005 :Maíz. : :
+:1005.90 :Los demás : :
+:1005.90.90:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1006 :Arroz. : :
+:1006.30 :Arroz semiblanqueado o blanqueado, incluso pulido : :
+: :o glaseado : :
+:1006.30.10:Sin pulir ni glasear : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1006.30.10:(Cont.) : :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1006.30.20:Pulido o glaseado : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1006.40.00:Arroz partido : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1008 :Alforfón, mijo y alpiste; los demás cereales. : :
+:1008.90.00:Los demás cereales : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto quinua (ghenopodaceas) :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1101 :Harina de trigo o de morcajo (tranquillón). : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1101.00.00:Harina de trigo o de morcajo (tranquillón). : :
+:----------: : 50 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1103 :Grañones, sémola y "pellets", de cereales. : :
+:1103.1 :Grañones y sémola: : :
+:1103.11.00:De trigo : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1208 :Harina de semillas o de frutos oleaginosos, : :
+: :excepto la harina de mostaza. : :
+:1208.10.00:De habas (porotos, frijoles, fréjoles)* de soja : :
+:----------:(soya) : :
+: : : 94 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 80,00-1997 82,00-1998 84,00-1999 :
+: : : 86,00-2000 88,00-2001 90,00-2002 :
+: : : 92,00-2003 94,00-2004 96,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1507 :Aceite de soja (soya) y sus fracciones, incluso : :
+: :refinado, pero sin modificar químicamente. : :
+:1507.10.00:Aceite en bruto, incluso desgomado : :
+:----------: : 50 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1507.10.00:(Cont.) : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1512 :Aceites de girasol, cártamo o algodón, y sus : :
+: :fracciones, incluso refinados, pero sin modificar : :
+: :químicamente. : :
+:1512.1 :Aceites de girasol o cártamo, y sus fracciones: : :
+:1512.11 :Aceite en bruto : :
+:1512.11.10:De girasol : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1512.11.20:De cártamo : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1512.19 :Los demás : :
+:1512.19.10:De girasol : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1512.19.10:(Cont.) : :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1512.19.20:De cártamo : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1515 :Las demás grasas y aceites vegetales fijos : :
+: :(incluido el aceite de jojoba), y sus fracciones, : :
+: :incluso refinados, pero sin modificar : :
+: :químicamente. : :
+:1515.2 :Aceite de maíz y sus fracciones: : :
+:1515.21.00:Aceite en bruto : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1515.29.00:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1516 :Grasas y aceites, animales o vegetales, y sus : :
+: :fracciones, parcial o totalmente hidrogenados, : :
+: :interesterificados, reesterificados o : :
+: :elaidinizados, incluso refinados, pero sin : :
+: :preparar de otro modo. : :
+:1516.20 :Grasas y aceites, vegetales, y sus fracciones : :
+:1516.20.1 :Que no presentan el carácter de ceras: : :
+:1516.20.11:De algodón : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1516.20.12:De colza : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1516.20.13:De maní (cacahuate, cacahuete) : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1516.20.14:De maíz : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR – AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1516.20.14:(Cont.) : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1516.20.19:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1516.20.90:Los demás : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1517 :Margarina; mezclas o preparaciones alimenticias : :
+: :de grasas o aceites, animales o vegetales, o de : :
+: :fracciones de diferentes grasas o aceites, de : :
+: :este Capítulo, excepto las grasas y aceites : :
+: :alimenticios y sus fracciones, de la partida N. : :
+: :15.16. : :
+:1517.90 :Las demás : :
+:1517.90.10:Vegetalina (mantequilla de coco) : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1517.90.10:(Cont.) : :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1517.90.20:Mezclas o preparaciones del tipo de las : :
+:----------:utilizadas como preparaciones para desmoldeo : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1517.90.90:Las demás : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1602 :Las demás preparaciones y conservas de carne, : :
+: :despojos o sangre. : :
+:1602.50.00:De la especie bovina : :
+:----------: : 60 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto: :
+: : : - Carne curada y cocida ("corned beef") :
+: : : - Asado de novillo ("roast beef") :
+: : : - Pecho ("brisket beef") :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 40,00-2003 60,00-2004 80,00-2005 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1602.50.00:(Cont.) : :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1701 :Azúcar de caña o de remolacha y sacarosa : :
+: :químicamente pura, en estado sólido. : :
+:1701.1 :Azúcar en bruto sin adición de aromatizante ni : :
+: :colorante: : :
+:1701.11.00:De caña : :
+:----------: : 30 :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : **************************************** :
+: : : Ver preferencia otorgada por Brasil :
+: : : en Anexo 7 :
+: : : **************************************** :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1701.9 :Los demás: : :
+:1701.99.00:Los demás : :
+:----------: : 30 :
+: : : Preferencia otorgada por Paraguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 50 :
+: : : Preferencia otorgada por Argentina, :
+: : : Brasil y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : **************************************** :
+: : : Ver preferencia otorgada por Brasil :
+: : : en Anexo 7 :
+: : : **************************************** :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:1902 :Pastas alimenticias, incluso cocidas o rellenas : :
+: :(de carne u otras sustancias) o preparadas : :
+: :de otra forma, tales como espaguetis, fideos, : :
+: :macarrones, tallarines, lasañas, ñoquis, : :
+: :ravioles, canelones; cuscús, incluso : :
+: :preparado. : :
+:1902.1 :Pastas alimenticias sin cocer, rellenar ni : :
+: :preparar de otra forma: : :
+:1902.11.00:Que contengan huevo : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto pastas para sopa, masas alimen- :
+: : : ticias :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1902.19.00:Las demás : :
+:----------: : 60 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto de quinua :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 40,00-2003 60,00-2004 80,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1902.30.00:Las demás pastas alimenticias : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2204 :Vino de uvas frescas, incluso encabezado; mosto : :
+: :de uva, excepto el de la partida N. 20.09. : :
+:2204.21 :En recipientes con capacidad inferior o igual a 2 : :
+: :litros : :
+:2204.21.10:Vinos finos de mesa : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2204.21.2 :Vinos generosos: : :
+:2204.21.21:Tipo Jerez : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2204.21.29:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2204.21.3 :Los demás: : :
+:2204.21.31:Vinos que en un recipiente cerrado tengan una : :
+:----------:sobrepresión, debida al anhídrido carbónico : :
+: :disuelto,igual o superior a 1 bar, pero inferior : :
+: :a 3 bar : :
+: : : 80 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2204.21.31:(Cont.) : :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2204.21.39:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2204.21.40:Mosto de uva en el que la fermentación se ha : :
+:----------:impedido o cortado añadiendo alcohol : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2304 :Tortas y demás residuos sólidos de la extracción : :
+: :del aceite de soja (soya), incluso molidos o en : :
+: :"pellets". : :
+:2304.00.00:Tortas y demás residuos sólidos de la extracción : :
+:----------:del aceite de soja (soya), incluso molidos o en : :
+: :"pellets". : :
+: : : 94 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : Torta :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2304.00.00:(Cont.) : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 80,00-1997 82,00-1998 84,00-1999 :
+: : : 86,00-2000 88,00-2001 90,00-2002 :
+: : : 92,00-2003 94,00-2004 96,00-2005 :
+: : : 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 80 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : Los demás :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2306 :Tortas y demás residuos sólidos de la extracción : :
+: :de grasas o aceites vegetales, incluso molidos o : :
+: :en "pellets", excepto los de las partidas Ns. : :
+: :23.04 ó 23.05. : :
+:2306.30.00:De girasol : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2501 :Sal (incluidas la de mesa y la desnaturalizada) y : :
+: :cloruro de sodio puro, incluso en disolución : :
+: :acuosa o con adición de antiaglomerantes o de : :
+: :agentes que garanticen una buena fluidez; agua : :
+: :de mar. : :
+:2501.00.10:Sal (incluidas la de mesa y la desnaturalizada) : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto: :
+: : : - Sal gema :
+: : : - Sal de mesa :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2501.00.10:(Cont.) : :
+: : : - Sal común :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2501.00.90:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto cloruro de sodio con mínimo de :
+: : : 99,5 % de pureza :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2710 :Aceites de petróleo o de mineral bituminoso, : :
+: :excepto los aceites crudos; preparaciones no : :
+: :expresadas ni comprendidas en otra parte, con un : :
+: :contenido de aceites de petróleo o de mineral : :
+: :bituminoso superior o igual al 70% en peso, en : :
+: :las que estos aceites constituyan el elemento : :
+: :base. : :
+:2710.00.1 :Aceites livianos (ligeros) y preparaciones : :
+: :livianas (ligeras): : :
+:2710.00.15:Aguarrás mineral ("white spirit") : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2710.00.2 :Aceites medianos (medios) y preparaciones : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2710.00.2 :(Cont.) : :
+: :medianas (medias): : :
+:2710.00.21:Carburantes tipo queroseno (querosén) para : :
+:----------:reactores o para turbinas : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2710.00.22:Los demás querosenos (querosenes) : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2710.00.40:Fuel ("fueloil") : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2711 :Gas de petróleo y demás hidrocarburos gaseosos. : :
+:2711.1 :Licuados: : :
+:2711.11.00:Gas natural : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2711.11.00:(Cont.) : :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2711.12.00:Propano : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto mezcla de butano y propano :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2711.13.00:Butanos : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto mezcla de butano y propano :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2711.14.00:Etileno, propileno, butileno y butadieno : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2802 :Azufre sublimado o precipitado; azufre coloidal. : :
+:2802.00.00:Azufre sublimado o precipitado; azufre coloidal. : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Excepto azufre coloidal :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2810 :Oxidos de boro; ácidos bóricos. : :
+:2810.00.10:Oxidos de boro : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2810.00.2 :Acidos bóricos: : :
+:2810.00.29:Los demás : :
+:----------: : 60 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 60,00-2004 80,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2833 :Sulfatos; alumbres; peroxosulfatos (persulfatos). : :
+:2833.2 :Los demás sulfatos: : :
+:2833.25.00:De cobre : :
+:----------: : 50 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:2833.25.00:(Cont.) : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3004 :Medicamentos (excepto los productos de las : :
+: :partidas Ns. 30.02, 30.05 ó 30.06) constituidos : :
+
+: :por productos mezclados o sin mezclar, preparados : :
+: :para usos terapéuticos o profilácticos, : :
+: :dosificados o acondicionados para la venta al por : :
+: :menor. : :
+:3004.50.00:Los demás medicamentos que contengan vitaminas u : :
+:----------:otros productos de la partida N. 29.36 : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3004.90.00:Los demás : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Sustitutos sintéticos del plasma humano :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 85 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Los demás :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:3004.90.00:(Cont.) : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3005 :Guatas, gasas, vendas y artículos análogos (por : :
+: :ejemplo: apósitos, esparadrapos, sinapismos), : :
+: :impregnados o recubiertos de sustancias : :
+: :farmacéuticas o acondicionados para la venta al : :
+: :por menor con fines médicos, quirúrgicos, : :
+: :odontológicos o veterinarios. : :
+:3005.90 :Los demás : :
+:3005.90.10:Algodón hidrófilo : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3005.90.90:Los demás : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3923 :Artículos para el transporte o envasado, de : :
+: :plástico; tapones, tapas, cápsulas y demás : :
+: :dispositivos de cierre, de plástico. : :
+:3923.2 :Sacos (bolsas), bolsitas y cucuruchos: : :
+:3923.21.00:De polímeros de etileno : :
+:----------: : 30 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:3923.21.00:(Cont.) : :
+: : : Bolsas de polietileno :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3923.50.00:Tapones, tapas, cápsulas y demás dispositivos de : :
+:----------:cierre : :
+: : : 85 :
+: : : Preferencia otorgada por Argentina :
+: : : :
+: : : PROGRAMA DE LIBERACION- valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 50 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-2001 50,00-2002 50,00-2003 :
+: : : 50,00-2004 50,00-2005 50,00-2006 :
+: : : 50,00-2007 50,00-2008 60,00-2009 :
+: : : 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3923.90.00:Los demás : :
+:----------: : 60 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 60,00-2004 80,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:3926 :Las demás manufacturas de plástico y manufacturas : :
+: :de las demás materias de las partidas Ns. 39.01 : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:3926 :(Cont.) : :
+: :a 39.14. : :
+:3926.90.00:Las demás : :
+:----------: : 50 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 30,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4202 :Baúles, maletas (valijas), maletines, incluidos : :
+: :los de aseo y los portadocumentos, portafolios : :
+: :(carteras de mano), cartapacios, fundas y estuches: :
+: :para gafas (anteojos), binoculares, cámaras : :
+: :fotográficas o cinematográficas, instrumentos : :
+: :musicales o armas y continentes similares; sacos : :
+: :de viaje, bolsas de aseo, mochilas, bolsos de : :
+: :mano (carteras), bolsas para la compra, : :
+: :billeteras, portamonedas, portamapas, petacas, : :
+: :pitilleras y bolsas para tabaco, bolsas para : :
+: :herramientas y para artículos de deporte, : :
+: :estuches para frascos y botellas, estuches para : :
+: :joyas, polveras, estuches para orfebrería y : :
+: :continentes similares, de cuero natural o : :
+: :regenerado, hojas de plástico, materia textil, : :
+: :fibra vulcanizada o cartón, o recubiertos : :
+: :totalmente o en su mayor parte con estas materias : :
+: :o papel. : :
+:4202.2 :Bolsos de mano (carteras), incluso con bandolera : :
+: :o sin asas: : :
+:4202.21.00:Con la superficie exterior de cuero natural, : :
+:----------:cuero regenerado o cuero charolado : :
+: : : 94 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 80,00-1997 82,00-1998 84,00-1999 :
+: : : 86,00-2000 88,00-2001 90,00-2002 :
+: : : 92,00-2003 94,00-2004 96,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4202.3 :Artículos de bolsillo o de bolsos de mano : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:4202.3 :(Cont.) : :
+: :(carteras): : :
+:4202.31.00:Con la superficie exterior de cuero natural, : :
+:----------:cuero regenerado o cuero charolado : :
+: : : 94 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 80,00-1997 82,00-1998 84,00-1999 :
+: : : 86,00-2000 88,00-2001 90,00-2002 :
+: : : 92,00-2003 94,00-2004 96,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4202.32.00:Con la superficie exterior de hojas de plástico o : :
+:----------:materia textil : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4202.9 :Los demás: : :
+:4202.91.00:Con la superficie exterior de cuero natural, : :
+:----------:cuero regenerado o cuero charolado : :
+: : : 85 :
+: : : Preferencia otorgada por Argentina :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 60 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Bolsas y carteras :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-2001 50,00-2002 50,00-2003 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:4202.91.00:(Cont.) : :
+: : : 60,00-2004 80,00-2005 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 60 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Los demás :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-2001 30,00-2002 40,00-2003 :
+: : : 60,00-2004 80,00-2005 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4202.99.00:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:4409 :Madera (incluidas las tablillas y frisos para : :
+: :parqués, sin ensamblar) perfilada : :
+: :longitudinalmente (con lengüetas, ranuras, : :
+: :rebajes, acanalados, biselados, con juntas en v, : :
+: :moldurados, redondeados o similares) en una o : :
+: :varias caras o cantos, incluso cepillada, lijada : :
+: :o unida por entalladuras múltiples. : :
+:4409.20 :Distinta de la de coníferas : :
+:4409.20.90:Las demás : :
+:----------: : 50 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:5101 :Lana sin cardar ni peinar. : :
+:5101.1 :Lana sucia, incluida la lavada en vivo: : :
+:5101.19.00:Las demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Fibras de diámetro superior a 23 micras :
+: : : (micrones) e inferior a 34 micras (mi- :
+: : : crones) :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:5105 :Lana y pelo fino u ordinario, cardados o peinados : :
+: :(incluida la "lana peinada a granel"). : :
+:5105.2 :Lana peinada: : :
+:5105.29 :Las demás : :
+:5105.29.10:"Tops" : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:5105.30 :Pelo fino cardado o peinado : :
+:5105.30.10:"Tops" : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Excepto de alpaca o de llama :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:5208 :Tejidos de algodón con un contenido de algodón : :
+: :superior o igual al 85% en peso, de peso : :
+: :inferior o igual a 200 g/m2. : :
+:5208.2 :Blanqueados: : :
+:5208.21.00:De ligamento tafetán, de peso inferior o igual : :
+:----------:a 100 g/m2 : :
+: : : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6102 :Abrigos, chaquetones, capas, anoraks, cazadoras y : :
+: :artículos similares, de punto, para mujeres o : :
+: :niñas, excepto los artículos de la partida N. : :
+: :61.04. : :
+:6102.10.00:De lana o pelo fino : :
+:----------: : 30 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Abrigos, chompas y ponchos (ruanas), de :
+: : : lana o de pelo fino de alpaca o de :
+: : : llama, de punto no elástico y sin :
+: : : cauchutar :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6104 :Trajes sastre, conjuntos, chaquetas (sacos), : :
+: :vestidos, faldas, faldas pantalón, pantalones : :
+: :largos, pantalones con peto, pantalones cortos : :
+: :(calzones) y "shorts" (excepto de baño), de : :
+: :punto, para mujeres o niñas. : :
+:6104.4 :Vestidos: : :
+:6104.41.00:De lana o pelo fino : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6104.41.00:(Cont.) : :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6106 :Camisas, blusas y blusas camiseras, de punto, : :
+: :para mujeres o niñas. : :
+:6106.10.00:De algodón : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 60 :
+: : : Preferencia otorgada por Argentina :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-2001 50,00-2002 50,00-2003 :
+: : : 60,00-2004 80,00-2005 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6110 :Suéteres (jerseys), "pullovers", cardigans, : :
+: :chalecos y artículos similares de punto. : :
+:6110.10.00:De lana o pelo fino : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6110.20.00:De algodón : :
+:----------: : 88 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6110.20.00:(Cont.) : :
+: : : Preferencia otorgada por Paraguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 76,00-2001 80,00-2002 84,00-2003 :
+: : : 88,00-2004 92,00-2005 100,00-2006 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 85 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6110.30.00:De fibras sintéticas o artificiales : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6110.90.00:De las demás materias textiles : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6111 :Prendas y complementos (accesorios), de vestir, : :
+: :de punto, para bebés. : :
+:6111.10.00:De lana o pelo fino : :
+:----------: : 30 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6111.10.00:(Cont.) : :
+: : : -Guantes y similares, de punto no :
+: : : elástico y sin cauchutar; :
+: : : -Medias, escarpines, calcetines, :
+: : : salvamedias y artículos análogos, de :
+: : : punto no elástico y sin cauchutar, de :
+: : : lana; :
+: : : -Calzas (panties), de punto no elástico :
+: : : y sin cauchutar :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 30 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Ponchos (ruanas), chompas, sacos, :
+: : : sweaters y abrigos, de lana, de punto :
+: : : no elástico y sin cauchutar :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 30,00-1998 30,00-1999 :
+: : : 30,00-2000 30,00-2001 30,00-2002 :
+: : : 30,00-2003 30,00-2004 30,00-2005 :
+: : : 30,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6114 :Las demás prendas de vestir, de punto. : :
+:6114.10.00:De lana o pelo fino : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6205 :Camisas para hombres o niños. : :
+:6205.90.00:De las demás materias textiles : :
+:----------: : 85 :
+: : : Preferencia otorgada por Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-2001 75,00-2002 80,00-2003 :
+: : : 85,00-2004 90,00-2005 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6206 :Camisas, blusas y blusas camiseras, para mujeres : :
+: :o niñas. : :
+:6206.40.00:De fibras sintéticas o artificiales : :
+:----------: : 70 :
+: : : Preferencia otorgada por Argentina :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-2001 60,00-2002 70,00-2003 :
+: : : 80,00-2004 90,00-2005 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6206.90.00:De las demás materias textiles : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6207 :Camisetas interiores, calzoncillos (incluidos los : :
+: :largos y los "slips"), camisones, pijamas, : :
+: :albornoces de baño, batas de casa y artículos : :
+: :similares, para hombres o niños. : :
+:6207.1 :Calzoncillos (incluidos los largos y los "slips") : :
+:6207.11.00:De algodón : :
+:----------: : 85 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 55,00-1998 60,00-1999 :
+: : : 65,00-2000 70,00-2001 75,00-2002 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6207.11.00:(Cont.) : :
+: : : 80,00-2003 85,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6207.19 :De las demás materias textiles : :
+:6207.19.10:De fibras sintéticas : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6207.19.90:Los demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6214 :Chales, pañuelos de cuello, bufandas, mantillas, : :
+: :velos y artículos similares. : :
+:6214.20.00:De lana o pelo fino : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6908 :Placas y baldosas, de cerámica, barnizadas o : :
+: :esmaltadas, para pavimentacion o revestimiento; : :
+: :cubos, dados y artículos similares, de cerámica, : :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 2
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6908 :(Cont.) : :
+: :para mosaicos, barnizados o esmaltados, incluso : :
+: :con soporte. : :
+:6908.90.00:Los demás : :
+:----------: : 50 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 50,00-1997 50,00-1998 50,00-1999 :
+: : : 50,00-2000 50,00-2001 50,00-2002 :
+: : : 50,00-2003 50,00-2004 50,00-2005 :
+: : : 50,00-2006 50,00-2007 50,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:7104 :Piedras preciosas o semipreciosas, sintéticas o : :
+: :reconstituidas, incluso trabajadas o : :
+: :clasificadas, sin ensartar, montar ni engarzar; : :
+: :piedras preciosas o semipreciosas, sintéticas o : :
+: :reconstituidas, sin clasificar, ensartadas : :
+: :temporalmente para facilitar el transporte. : :
+:7104.90.00:Las demás : :
+:----------: : 80 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 30,00-1997 35,00-1998 40,00-1999 :
+: : : 45,00-2000 50,00-2001 60,00-2002 :
+: : : 70,00-2003 80,00-2004 90,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:9403 :Los demás muebles y sus partes. : :
+:9403.60.00:Los demás muebles de madera : :
+:----------: : 91 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 70,00-1997 73,00-1998 76,00-1999 :
+: : : 79,00-2000 82,00-2001 85,00-2002 :
+: : : 88,00-2003 91,00-2004 94,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:__________:__________________________________________________:____________________________________________________________________:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 4
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0201 :Carne de animales de la especie bovina, fresca o : :
+: :refrigerada. : :
+:0201.30.00:Deshuesada : :
+:----------: : 60 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 10,00-1997 10,00-1998 10,00-1999 :
+: : : 10,00-2000 10,00-2001 20,00-2002 :
+: : : 40,00-2003 60,00-2004 80,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1602 :Las demás preparaciones y conservas de carne, : :
+: :despojos o sangre. : :
+:1602.50.00:De la especie bovina : :
+:----------: : 60 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : - Carne curada y cocida ("corned beef") :
+: : : - Asado de novillo ("roast beef") :
+: : : - Pecho ("brisket beef") :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 10,00-1997 10,00-1998 10,00-1999 :
+: : : 10,00-2000 10,00-2001 20,00-2002 :
+: : : 40,00-2003 60,00-2004 80,00-2005 :
+: : : 100,00-2006 :
+: : : :
+:__________:__________________________________________________:____________________________________________________________________:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 5
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:3923 :Artículos para el transporte o envasado, de : :
+: :plástico; tapones, tapas, cápsulas y demás : :
+: :dispositivos de cierre, de plástico. : :
+:3923.2 :Sacos (bolsas), bolsitas y cucuruchos: : :
+:3923.21.00:De polímeros de etileno : :
+:----------: : 0 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : Excepto bolsas de polietileno :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 0,00-1997 0,00-1998 0,00-1999 :
+: : : 0,00-2000 0,00-2001 0,00-2002 :
+: : : 0,00-2003 0,00-2004 10,00-2005 :
+: : : 20,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6102 :Abrigos, chaquetones, capas, anoraks, cazadoras y : :
+: :artículos similares, de punto, para mujeres o : :
+: :niñas, excepto los artículos de la partida N. : :
+: :61.04. : :
+:6102.10.00:De lana o pelo fino : :
+:----------: : 0 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : Excepto abrigos, chompas y ponchos :
+: : : (ruanas), de lana o de pelo fino de :
+: : : alpaca o de llama, de punto no elástico :
+: : : y sin cauchutar :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 0,00-1997 0,00-1998 0,00-1999 :
+: : : 0,00-2000 0,00-2001 0,00-2002 :
+: : : 0,00-2003 0,00-2004 10,00-2005 :
+: : : 20,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6105 :Camisas de punto para hombres o niños. : :
+:6105.20.00:De fibras sintéticas o artificiales : :
+:----------: : 0 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 5
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6105.20.00:(Cont.) : :
+: : : durante el año indicado :
+: : : 0,00-1997 0,00-1998 0,00-1999 :
+: : : 0,00-2000 0,00-2001 0,00-2002 :
+: : : 0,00-2003 0,00-2004 10,00-2005 :
+: : : 20,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6109 :"T-shirts" y camisetas interiores, de punto. : :
+:6109.90 :De las demás materias textiles : :
+:6109.90.20:De fibras sintéticas o artificiales : :
+:----------: : 0 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 0,00-1997 0,00-1998 0,00-1999 :
+: : : 0,00-2000 0,00-2001 0,00-2002 :
+: : : 0,00-2003 0,00-2004 10,00-2005 :
+: : : 20,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:6111 :Prendas y complementos (accesorios), de vestir, : :
+: :de punto, para bebés. : :
+:6111.10.00:De lana o pelo fino : :
+:----------: : 0 :
+: : : Preferencia otorgada por Argentina, :
+: : : Paraguay y Uruguay :
+: : : :
+: : : Excepto: :
+: : : -Guantes y similares, de punto no :
+: : : elástico y sin cauchutar; :
+: : : -Medias, escarpines, calcetines, :
+: : : salvamedias y artículos análogos, de :
+: : : punto no elástico y sin cauchutar; :
+: : : de lana; :
+: : : -Calzas, (panties), de punto no elástico :
+: : : y sin cauchutar; :
+: : : -Ponchos (ruanas), chompas, sacos, :
+: : : sweaters y abrigos, de lana, de punto :
+: : : no elástico y sin cauchutar :
+: : : :
+: : : :
+: : : PROGRAMA DE LIBERACION- Valor(P) vigente :
+: : : durante el año indicado :
+: : : 0,00-1997 0,00-1998 0,00-1999 :
+: : : 0,00-2000 0,00-2001 0,00-2002 :
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 5
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:6111.10.00:(Cont.) : :
+: : : 0,00-2003 0,00-2004 10,00-2005 :
+: : : 20,00-2006 30,00-2007 40,00-2008 :
+: : : 60,00-2009 80,00-2010 100,00-2011 :
+: : : :
+:__________:__________________________________________________:____________________________________________________________________:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 7
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+:0405 :Mantequilla (manteca)* y demás materias grasas de : :
+: :la leche; pastas lácteas para untar. : :
+:0405.10.00:Mantequilla (manteca)* : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Fresca, salada o fundida :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:0804 :Dátiles, higos, piñas (ananás), paltas : :
+: :(aguacates)*, guayabas, mangos y mangostanes, : :
+: :frescos o secos. : :
+:0804.30.00:Piñas (ananás) : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Frescos :
+: : : :
+: : : **************************************** :
+: : : Para este producto Paraguay no aplica lo :
+: : : dispuesto en el primer párrafo del :
+: : : Artículo 4 del Acuerdo :
+: : : **************************************** :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1008 :Alforfón, mijo y alpiste; los demás cereales. : :
+:1008.90.00:Los demás cereales : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Quinua (ghenopodaceas) :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:1902 :Pastas alimenticias, incluso cocidas o rellenas : :
+: :(de carne u otras sustancias) o preparadas : :
+: :de otra forma, tales como espaguetis, fideos, : :
+: :macarrones, tallarines, lasañas, ñoquis, : :
+: :ravioles, canelones; cuscús, incluso : :
+: :preparado. : :
+:1902.1 :Pastas alimenticias sin cocer, rellenar ni : :
+: :preparar de otra forma: : :
+:1902.11.00:Que contengan huevo : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Pastas para sopa, masas alimenticias :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 7
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+
+:1902.19.00:Las demás : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : De quinua :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2501 :Sal (incluidas la de mesa y la desnaturalizada) y : :
+: :cloruro de sodio puro, incluso en disolución : :
+: :acuosa o con adición de antiaglomerantes o de : :
+: :agentes que garanticen una buena fluidez; agua : :
+: :de mar. : :
+:2501.00.10:Sal (incluidas la de mesa y la desnaturalizada) : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : - Sal gema :
+: : : - Sal de mesa :
+: : : - Sal común :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2501.00.90:Los demás : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Cloruro de sodio con mínimo de 99,5% de :
+: : : pureza :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2711 :Gas de petróleo y demás hidrocarburos gaseosos. : :
+:2711.1 :Licuados: : :
+:2711.12.00:Propano : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Mezcla de butano y propano :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+
+PREFERENCIAS OTORGADAS POR MERCOSUR - AJUSTES AL ANEXO 7
+__________________________________________________________________________________________________________________________________
+: : :------- REGIMEN DEL ACUERDO ------- :
+: : D E S C R I P C I O N : Pref. Grav. :
+: NALADI/ : : Porc. Resi. :
+: /SA : : --- O B S E R V A C I O N --- :
+:__________:__________________________________________________:____________________________________________________________________:
+
+:2711.13.00:Butanos : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Mezcla de butano y propano :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:2802 :Azufre sublimado o precipitado; azufre coloidal. : :
+:2802.00.00:Azufre sublimado o precipitado; azufre coloidal. : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay :
+: : : y Uruguay :
+: : : :
+: : : Azufre coloidal :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:5101 :Lana sin cardar ni peinar. : :
+:5101.1 :Lana sucia, incluida la lavada en vivo: : :
+:5101.19.00:Las demás : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Fibras de diámetro inferior o igual a 23 :
+: : : micras (micrones) :
+: : : :
+: :--------------------------------------------------:--------------------------------------------------------------------:
+: : : 100 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : Fibras de diámetro superior o igual a 34 :
+: : : micras (micrones) :
+: : : :
+:----------:--------------------------------------------------:--------------------------------------------------------------------:
+:5105 :Lana y pelo fino u ordinario, cardados o peinados : :
+: :(incluida la "lana peinada a granel"). : :
+:5105.30 :Pelo fino cardado o peinado : :
+:5105.30.10:"Tops" : :
+:----------: : 100 :
+: : : Preferencia otorgada por Paraguay y :
+: : : Uruguay :
+: : : :
+: : : De alpaca o de llama :
+: : : :
+:__________:__________________________________________________:____________________________________________________________________:
