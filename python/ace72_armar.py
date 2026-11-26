@@ -21,7 +21,9 @@ import ace72_tablas_pdf as tpdf  # noqa: E402
 RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "docs" / "ace72"
 EXTRAS = [("decreto_py_1113_2019", "Paraguay, Decreto N° 1113/2019: incorpora el ACE 72 al ordenamiento jurídico nacional",
-           "Normas de Paraguay", "2019-01-14")]
+           "Normas de Paraguay", "2019-01-14", "4"),
+          ("guia_brasil_siscomex", "Brasil (Siscomex): página del ACE 72, resumen del Acuerdo y de sus protocolos (en portugués)",
+           "Guías de otros países", "2022-08-02", "6")]
 TABLAS = ("anexo_2_ap", "anexo_4_ap_2", "anexo_4_ap_3", "protocolo_1_lista", "anexo_3", "anexo_4_ap_1")
 
 
@@ -58,10 +60,10 @@ def main(entrada, carpeta_pdf):
         textos.append({"id": r.ID, "titulo": r.TITULO, "grupo": r.GRUPO, "fecha": r.FECHA, "paginas": r.PAGINAS,
                        "tabla": r.ID.startswith(TABLAS), "texto": t})
     # Documentos que no vienen del lote reunido (por ejemplo, la norma paraguaya de incorporación)
-    for id_, titulo, grupo, fecha in EXTRAS:
+    for id_, titulo, grupo, fecha, pags in EXTRAS:
         t = (Path(__file__).resolve().parent / "ace72_extra" / f"{id_}.txt").read_text(encoding="utf-8")
         (SALIDA / "textos" / f"{id_}.txt").write_text(t, encoding="utf-8")
-        textos.append({"id": id_, "titulo": titulo, "grupo": grupo, "fecha": fecha, "paginas": "4", "tabla": False, "texto": t})
+        textos.append({"id": id_, "titulo": titulo, "grupo": grupo, "fecha": fecha, "paginas": pags, "tabla": False, "texto": t})
     # Para el buscador de la página van los textos corridos; las listas de productos se buscan en la tabla
     (SALIDA / "textos.json").write_text(json.dumps([t for t in textos if not t["tabla"]], ensure_ascii=False),
                                         encoding="utf-8")
