@@ -191,7 +191,7 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 <ul class="titulos" id="titulos"></ul>
 
 <h2>Buscá en el texto</h2>
-<p class="chica">Busca en el Acuerdo, los anexos de texto corrido, los protocolos y los contingentes (no en las listas de productos, que se buscan arriba).</p>
+<p class="chica">Busca en el Acuerdo, los anexos de texto corrido, los protocolos, el decreto paraguayo y los contingentes (no en las listas de productos, que se buscan arriba).</p>
 <input type="search" id="q-txt" placeholder="Por ejemplo: acumulación, certificado de origen, salvaguardia, zona franca" aria-label="Buscar en los textos">
 <div id="r-txt" class="res"></div>
 
@@ -202,7 +202,7 @@ footer { margin-top:48px; padding:26px 0 48px; border-top:1px solid var(--line);
 <div class="card">
 <p>Se reunieron <b>155 archivos</b> sobre el ACE 72 (descargas de la ALADI, del SICE de la OEA, del Ministerio de Comercio de Colombia y copias escaneadas). Entre ellos había <b>12 copias exactas</b>, así que quedaron <b>143 archivos distintos</b>. De cada documento se eligió la versión de la <b>ALADI</b>, que es el depositario oficial; las otras versiones del mismo texto (39 archivos) figuran en el catálogo como copias. También se separaron 16 documentos del <b>ACE 59</b> (el acuerdo anterior del MERCOSUR con Colombia, Ecuador y Venezuela, de 2004), normas nacionales de Colombia, páginas web y datos de la OMC.</p>
 <p>Los textos se pasaron a texto plano con <code>pdftotext</code>; los 28 PDF que eran imágenes se leyeron con OCR (<code>tesseract</code>), pero ninguno de ellos es la versión elegida. Las listas de productos se leyeron de los PDF celda por celda (con <code>pdfplumber</code>), usando los recuadros de las tablas.</p>
-<p><b>Lo que falta:</b> el instrumento de denuncia del Apéndice 5.1 (Colombia, 30/09/2024), que la ALADI registra pero sin archivo, y el Decreto N° 1113/2019 con el que Paraguay incorporó el Acuerdo (notificado a la ALADI el 29/01/2019), que no está publicado en línea.</p>
+<p>El Decreto N° 1113/2019, con el que Paraguay incorporó el Acuerdo, se transcribió de la Gaceta Oficial N° 30 del 12 de febrero de 2019. <b>Lo que falta:</b> el instrumento de denuncia del Apéndice 5.1 (Colombia, 30/09/2024), que la ALADI registra pero sin archivo.</p>
 <p class="note">Catálogo de los 155 archivos, con su estado: <a href="ace72/catalogo.csv" download>CSV</a> · <a href="ace72/catalogo.xlsx" download>Excel</a>. Código en <a href="https://github.com/silvia-mov/textos-acuerdos-paraguay">GitHub</a>. Los PDF originales no se publican aquí: cada texto indica su fuente oficial.</p>
 </div>
 
@@ -274,7 +274,7 @@ fetch("ace72/estructura.json").then(r => r.json()).then(e => {
 let T = [], IDX = [];
 Promise.all([fetch("ace72/textos.json").then(r => r.json()), fetch("ace72/indice.json").then(r => r.json())]).then(([t, idx]) => {
   T = t; IDX = idx;
-  const G = ["Acuerdo", "Rectificaciones y protocolos", "Contingentes"];
+  const G = ["Acuerdo", "Rectificaciones y protocolos", "Normas de Paraguay", "Contingentes"];
   document.getElementById("docs").innerHTML = G.map(g => { const ds = idx.filter(d => d.grupo === g);
     return `<details${g === "Acuerdo" ? " open" : ""}><summary>${g} (${ds.length})</summary><ul class="docs">` + ds.map(d =>
       `<li><a href="ace72/textos/${d.id}.txt">${esc(d.titulo)}</a><span class="m">${d.fecha ? esc(d.fecha) + " · " : ""}${d.paginas} pág.${d.tabla ? " · tabla" : ""}</span></li>`).join("") + "</ul></details>"; }).join("");
