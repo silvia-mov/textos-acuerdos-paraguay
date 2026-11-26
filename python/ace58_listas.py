@@ -64,7 +64,7 @@ def leer(carpeta, base, b):
             cr = " ".join(banda[(banda.left >= crono) & (banda.left < margen)].text)
             mg = re.findall(r"\d{1,3}", " ".join(banda[banda.left >= margen].text))
             filas.append({"NALADISA_96": c.text, "DESCRIPCION_OCR": desc, "CRONOGRAMA": categoria(cr, b),
-                          "MARGEN_INICIAL": mg[0] if mg and b == "B4" else "", "PAGINA": int(ruta.stem[-4:])})
+                          "MARGEN_INICIAL": mg[0] if mg and b == "B4" and categoria(cr, b) in ("D5", "D6") else "", "PAGINA": int(ruta.stem[-4:])})
     return pd.DataFrame(filas)
 
 

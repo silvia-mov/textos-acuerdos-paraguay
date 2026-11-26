@@ -107,7 +107,7 @@ def main(carpeta_pdf, ocr, tsv=None):
     print(len(cat), "documentos;", (cat.LECTURA == "OCR").sum(), "con OCR")
     if tsv:
         import ace58_listas
-        ace58_listas.main(tsv, SALIDA / "tablas")
+        ace58_listas.main(tsv, SALIDA / "tablas", ocr / "pag")
 
 
 if __name__ == "__main__":
