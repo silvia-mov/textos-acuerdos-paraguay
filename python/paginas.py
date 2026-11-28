@@ -202,6 +202,15 @@ ARANCELES_CHILE_BASE = """<h2>Qué tan protegido está el mercado de Chile</h2>
 
 ARANCELES_CHILE = ARANCELES_CHILE_BASE + "\n" + aranceles.competidores("chile", "Chile")
 
+
+def dw(cid, titulo, alto=480, nota=""):
+    """Gráfico de Datawrapper: interactivo, con alto automático y modo oscuro sincronizado (tema.js)."""
+    pie = f'<p class="note">{nota}</p>' if nota else ""
+    return (f'<div class="card"><iframe class="dw-embed" data-dw="https://datawrapper.dwcdn.net/{cid}/" title="{titulo} (gráfico interactivo)" '
+            f'aria-label="Gráfico interactivo" src="https://datawrapper.dwcdn.net/{cid}/" scrolling="no" frameborder="0" '
+            f'style="width:0;min-width:100% !important;border:none;" height="{alto}" loading="lazy"></iframe>{pie}</div>')
+
+
 ACUERDOS = [
     dict(
         carpeta="ace35", uso=uso.seccion("CL", "Chile", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011. La caída de 2012 también aparece en el BCP "
@@ -254,7 +263,7 @@ window.PRODUCTOS = {archivo: "origen.json", columnas: ["Código", "Producto", "L
         como="<p>Se tomaron los 131 archivos que publica la <b>ALADI</b> para el ACE 35, sin copias repetidas. 88 tienen texto y se leyeron con <code>pdftotext</code>; 43 eran imágenes escaneadas (casi todo lo de 1996 a 1998: 2.942 páginas) y se leyeron con OCR (<code>tesseract</code>). Las tablas del Régimen de Origen se leyeron celda por celda (<code>pdfplumber</code>): los 805 requisitos del Apéndice 1 están numerados del 1 al 805 sin huecos.</p>"
              "<p>Se sumaron después el Anexo 9 y el Protocolo sobre Integración Física (escaneados, con OCR), las 72 fichas de la ALADI (que solo llegan hasta el Protocolo 60) y las páginas de la Aduana de Chile y del Ministerio de Relaciones Exteriores de Paraguay. Dos anexos del Protocolo 30 (Anexos II y V) dan error 404 en la ALADI; se usaron copias que ya estaban reunidas.</p><p>Siete documentos se tomaron del <b>SICE de la OEA</b>, que los publica como texto y no como imagen: el Anexo 4 (autopartes de Paraguay), las listas de Adecuación del Anexo 12 de los cuatro países, las notas complementarias de Paraguay y el Anexo 15, que no está en la ALADI (hay además una copia escaneada en portugués). Las listas del Anexo 10 se tomaron completas del SICE: lo que Chile dio a Paraguay (243 productos) y lo que Paraguay dio a Chile (95). La lectura anterior con OCR tenía productos de menos y márgenes equivocados.</p><p>De la página del ACE 35 en Siscomex (Brasil) se sumaron la ficha técnica y el manual del régimen de origen (en portugués), la Decisión N° 02/2024 de la Comisión Administradora del Acuerdo de Libre Comercio Brasil–Chile (escaneada, con OCR) y la planilla de preferencias en NALADISA 2012, que confirma que los 6.811 códigos tienen 100%.</p><p>El Anexo 15 Lista las normas del MERCOSUR sobre transporte vigentes en 1996; la Comisión Administradora debía identificar cuáles aplicar también con Chile (Artículo 38 del Acuerdo). Los textos base de los Protocolos 21, 31, 39, 52 y 53 tampoco, pero sí sus versiones rectificadas, que son las vigentes.</p>"),
     dict(
-        carpeta="ace58", aranceles=aranceles.seccion("peru", "Perú", "ace58", DOCS, "Perú tiene uno de los aranceles más bajos de la región: 2,3% de promedio, dos de cada tres productos entran libres para todos y ninguno paga más de 11%. Por eso la preferencia del ACE 58 le da a Paraguay poca ventaja frente a otros proveedores, salvo en prendas, calzado y textiles, donde Perú cobra 11%."), despues_uso=bilaterales("ace58_peru", "Perú", "ace58"), uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
+        carpeta="ace58", aranceles=aranceles.seccion("peru", "Perú", "ace58", DOCS, "Perú tiene uno de los aranceles más bajos de la región: 2,3% de promedio, dos de cada tres productos entran libres para todos y ninguno paga más de 11%. Por eso la preferencia del ACE 58 le da a Paraguay poca ventaja frente a otros proveedores, salvo en prendas, calzado y textiles, donde Perú cobra 11%."), despues_uso=bilaterales("ace58_peru", "Perú", "ace58") + "\n<h2>Cuánto tardó el libre comercio con Perú</h2>\n" + dw("qr1AB", "Desgravación del acuerdo con Perú", 520), uso=uso.seccion("PE", "Perú", 2011, texto_extra=" Los datos de la DNIT empiezan en 2011."), sigla="ALADI/AAP.CE/58", nombre="MERCOSUR–Perú", socio="Perú",
         titulo="ACE 58 MERCOSUR–Perú: texto completo y preferencias producto por producto para Paraguay",
         descripcion="El ACE 58 (MERCOSUR–Perú) ordenado y buscable: texto del Acuerdo, 10 anexos, 6 protocolos y un buscador "
                     "con el cronograma de desgravación de cada producto entre Paraguay y Perú.",
@@ -402,6 +411,11 @@ def portada():
 <main class="wrap">
 <h2>Los acuerdos</h2>
 <div class="acuerdos">{cards}</div>
+<h2>Cuánto vale de verdad cada acuerdo</h2>
+<p>Una preferencia solo le da ventaja a Paraguay si el socio cobra arancel a los demás países, y llega de a poco, según el cronograma de cada acuerdo.</p>
+{dw("6bAo8", "Ventaja real del acuerdo por socio", 420)}
+{dw("qr1AB", "Desgravación del acuerdo con Perú", 520)}
+<p class="note">Más gráficos en <a href="https://silvia-mov.github.io/graficos/">El comercio exterior de Paraguay en gráficos</a>.</p>
 <h2>Cómo se arma cada acuerdo</h2>
 <div class="card"><p>Se reúnen los archivos oficiales de la <b>ALADI</b> (el depositario de los acuerdos), se quitan las copias repetidas y se pasan a texto: con <code>pdftotext</code> los que tienen texto y con OCR (<code>tesseract</code>) los escaneados. Las listas de productos se leen como tablas cuando hace falta para Paraguay. Los PDF originales no se publican aquí; cada página indica la fuente.</p>
 <p class="note">Código en <a href="https://github.com/silvia-mov/textos-acuerdos-paraguay">GitHub</a>. Datos de comercio y uso de los acuerdos: <a href="https://silvia-mov.github.io/comercio-exterior-paraguay-acuerdos/">Comercio exterior de Paraguay y acuerdos comerciales</a>.</p></div>

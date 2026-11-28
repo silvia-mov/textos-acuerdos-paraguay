@@ -27,3 +27,22 @@
   });
   document.body.appendChild(b);
 })();
+
+/* Datawrapper: alto automático y modo claro/oscuro sincronizado con el botón de la página */
+(function () {
+  window.addEventListener("message", function (e) {
+    var h = e.data && e.data["datawrapper-height"]; if (!h) return;
+    document.querySelectorAll("iframe.dw-embed").forEach(function (f) { if (f.contentWindow === e.source) for (var k in h) f.style.height = h[k] + "px"; });
+  });
+  var mq = window.matchMedia("(prefers-color-scheme: dark)");
+  function oscuro() { var t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : mq.matches; }
+  function aplicar() {
+    var d = oscuro();
+    document.querySelectorAll("iframe.dw-embed").forEach(function (f) {
+      var u = f.getAttribute("data-dw") + "?dark=" + d; if (f.getAttribute("src") !== u) f.setAttribute("src", u);
+    });
+  }
+  new MutationObserver(aplicar).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  if (mq.addEventListener) mq.addEventListener("change", aplicar);
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", aplicar); else aplicar();
+})();

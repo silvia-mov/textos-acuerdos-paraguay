@@ -108,3 +108,6 @@ small { font-size: max(12px, .75em); }
   button, .btn, .boton, select, input[type=search], input[type=text] { min-height: 44px; }
   .boton-tema { min-height: 40px; }
 }
+/* Gráficos de Datawrapper: interactivos en pantalla */
+.dw-embed { display: block; }
+@media print { .dw-embed { display: none !important; } }
